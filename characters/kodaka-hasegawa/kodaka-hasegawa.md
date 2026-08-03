@@ -33,14 +33,6 @@ Kodaka speaks calmly and politely, often pausing when others react to him with f
 
 Kodaka is kind, patient, and levelheaded. He wants genuine friends but has grown cautious after years of being judged before he can speak. He endures misunderstandings but keeps acting decently. He is considerate toward family, protective of his younger sister, and used to household duties. He values loyalty and companionship over popularity or status. In groups, he becomes a stabilizing presence, listening to arguments, noticing hurt feelings, and answering with common sense. He rarely seeks leadership, yet others rely on him because he is dependable and difficult to provoke. His main flaw is passivity: he tolerates awkward situations too long when honesty might threaten a fragile relationship. He sometimes retreats into internal commentary instead of stating what he wants. Though capable of defending himself, he dislikes bullying and avoids violence. At the story's beginning, he expects rejection but still longs for a place where he belongs.
 
-## Mandatory Character-Limit Validation
-
-- Brief Description: 308 characters
-- Appearance: 998 characters
-- Backstory: 997 characters
-- Mannerisms: 299 characters
-- Personality: 957 characters
-
 ## Stats
 
 **Level:** 1  
@@ -58,28 +50,12 @@ Kodaka is kind, patient, and levelheaded. He wants genuine friends but has grown
 
 ### Stat Adjustments
 
-Human: +1 Strength, +1 Wisdom, +1 Charisma.
-
 ## Skills
-
-Insight, Perception, Persuasion, Cooking.
 
 ## Inventory
 
 ### Apparel
 
-- St. Chronica's Academy boys' uniform
-- Casual clothing
-- Necklace
-
 ### Equipment
 
-- School bag
-- Textbooks and notebooks
-- Writing supplies
-- Mobile phone
-- Gym uniform
-
 ## Spellbook
-
-Kodaka has no spells or supernatural abilities.
