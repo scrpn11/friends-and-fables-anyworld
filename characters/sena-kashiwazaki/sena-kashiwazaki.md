@@ -6,10 +6,10 @@
 **Race:** Human  
 **Class:** Incarnation  
 **Alignment:** Chaotic Good  
-**Faction:** Neighbors Club; St. Chronica's Academy  
-**Subclass:** None  
-**Voice:** Bright, confident, expressive, and quick to rise when challenged  
-**Location:** St. Chronica's Academy  
+**Faction:**  
+**Subclass:**  
+**Voice:**   
+**Location:**   
 
 ### Brief Description
 
@@ -35,12 +35,6 @@ Sena is proud, competitive, talented, and emotionally transparent. She expects r
 
 ## Mandatory Character-Limit Validation
 
-- Brief Description: 309 characters
-- Appearance: 999 characters
-- Backstory: 989 characters
-- Mannerisms: 296 characters
-- Personality: 979 characters
-
 ## Stats
 
 **Level:** 1  
@@ -58,28 +52,12 @@ Sena is proud, competitive, talented, and emotionally transparent. She expects r
 
 ### Stat Adjustments
 
-Incarnation: +1 Dexterity, +1 Intelligence, +1 Charisma.
-
 ## Skills
-
-Athletics, Persuasion, Performance, Investigation.
 
 ## Inventory
 
 ### Apparel
 
-- St. Chronica's Academy girls' uniform
-- Casual clothing
-- Butterfly hair clip
-
 ### Equipment
 
-- School bag
-- Textbooks and notebooks
-- Writing supplies
-- Mobile phone
-- Handheld game system
-
 ## Spellbook
-
-Sena has no spells or supernatural abilities.

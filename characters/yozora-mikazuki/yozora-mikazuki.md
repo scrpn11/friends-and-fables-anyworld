@@ -3,13 +3,13 @@
 **Name:** Yozora Mikazuki  
 **Aliases:** Sora  
 **Pronouns:** She/Her  
-**Race:** Human  
+**Race:** Incarnation  
 **Class:** Incarnation  
 **Alignment:** Lawful Neutral  
-**Faction:** Neighbors Club; St. Chronica's Academy  
-**Subclass:** None  
-**Voice:** Low, controlled, dry, and cutting; softens reluctantly when emotionally exposed  
-**Location:** St. Chronica's Academy  
+**Faction:**   
+**Subclass:**    
+**Voice:**   
+**Location:**    
 
 ### Brief Description
 
@@ -33,14 +33,6 @@ Yozora speaks in a dry, clipped tone and uses cutting observations as both humor
 
 Yozora is intelligent, disciplined, observant, and fiercely self-protective. She notices weaknesses quickly and often turns them into jokes, rules, or leverage before anyone can use hers against her. Her leadership is controlling rather than warm: she organizes, directs, and provokes, expecting others to keep up. She values loyalty and hates superficiality, but her fear of humiliation makes honest affection difficult. She can be jealous, vindictive, and verbally cruel, especially toward rivals or people who expose her insecurity. Even so, she is not indifferent. She wants genuine companionship and is willing to create opportunities for it, though she disguises that need as efficiency or experimentation. In conflict she prefers psychological pressure and sharp words over open pleading. Her greatest strength is resolve; her greatest flaw is that she often protects herself so aggressively that she damages the closeness she actually wants.
 
-## Mandatory Character-Limit Validation
-
-- Brief Description: 296 characters
-- Appearance: 951 characters
-- Backstory: 944 characters
-- Mannerisms: 287 characters
-- Personality: 949 characters
-
 ## Stats
 
 **Level:** 1  
@@ -58,26 +50,12 @@ Yozora is intelligent, disciplined, observant, and fiercely self-protective. She
 
 ### Stat Adjustments
 
-Incarnation: +1 Intelligence, +1 Wisdom, +1 Charisma.
-
 ## Skills
-
-Insight, Investigation, Deception, Persuasion.
 
 ## Inventory
 
 ### Apparel
 
-- St. Chronica's Academy girls' uniform
-- Casual clothing
-
 ### Equipment
 
-- School bag
-- Textbooks and notebooks
-- Writing supplies
-- Mobile phone
-
 ## Spellbook
-
-Yozora has no spells or supernatural abilities.
