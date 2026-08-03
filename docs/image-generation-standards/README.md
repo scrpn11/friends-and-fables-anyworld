@@ -1,10 +1,10 @@
 # Image Generation Standards
 
-These files define Kato's repository-only image standards. They should not be imported into Friends & Fables as lore.
+These repository-only standards govern images created for Anyworld. They are not Friends & Fables lore and should not be imported as world content.
 
-Each category file contains a detailed copy-ready prompt template that uses the accompanying subject Markdown as the complete source of truth. In normal use, replace only the Markdown path or filename. Add an optional one-line override only when this specific image should intentionally differ from the written entry.
+Anyworld has no fixed visual style. Every image must match the currently chosen world's established medium and visual language. A reincarnation in an anime world should resemble that anime; a manga world should resemble its manga presentation; a game, comic, film, novel illustration, or original setting should follow the closest authoritative visual sources and the player's stated preference.
 
-Do not manually re-enter Description, Appearance, anatomy, clothing, equipment, materials, layout, lighting, or other details that already exist in the subject Markdown. The image-generation prompt must instruct the model to read the complete entry first and preserve it exactly.
+Before generating, read the subject Markdown, the [Global Standards](global-standards.md), and the relevant category standard. When the chosen world is established fiction, research current authoritative references before finalizing the prompt. Never invent visual details that contradict canon merely to make an image more dramatic.
 
 ## Standards
 
@@ -21,10 +21,11 @@ Do not manually re-enter Description, Appearance, anatomy, clothing, equipment, 
 
 When requirements conflict, follow this order:
 
-1. The user's explicit override for the current image.
-2. The subject's accompanying Markdown entry.
-3. An established reference image, interpreted according to the Markdown.
-4. The relevant category prompt template.
-5. The global standards.
+1. The player's explicit instructions for the current incarnation or image.
+2. Established canon for the selected world and point in its timeline.
+3. The subject Markdown and other approved repository entries.
+4. Authoritative visual references for the selected medium.
+5. The relevant category standard.
+6. The global standards.
 
-Do not silently change established identity, anatomy, scale, object shape, location layout, materials, or magical behavior.
+Do not silently change identity, anatomy, costume, scale, object shape, location layout, technology, materials, powers, or canonical visual conventions.
