@@ -4,12 +4,12 @@
 **Aliases:** Taka  
 **Pronouns:** He/Him  
 **Race:** Human  
-**Class:** Student  
+**Class:**   
 **Alignment:** Neutral Good  
-**Faction:** Neighbors Club; St. Chronica's Academy  
-**Subclass:** None  
-**Voice:** Low, calm, polite, and slightly guarded; becomes firmer when protecting someone  
-**Location:** St. Chronica's Academy  
+**Faction:**  
+**Subclass:**    
+**Voice:**    
+**Location:**  
 
 ### Brief Description
 
