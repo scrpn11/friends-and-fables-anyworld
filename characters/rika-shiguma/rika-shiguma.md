@@ -1,15 +1,15 @@
 # Character Sheet
 
 **Name:** Rika Shiguma  
-**Aliases:** None  
+**Aliases:**  
 **Pronouns:** She/Her  
 **Race:** Human  
 **Class:** Incarnation  
 **Alignment:** Chaotic Neutral  
-**Faction:** Neighbors Club; St. Chronica's Academy  
-**Subclass:** None  
-**Voice:** Precise, playful, provocative, and theatrically analytical  
-**Location:** St. Chronica's Academy  
+**Faction:**  
+**Subclass:**  
+**Voice:**  
+**Location:**  
 
 ### Brief Description
 
@@ -33,14 +33,6 @@ Rika adjusts her glasses when making a point, leans forward when teasing, and sh
 
 Rika is brilliant, curious, provocative, and socially perceptive. She enjoys unsettling others with sexual jokes, often pushing a conversation farther simply to observe the reaction. Her shameless persona gives her control and makes it difficult for others to tell when she is sincere. Beneath it, she is attentive to emotional dynamics and more vulnerable than she first appears. She values intellectual freedom, novelty, and people who will not reject her immediately for being strange. In practical situations she can be analytical and highly competent, approaching problems as systems to understand and modify. In social conflict she prefers teasing, reframing, or strategic withdrawal rather than direct emotional exposure. She can become obsessive, insensitive, or manipulative when fascination overtakes judgment. Her greatest strength is inventive intelligence joined to sharp observation; her greatest flaw is using performance and provocation to avoid intimacy.
 
-## Mandatory Character-Limit Validation
-
-- Brief Description: 321 characters
-- Appearance: 969 characters
-- Backstory: 985 characters
-- Mannerisms: 300 characters
-- Personality: 970 characters
-
 ## Stats
 
 **Level:** 1  
@@ -58,28 +50,12 @@ Rika is brilliant, curious, provocative, and socially perceptive. She enjoys uns
 
 ### Stat Adjustments
 
-Incarnation: +1 Intelligence, +1 Wisdom, +1 Charisma.
-
 ## Skills
-
-Investigation, Arcana, Insight, Persuasion.
 
 ## Inventory
 
 ### Apparel
 
-- St. Chronica's Academy girls' uniform
-- Casual clothing
-- Glasses
-
 ### Equipment
 
-- School bag
-- Laboratory tools
-- Textbooks and notebooks
-- Writing supplies
-- Mobile phone
-
 ## Spellbook
-
-Rika has no spells or supernatural abilities.
