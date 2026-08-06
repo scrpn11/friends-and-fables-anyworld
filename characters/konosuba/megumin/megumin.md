@@ -33,14 +33,6 @@ Megumin announces herself and her magic with elaborate speeches, dramatic poses,
 
 Megumin is intelligent, imaginative, proud, and unwaveringly devoted to Explosion magic. She values beauty, impact, dramatic timing, and personal conviction more than efficiency or conventional advancement. Her stubbornness borders on self-sabotage: she knowingly rejects useful spells and accepts daily helplessness because compromise would betray the ideal she built her life around. She enjoys attention and performs confidence, yet she is sensitive to ridicule and fears being dismissed as useless. With friends she is playful, competitive, and increasingly affectionate, though she often disguises tenderness as rivalry or teasing. She can be reckless when a magnificent target appears, but she is not careless about people and will endure discomfort to protect those she loves. In conflict she prefers one overwhelming solution and trusts her companions to create the opening. Her strengths are focus, courage, magical talent, and emotional sincerity; her flaws are obsession, vanity, inflexibility, and poor restraint. In play she pushes toward bold spectacle while remaining deeply loyal.
 
-## Mandatory Character-Limit Validation
-
-- Brief Description: 315 characters
-- Appearance: 978 characters
-- Backstory: 965 characters
-- Mannerisms: 237 characters
-- Personality: 976 characters
-
 ## Stats
 
 **Level:** 1  
