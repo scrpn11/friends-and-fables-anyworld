@@ -3,8 +3,8 @@
 **Name:** Megumin  
 **Aliases:**  
 **Pronouns:** She/Her  
-**Race:** Crimson Demon  
-**Class:** Archwizard  
+**Race:** Incarnation  
+**Class:** Incarnation  
 **Alignment:** Chaotic Good  
 **Faction:**  
 **Subclass:**  
@@ -58,29 +58,14 @@ Megumin is intelligent, imaginative, proud, and unwaveringly devoted to Explosio
 
 ### Stat Adjustments
 
-Incarnation: +1 Intelligence, +1 Wisdom, +1 Charisma.
-
 ## Skills
-
-Arcana, Intimidation, Performance, Investigation.
 
 ## Inventory
 
 ### Weapons
 
-- Staff
-
 ### Apparel
-
-- Archwizard robes
-- Pointed hat
-- Eyepatch
 
 ### Equipment
 
-- Adventurer card
-- Coin pouch
-
 ## Spellbook
-
-Explosion.

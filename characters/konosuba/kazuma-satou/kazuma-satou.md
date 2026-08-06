@@ -3,8 +3,8 @@
 **Name:** Kazuma Satou  
 **Aliases:** Kazutrash; Scumzuma  
 **Pronouns:** He/Him  
-**Race:** Human  
-**Class:** Adventurer  
+**Race:** Incarnation  
+**Class:** Incarnation  
 **Alignment:** Chaotic Good  
 **Faction:**  
 **Subclass:**  
@@ -15,7 +15,7 @@
 
 Kazuma Satou is a sharp-witted reincarnated adventurer in Axel whose exceptional luck, practical instincts, and shameless opportunism compensate for modest raw ability. Burdened with an absurdly dysfunctional party, he seeks comfort, money, and an easy life while repeatedly being dragged into dangerous heroics.
 
-**Character Type:** Non-Playable
+**Character Type:** Playable
 
 ### Appearance
 
@@ -23,7 +23,7 @@ Kazuma is a teenage Japanese boy of average height with a lean, lightly built fr
 
 ### Backstory
 
-Kazuma lived in Japan as a reclusive, game-obsessed teenager before dying after mistaking a slow-moving farm vehicle for an oncoming truck while trying to save a classmate. In the afterlife he met Aqua, who mocked the circumstances of his death and offered reincarnation in a fantasy world with one chosen advantage. Irritated by her attitude, Kazuma selected Aqua herself and arrived with her in the Kingdom of Belzerg. They settled in Axel, registered as adventurers, and discovered that survival required exhausting labor, debt management, and dangerous quests. Kazuma later recruited Megumin, an archwizard devoted only to Explosion magic, and Darkness, a crusader unable to hit ordinary targets. Although he complains constantly about their incompetence, he repeatedly uses strategy, luck, and borrowed skills to rescue them and protect Axel. At the campaign's opening, he wants financial security and leisure but has become the reluctant center of a party capable of attracting disasters and defeating threats far beyond its apparent.
+Kazuma Satou was an ordinary Japanese teenager whose secluded lifestyle revolved around games and manga until an embarrassing accident ended his life. In the afterlife he met the goddess Aqua, who offered reincarnation in a fantasy world with the opportunity to choose a single powerful item or companion. Annoyed by her mockery, Kazuma selected Aqua herself, forcing her to accompany him. The two arrived in Axel nearly penniless and quickly discovered that adventuring was far less glamorous than expected. Through difficult quests they recruited Megumin and Darkness, forming an eccentric party whose constant disasters gradually earned them both notoriety and genuine bonds of friendship despite their frequent failures.
 
 ### Mannerisms
 
@@ -32,14 +32,6 @@ Kazuma mutters dry commentary, raises his voice when exasperated, and often poin
 ### Personality
 
 Kazuma is pragmatic, observant, resourceful, and far less noble than a conventional hero, though not nearly as heartless as he pretends. He values comfort, money, fairness, and self-preservation, and he resents being expected to suffer simply because someone labels a task heroic. He lies, bargains, steals, and exploits technicalities when convenient, but usually stops short of genuine cruelty. His greatest talent is reading situations and combining weak abilities into effective plans. In groups he complains about leadership while naturally becoming the strategist, assigning roles and making difficult decisions under pressure. He is vindictive toward people who humiliate him, competitive when challenged, and shameless about exposing double standards. Yet he is loyal to his companions, repeatedly risks himself for them, and can show surprising empathy toward outsiders. His flaws include laziness, pettiness, opportunism, and a tendency to hide concern behind insults.
-
-## Mandatory Character-Limit Validation
-
-- Brief Description: 312 characters
-- Appearance: 947 characters
-- Backstory: 990 characters
-- Mannerisms: 215 characters
-- Personality: 978 characters
 
 ## Stats
 
@@ -58,29 +50,14 @@ Kazuma is pragmatic, observant, resourceful, and far less noble than a conventio
 
 ### Stat Adjustments
 
-Incarnation: +1 Dexterity, +1 Intelligence, +1 Charisma.
-
 ## Skills
-
-Deception, Insight, Investigation, Sleight of Hand, Stealth, Survival.
 
 ## Inventory
 
 ### Weapons
 
-- Short sword
-- Bow
-
 ### Armor
-
-- Light adventuring armor
 
 ### Equipment
 
-- Adventurer card
-- Coin pouch
-- Basic travel supplies
-
 ## Spellbook
-
-Create Water, Freeze, Tinder, Drain Touch, Steal, Enemy Detection, Lurk, Detect Trap, Disarm Trap, Bind, Snipe.
