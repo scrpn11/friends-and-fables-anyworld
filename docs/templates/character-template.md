@@ -11,6 +11,8 @@
 **Voice:**  
 **Location:**  
 
+For Anyworld character sheets, always leave **Faction**, **Subclass**, **Voice**, and **Location** blank. These details are selected or established only after the incarnation's world, continuity, timeline, and circumstances are chosen in play.
+
 ### Brief Description
 
 Write a concise overview of the character's identity, role, reputation, central motivation, and current circumstances in 250–350 characters without going over. Do not describe apparel, weapons, armor, or carried equipment.
