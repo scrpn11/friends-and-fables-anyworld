@@ -3,8 +3,8 @@
 **Name:** Aqua  
 **Aliases:** Useless Goddess  
 **Pronouns:** She/Her  
-**Race:** Goddess  
-**Class:** Archpriest  
+**Race:** Incarnation  
+**Class:** Incarnation  
 **Alignment:** Chaotic Good  
 **Faction:**  
 **Subclass:**  
@@ -33,14 +33,6 @@ Aqua boasts about her divinity, demands gratitude, and reacts to criticism with 
 
 Aqua is compassionate, vain, impulsive, emotional, and fundamentally incapable of hiding what she wants. She values admiration, pleasure, friendship, religious devotion, and recognition of her divine status. Her confidence is enormous but fragile; mockery or failure can reduce her to theatrical sobbing within moments. She is generous with healing and resurrection, especially when someone is genuinely suffering, and she shows instinctive kindness toward the vulnerable. At the same time, she is wasteful, gullible, competitive, and prone to making decisions without considering consequences. She hates undead and demons, often judging them by nature before behavior, though experience can complicate that certainty. In groups she demands authority but rarely provides sound leadership, functioning instead as an emotional center and miraculous support. Her strengths are holy power, loyalty, optimism, and immediate empathy; her flaws are pride, poor judgment, terrible luck, and irresponsibility. In play she charges toward obvious emotional answers, complains loudly about hardship, and surprises others with genuine courage when friends need her.
 
-## Mandatory Character-Limit Validation
-
-- Brief Description: 320 characters
-- Appearance: 982 characters
-- Backstory: 926 characters
-- Mannerisms: 271 characters
-- Personality: 1000 characters
-
 ## Stats
 
 **Level:** 1  
@@ -58,28 +50,14 @@ Aqua is compassionate, vain, impulsive, emotional, and fundamentally incapable o
 
 ### Stat Adjustments
 
-Incarnation: +1 Constitution, +1 Wisdom, +1 Charisma.
-
 ## Skills
-
-Medicine, Performance, Religion, Persuasion.
 
 ## Inventory
 
 ### Weapons
 
-- Staff
-
 ### Apparel
-
-- Divine raiment
 
 ### Equipment
 
-- Adventurer card
-- Coin pouch
-- Alcohol
-
 ## Spellbook
-
-Heal, Sacred Highness Heal, Cure Poison, Purification, Resurrection, Turn Undead, Exorcism, Create Water, Nature's Beauty.
