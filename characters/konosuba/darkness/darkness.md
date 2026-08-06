@@ -3,8 +3,8 @@
 **Name:** Darkness  
 **Aliases:** Lalatina Dustiness Ford  
 **Pronouns:** She/Her  
-**Race:** Human  
-**Class:** Crusader  
+**Race:** Incarnation  
+**Class:** Incarnation  
 **Alignment:** Lawful Good  
 **Faction:**  
 **Subclass:**  
@@ -33,14 +33,6 @@ Darkness speaks formally when composed, volunteers for the most dangerous role, 
 
 Darkness is honorable, protective, disciplined, and sincere in her desire to defend others. She values duty, courage, loyalty, personal freedom, and the welfare of common people, often placing herself in danger without hesitation. Her willingness to suffer is complicated by intense masochistic fantasies, causing her to interpret threats and humiliation with enthusiasm that unsettles allies and enemies alike. She is proud of her noble responsibilities but resents being treated as a political asset or sheltered daughter. In groups she naturally takes the front line and accepts blame, pain, or social embarrassment to spare companions. She can be stubborn, self-righteous, and impractical, particularly when a dangerous plan appeals to both her ideals and private desires. Her strengths are endurance, bravery, social influence, and steadfast loyalty; her flaws are poor accuracy, obsessive fantasies, inflexibility, and occasional recklessness. In play she advocates direct protection, confronts injustice, and eagerly accepts ordeals that sensible companions would avoid.
 
-## Mandatory Character-Limit Validation
-
-- Brief Description: 323 characters
-- Appearance: 974 characters
-- Backstory: 901 characters
-- Mannerisms: 221 characters
-- Personality: 949 characters
-
 ## Stats
 
 **Level:** 1  
@@ -58,28 +50,14 @@ Darkness is honorable, protective, disciplined, and sincere in her desire to def
 
 ### Stat Adjustments
 
-Incarnation: +1 Strength, +1 Constitution, +1 Charisma.
-
 ## Skills
-
-Athletics, Endurance, Intimidation, Persuasion.
 
 ## Inventory
 
 ### Weapons
 
-- Two-handed sword
-
 ### Armor
-
-- Heavy plate armor
 
 ### Equipment
 
-- Adventurer card
-- Noble signet
-- Coin pouch
-
 ## Spellbook
-
-Darkness has no spells. Her crusader training grants exceptional defense, resistance, and endurance, but her attacks are notoriously inaccurate.
