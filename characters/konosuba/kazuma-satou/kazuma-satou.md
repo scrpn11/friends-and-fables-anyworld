@@ -23,7 +23,7 @@ Kazuma is a teenage Japanese boy of average height with a lean, lightly built fr
 
 ### Backstory
 
-Kazuma lived in Japan as a reclusive, game-obsessed teenager before dying after mistaking a slow-moving farm vehicle for an oncoming truck while trying to save a classmate. In the afterlife he met Aqua, who mocked the circumstances of his death and offered reincarnation in a fantasy world with one chosen advantage. Irritated by her attitude, Kazuma selected Aqua herself and arrived with her in the Kingdom of Belzerg. They settled in Axel, registered as adventurers, and discovered that survival required exhausting labor, debt management, and dangerous quests. Kazuma later recruited Megumin, an archwizard devoted only to Explosion magic, and Darkness, a crusader unable to hit ordinary targets. Although he complains constantly about their incompetence, he repeatedly uses strategy, luck, and borrowed skills to rescue them and protect Axel. At the campaign's opening, he wants financial security and leisure but has become the reluctant center of a party capable of attracting disasters and defeating threats far beyond its apparent.
+Kazuma lived in Japan as a reclusive, game-obsessed teenager before dying after mistaking a slow-moving farm vehicle for an oncoming truck while trying to save a classmate. In the afterlife he met Aqua, who mocked his death and offered reincarnation in a fantasy world with one chosen advantage. Irritated, Kazuma selected Aqua herself and arrived with her in the Kingdom of Belzerg. They settled in Axel, registered as adventurers, and learned that survival meant exhausting labor, debt, and dangerous quests. Kazuma later recruited Megumin, an archwizard devoted to Explosion magic, and Darkness, a crusader whose attacks rarely connect. Though he complains about their incompetence, he repeatedly uses strategy, luck, and borrowed skills to rescue them, protect Axel, and survive threats beyond the party's apparent ability. At the campaign's opening, he wants money, comfort, and leisure, yet he has become the reluctant center of a group whose disasters keep turning into victories.
 
 ### Mannerisms
 
@@ -37,7 +37,7 @@ Kazuma is pragmatic, observant, resourceful, and far less noble than a conventio
 
 - Brief Description: 312 characters
 - Appearance: 947 characters
-- Backstory: 990 characters
+- Backstory: 987 characters
 - Mannerisms: 215 characters
 - Personality: 978 characters
 
