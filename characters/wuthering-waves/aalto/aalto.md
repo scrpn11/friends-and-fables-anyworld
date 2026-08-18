@@ -27,7 +27,7 @@ Aalto was born in the New Federation during the appearance of a rare fog and man
 
 ### Mannerisms
 
-Aalto favors an easy smile, playful bargaining, teasing remarks, and. He reads a room closely while pretending not to, shifts quickly between jokes and business, and becomes suddenly precise when matters turn serious.
+Aalto favors an easy smile, playful bargaining, teasing remarks, and exaggerated reactions. He reads a room closely while pretending not to, shifts quickly between jokes and business, and becomes suddenly precise when matters turn serious.
 
 ### Personality
 
