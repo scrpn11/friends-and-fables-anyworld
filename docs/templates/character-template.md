@@ -13,6 +13,8 @@
 
 For Anyworld character sheets, always set **Race** and **Class** to **Incarnation**. Always leave **Faction**, **Subclass**, **Voice**, and **Location** blank. These details are selected or established only after the incarnation's world, continuity, timeline, and circumstances are chosen in play.
 
+When a character belongs to an established fictional setting, write the entire sheet as a snapshot of that character at the exact campaign starting moment specified for that world. Do not include relationships, affiliations, titles, knowledge, reputation, abilities, discoveries, motivations, character development, or events gained after that moment. Later canon may be used only to verify facts that were already true at the starting moment, never to import future state into the sheet.
+
 Generated character sheets must retain the **Skills**, **Inventory**, **Weapons**, **Equipment**, and **Spellbook** headings but leave all of those sections empty. Do not populate them with canon abilities, weapons, gear, proficiencies, techniques, powers, or spells.
 
 ### Brief Description
