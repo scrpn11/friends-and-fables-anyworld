@@ -35,18 +35,18 @@ Felt is bold, cunning, independent, and resistant to being controlled. Growing u
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 35 feet  
+**Hit Dice:** 1d6  
+**Hit Points:** 8  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 8  
+**Dexterity:** 17  
+**Constitution:** 12  
+**Intelligence:** 13  
+**Wisdom:** 12  
+**Charisma:** 14  
 
 ### Stat Adjustments
 
