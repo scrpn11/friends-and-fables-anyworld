@@ -3,15 +3,17 @@
 **Name:**  
 **Aliases:**  
 **Pronouns:**  
-**Race:**  
-**Class:**  
+**Race:** Incarnation  
+**Class:** Incarnation  
 **Alignment:** Lawful Good / Neutral Good / Chaotic Good / Lawful Neutral / True Neutral / Chaotic Neutral / Lawful Evil / Neutral Evil / Chaotic Evil  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
 **Location:**  
 
-For Anyworld character sheets, always leave **Faction**, **Subclass**, **Voice**, and **Location** blank. These details are selected or established only after the incarnation's world, continuity, timeline, and circumstances are chosen in play.
+For Anyworld character sheets, always set **Race** and **Class** to **Incarnation**. Always leave **Faction**, **Subclass**, **Voice**, and **Location** blank. These details are selected or established only after the incarnation's world, continuity, timeline, and circumstances are chosen in play.
+
+Generated character sheets must retain the **Skills**, **Inventory**, **Weapons**, **Equipment**, and **Spellbook** headings but leave all of those sections empty. Do not populate them with canon abilities, weapons, gear, proficiencies, techniques, powers, or spells.
 
 ### Brief Description
 
@@ -35,9 +37,9 @@ Describe recurring gestures, habits, speech patterns, humor, posture changes, ne
 
 Describe temperament, values, strengths, flaws, fears, loyalties, social behavior, decision-making, leadership style, conflict response, and likely behavior in play in 900–1000 characters without going over. Do not repeat the Backstory or Appearance, and do not describe apparel, weapons, armor, or equipment.
 
-## Mandatory Character-Limit Validation
+## Mandatory Character-Limit Validation — Template Instruction Only
 
-Character limits are hard constraints. Every completed or edited character sheet must be validated from the exact final Markdown text immediately before it is committed or presented.
+Character limits are hard constraints. Validate every completed or edited character sheet from the exact final Markdown text immediately before it is committed or presented, but **do not copy this validation heading, instructions, or character counts into the generated character Markdown**.
 
 Count only the prose inside each capped section, beginning with its first character and ending with its final punctuation mark. Do not include the Markdown heading, surrounding blank lines, or the next field or heading. Count every letter, number, space, apostrophe, quotation mark, dash, and punctuation mark in that prose.
 
@@ -51,7 +53,7 @@ Required ranges:
 
 Use an exact counting method on the final version of all five capped sections. Never estimate visually, reuse a count from an earlier draft, or assume unchanged sections remain valid after replacing the file. If any section is even one character outside its range, rewrite it and count the revised final text again. Repeat until every section passes in the same final document.
 
-Do not commit, present, or claim completion until all five final counts have been verified. When reporting completion, provide the five verified counts. If one capped section is edited later, recount that section before committing; if the whole file is regenerated or replaced, recount all five sections.
+Do not commit, present, or claim completion until all five final counts have been verified. When reporting completion, provide the five verified counts outside the character Markdown. If one capped section is edited later, recount that section before committing; if the whole file is regenerated or replaced, recount all five sections.
 
 ## Stats
 
@@ -74,12 +76,10 @@ Record race, class, item, or other permanent adjustments only when established. 
 
 ## Skills
 
-List established skill proficiencies.
-
 ## Inventory
 
-Group carried items under headings such as Weapons, Armor, Equipment, Tools, Consumables, or Keepsakes when useful. Apparel, armor, weapons, accessories, and carried equipment belong here rather than in the descriptive sections above.
+### Weapons
+
+### Equipment
 
 ## Spellbook
-
-List established spells, techniques, or other named magical abilities. Omit this section only when the character has none.
