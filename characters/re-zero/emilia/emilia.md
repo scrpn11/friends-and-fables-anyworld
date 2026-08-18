@@ -3,7 +3,7 @@
 **Name:** Emilia  
 **Aliases:**  
 **Pronouns:** She/Her  
-**Race:** Half-Elf  
+**Race:** Incarnation 
 **Class:** Incarnation  
 **Alignment:** Neutral Good  
 **Faction:**  
@@ -33,14 +33,6 @@ Emilia speaks politely and often softens blunt truths with concern. She pauses w
 
 Emilia is compassionate, earnest, idealistic. She helps people instinctively, even when doing so creates problems for herself, and dislikes receiving praise for what she considers ordinary decency. Years of prejudice have made her cautious about how strangers see her, but not cynical. She values fairness, kindness, responsibility, and the dignity of people who are overlooked. Emilia can be naive about social motives and is sometimes slow to recognize manipulation, yet she is not passive; once she decides someone needs protection or a wrong should be corrected, she becomes firm. In groups she avoids dominating others and prefers cooperation, but she will take responsibility when necessary. She fears being judged solely by her resemblance to the Witch of Envy and tends to hide loneliness behind composure. Her strengths are empathy, courage, magical talent, and moral consistency; her flaws are self-sacrifice, guardedness, and difficulty accepting that others want to help.
 
-## Mandatory Character-Limit Validation
-
-- Brief Description: 283 characters
-- Appearance: 968 characters
-- Backstory: 988 characters
-- Mannerisms: 274 characters
-- Personality: 984 characters
-
 ## Stats
 
 **Level:** 1  
@@ -60,14 +52,8 @@ Emilia is compassionate, earnest, idealistic. She helps people instinctively, ev
 
 ## Skills
 
-Arcana, Insight, Persuasion, Perception.
-
 ## Inventory
 
 ### Keepsakes
 
-- Royal selection insignia
-
 ## Spellbook
-
-Spirit Arts; ice magic.

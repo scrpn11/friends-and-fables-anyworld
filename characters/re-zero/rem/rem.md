@@ -3,7 +3,7 @@
 **Name:** Rem  
 **Aliases:**  
 **Pronouns:** She/Her  
-**Race:** Oni  
+**Race:** Incarnation  
 **Class:** Incarnation  
 **Alignment:** Lawful Good  
 **Faction:**  
@@ -33,14 +33,6 @@ Rem speaks formally, keeps her voice controlled, and rarely wastes movement. She
 
 Rem is dutiful, reserved, observant, and intensely self-critical. She defines much of her worth through usefulness, especially in comparison with Ram, whom she admires almost unquestioningly. Her politeness is genuine but does not equal trust; she evaluates strangers carefully and can become cold when she senses danger. Rem values loyalty, competence, order, and the safety of those she serves. She is capable of great tenderness, but at her earliest appearance she keeps that side guarded behind discipline and routine. In groups she prefers clear responsibilities and often takes on more work than necessary rather than risk disappointing others. Her greatest strength is reliability: once committed, she works with exceptional focus and courage. Her flaws are insecurity, suppressed resentment, harsh self-judgment, and a tendency to treat sacrifice as proof of worth. Fear or suspicion can make her severe, while sincere praise often leaves her uncertain how to respond.
 
-## Mandatory Character-Limit Validation
-
-- Brief Description: 300 characters
-- Appearance: 999 characters
-- Backstory: 951 characters
-- Mannerisms: 254 characters
-- Personality: 976 characters
-
 ## Stats
 
 **Level:** 1  
@@ -60,14 +52,8 @@ Rem is dutiful, reserved, observant, and intensely self-critical. She defines mu
 
 ## Skills
 
-Insight, Perception, Athletics, Medicine.
-
 ## Inventory
 
 ### Equipment
 
-- Mansion work tools
-
 ## Spellbook
-
-Water Magic; oni transformation.

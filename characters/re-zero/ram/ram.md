@@ -3,7 +3,7 @@
 **Name:** Ram  
 **Aliases:**  
 **Pronouns:** She/Her  
-**Race:** Oni  
+**Race:** Incarnation  
 **Class:** Incarnation  
 **Alignment:** Lawful Neutral  
 **Faction:**  
@@ -33,14 +33,6 @@ Ram speaks in a dry, clipped manner and often uses teasing insults without chang
 
 Ram is confident, perceptive, sarcastic. She has little patience for incompetence and enjoys puncturing others' self-importance with blunt remarks, yet her cruelty is usually measured rather than explosive. She values loyalty, competence, and the people she has chosen to care about, especially Rem and Roswaal. Ram does not seek approval and rarely explains herself, giving her an aloof presence even when she is quietly helping. In groups she tends to observe first, identify weaknesses quickly, and contribute with efficiency rather than enthusiasm. Her self-assurance can become arrogance, and she often dismisses concerns she considers foolish. At the same time, she is more dependable than she appears and can act decisively when someone important is threatened. Her strengths are composure, judgment, magical talent, and sharp social perception; her flaws are pride, emotional distance, favoritism, and a habit of expressing affection through criticism rather than reassurance.
 
-## Mandatory Character-Limit Validation
-
-- Brief Description: 299 characters
-- Appearance: 998 characters
-- Backstory: 988 characters
-- Mannerisms: 253 characters
-- Personality: 987 characters
-
 ## Stats
 
 **Level:** 1  
@@ -60,14 +52,8 @@ Ram is confident, perceptive, sarcastic. She has little patience for incompetenc
 
 ## Skills
 
-Insight, Perception, Arcana, Persuasion.
-
 ## Inventory
 
 ### Equipment
 
-- Mansion work tools
-
 ## Spellbook
-
-Wind Magic.

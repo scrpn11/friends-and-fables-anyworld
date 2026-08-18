@@ -15,7 +15,7 @@
 
 Subaru Natsuki is a brash, ordinary Japanese teenager abruptly transported to the Kingdom of Lugunica. Lacking combat talent but armed with stubborn resolve and the hidden Return by Death ability, he becomes determined to repay Emilia's kindness and survive a world he barely understands.
 
-**Character Type:** Non-Playable
+**Character Type:** Playable
 
 ### Appearance
 
@@ -32,14 +32,6 @@ Subaru talks quickly, jokes under pressure, exaggerates confidence, and often tu
 ### Personality
 
 Subaru is impulsive, stubborn, theatrical, and desperate to prove that he matters. He uses humor, bravado, and genre-savvy assumptions to hide insecurity and fear. He forms attachments quickly and risks himself for people who show him kindness. His greatest strength is persistence: pain, humiliation, and failure can break his composure, but rarely his willingness to try again. He is observant in bursts rather than consistently cautious, often understanding emotions only after acting recklessly. Subaru craves recognition and can become self-centered when he believes effort should earn gratitude, yet he is capable of genuine empathy and sacrifice. In groups he talks like a leader before earning authority, then adapts when reality proves him wrong. He hates helplessness, fears abandonment and meaningless failure, and responds to crisis by searching for any action that might save someone. His flaws are pride, impatience, volatility, and pushing himself beyond reason.
-
-## Mandatory Character-Limit Validation
-
-- Brief Description: 288 characters
-- Appearance: 948 characters
-- Backstory: 949 characters
-- Mannerisms: 265 characters
-- Personality: 977 characters
 
 ## Stats
 
@@ -58,18 +50,8 @@ Subaru is impulsive, stubborn, theatrical, and desperate to prove that he matter
 
 ### Stat Adjustments
 
-## Skills
-
-Athletics, Persuasion, Investigation, Survival.
-
 ## Inventory
 
 ### Equipment
 
-- Convenience-store purchases
-- Mobile phone
-- Wallet
-
 ## Spellbook
-
-Return by Death.
