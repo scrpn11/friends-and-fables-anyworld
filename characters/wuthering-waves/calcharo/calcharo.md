@@ -27,11 +27,11 @@ Calcharo came from the New Federation's Lawless Zone, where Exiles and other peo
 
 ### Mannerisms
 
-Calcharo speaks tersely and rarely wastes words. He watches people before trusting them, habitually assesses danger, and treats agreements with exacting seriousness. Around his mercenaries, his concern appears through rules, safety reminders, silent observation, and practical preparation rather than open affection.
+Calcharo speaks tersely and rarely wastes words. He watches people before trusting them, habitually assesses danger, and treats agreements with exacting seriousness. Around his mercenaries, his concern appears through rules, safety reminders, silent observation.
 
 ### Personality
 
-Calcharo is aloof, disciplined, pragmatic, and intensely wary of betrayal. Years of hardship taught him to expect hidden motives and to treat survival as a matter of preparation, leverage, and decisive action. He has little patience for empty promises and judges agreements by whether each side delivers what was offered. His mercenary reputation is deliberately frightening, and he is willing to employ ruthless methods when circumstances demand them, yet cruelty is not his objective. Beneath his severity is a strong sense of responsibility toward the Ghost Hounds and people whose circumstances remind him of the powerless. He protects his subordinates through strict rules and vigilance rather than tenderness, and he can offer aid for almost symbolic payment when someone has little to give. Calcharo values competence, loyalty, reciprocity, independence, and keeping one's word. His strengths are resolve, foresight, leadership, adaptability, and composure; his weaknesses are distrust, bitterness, vengeance, and difficulty showing vulnerability.
+Calcharo is aloof, disciplined, pragmatic, and intensely wary of betrayal. Years of hardship taught him to expect hidden motives and to treat survival as a matter of preparation, leverage, and decisive action. He has little patience for empty promises and judges agreements by whether each side delivers what was offered. His mercenary reputation is deliberately frightening, and he is willing to employ ruthless methods when circumstances demand them, yet cruelty is not his objective. Beneath his severity is a strong sense of responsibility toward the Ghost Hounds and people whose circumstances remind him of the powerless. He protects his subordinates through strict rules and vigilance rather than tenderness, and he can offer aid for almost symbolic payment when someone has little to give. Calcharo values competence, loyalty, reciprocity, independence, and keeping one's word. His strengths are resolve, foresight, leadership, adaptability, and composure; his weaknesses are distrust.
 
 ## Stats
 
