@@ -1,4 +1,4 @@
-name: Audit Wuthering Waves Character Limits
+name: Normalize Wuthering Waves Character Limits
 
 on:
   push:
@@ -9,11 +9,11 @@ permissions:
   contents: write
 
 jobs:
-  audit:
+  normalize:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Audit character section lengths
+      - name: Normalize over-limit sections and audit final text
         shell: python
         run: |
           from pathlib import Path
@@ -26,45 +26,93 @@ jobs:
               'Mannerisms': (200, 300),
               'Personality': (900, 1000),
           }
-
           aliases = {'Brief Description': ['Brief Description', 'Brief']}
 
-          def section(text, heading):
+          def find_section(text, heading):
               names = aliases.get(heading, [heading])
               for name in names:
-                  pattern = rf'^#{{2,3}} {re.escape(name)}\s*\n\s*(.*?)(?=\n\s*(?:\*\*Character Type:|#{{2,3}} ))'
+                  pattern = rf'(^#{{2,3}} {re.escape(name)}\s*\n\s*)(.*?)(?=\n\s*(?:\*\*Character Type:|#{{2,3}} ))'
                   m = re.search(pattern, text, re.M | re.S)
                   if m:
-                      return m.group(1).strip()
+                      return m
               return None
 
-          lines = []
-          bad = 0
+          def trim_prose(prose, lo, hi):
+              prose = prose.strip()
+              if len(prose) <= hi:
+                  return prose
+
+              # Prefer preserving complete sentences while retaining as much original prose as possible.
+              sentence_ends = [m.end() for m in re.finditer(r'[.!?](?=\s|$)', prose[:hi + 1]) if m.end() >= lo]
+              if sentence_ends:
+                  return prose[:sentence_ends[-1]].rstrip()
+
+              # If one long sentence spans the permitted window, end at the latest natural clause boundary.
+              clause_ends = [m.end() for m in re.finditer(r'[;:,](?=\s|$)', prose[:hi]) if m.end() >= lo]
+              if clause_ends:
+                  cut = prose[:clause_ends[-1]].rstrip(' ,;:')
+                  return cut + '.'
+
+              # Last resort: keep a complete word and close the sentence cleanly.
+              cut = prose[:hi - 1].rstrip()
+              cut = re.sub(r'\s+\S*$', '', cut) if len(cut) == hi - 1 and prose[hi - 1:hi].strip() else cut
+              if len(cut) < lo:
+                  cut = prose[:hi - 1].rstrip()
+              return cut.rstrip(' ,;:.-') + '.'
+
+          changed = []
           root = Path('characters/wuthering-waves')
+          for path in sorted(root.glob('*/*.md')):
+              text = path.read_text(encoding='utf-8')
+              original = text
+              file_changes = []
+              for heading, (lo, hi) in limits.items():
+                  m = find_section(text, heading)
+                  if not m:
+                      continue
+                  prose = m.group(2).strip()
+                  before = len(prose)
+                  if before > hi:
+                      revised = trim_prose(prose, lo, hi)
+                      after = len(revised)
+                      if not lo <= after <= hi:
+                          raise RuntimeError(f'{path}: {heading} normalized to invalid length {after}')
+                      text = text[:m.start(2)] + revised + text[m.end(2):]
+                      file_changes.append(f'{heading}:{before}->{after}')
+              if text != original:
+                  path.write_text(text, encoding='utf-8')
+                  changed.append(f'{path.as_posix()}\t' + ','.join(file_changes))
+
+          # Audit the exact final Markdown after all edits.
+          lines = ['CHANGED_FILES'] + changed + ['', 'FINAL_AUDIT']
+          failing = 0
           for path in sorted(root.glob('*/*.md')):
               text = path.read_text(encoding='utf-8')
               counts = []
               violations = []
               for heading, (lo, hi) in limits.items():
-                  prose = section(text, heading)
-                  if prose is None:
+                  m = find_section(text, heading)
+                  if not m:
                       counts.append(f'{heading}=MISSING')
-                      violations.append(heading)
-                  else:
-                      n = len(prose)
-                      counts.append(f'{heading}={n}')
-                      if not lo <= n <= hi:
-                          violations.append(f'{heading}:{n}')
+                      violations.append(f'{heading}:MISSING')
+                      continue
+                  prose = m.group(2).strip()
+                  n = len(prose)
+                  counts.append(f'{heading}={n}')
+                  if not lo <= n <= hi:
+                      violations.append(f'{heading}:{n}')
               status = 'FAIL' if violations else 'PASS'
               if violations:
-                  bad += 1
+                  failing += 1
               lines.append(f'{status}\t{path.as_posix()}\t' + '\t'.join(counts) + ('\tVIOLATIONS=' + ','.join(violations) if violations else ''))
-          lines.append(f'TOTAL_FAILING_FILES={bad}')
+          lines.append(f'TOTAL_FAILING_FILES={failing}')
           Path('.tmp-wuthering-waves-audit.txt').write_text('\n'.join(lines) + '\n', encoding='utf-8')
-      - name: Commit audit report
+          if failing:
+              raise RuntimeError(f'{failing} files remain outside template limits')
+      - name: Commit normalized character sheets
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add .tmp-wuthering-waves-audit.txt
-          git commit -m "Update temporary Wuthering Waves character limit audit report"
+          git add characters/wuthering-waves .tmp-wuthering-waves-audit.txt
+          git commit -m "Normalize Wuthering Waves character section limits"
           git push
