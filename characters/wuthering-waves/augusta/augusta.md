@@ -13,13 +13,13 @@
 
 ### Brief Description
 
-Augusta is Septimont's formidable Ephor, a Congenital Resonator and veteran Gladiator whose rise from obscurity made her a symbol of victory. Disciplined and protective, she treats strength and leadership as duties owed to the people she serves.
+Augusta is Septimont's formidable Ephor, a Congenital Resonator and veteran Gladiator whose rise from hardship made her a living symbol of victory. Disciplined, protective, and fiercely responsible, she leads by example and treats strength as a duty owed to Septimont and its people.
 
 **Character Type:** Non-Playable
 
 ### Appearance
 
-Augusta is a tall, striking woman with a lean, powerful, athletic build shaped by years of demanding combat. Her complexion is pale and clear, contrasting sharply with long, vivid orange-red hair that falls in thick, slightly wavy lengths toward her waist. Her narrow eyes are an intense red, framed by a pale golden-white ring around the pupils, giving her gaze a fierce and unmistakable quality. She carries herself with upright confidence and the relaxed readiness of an accomplished warrior. Her attire reflects Septimont's martial culture and her elevated station, combining white draped fabric with dark and gold structural elements and pieces of ornate golden armor. A radiant, sunlike headpiece reinforces the solar imagery associated with her public identity. Her Tacet Mark lies on the back of her left hand. Even at rest, Augusta's posture, musculature, and deliberate movements make her experience as a Gladiator immediately apparent.
+Augusta is a tall young woman with a lean, powerful, athletic build shaped by years of intense physical training and combat. She has long, vivid orange-red hair that falls in thick, slightly wavy lengths toward her waist, with layered strands framing her face and moving freely behind her. Her complexion is pale and clear. Her narrow eyes are an intense red, each iris marked by a pale golden-white ring around the pupil that gives her gaze a fierce, unmistakable quality. Her features are sharp and composed, with a strong jawline, straight nose, and an expression that often settles into calm seriousness rather than overt aggression. Her Tacet Mark is located on the back of her left hand. Augusta stands upright with squared shoulders and excellent balance, carrying herself with the relaxed readiness of an accomplished fighter. Her movements are controlled, economical, and powerful, with little wasted motion even when she is at ease.
 
 ### Backstory
 
