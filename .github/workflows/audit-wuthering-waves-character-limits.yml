@@ -40,19 +40,31 @@ jobs:
               prose = prose.strip()
               if len(prose) <= hi:
                   return prose
-              sentence_ends = [m.end() for m in re.finditer(r'[.!?](?=\s|$)', prose[:hi + 1]) if m.end() >= lo]
-              if sentence_ends:
-                  return prose[:sentence_ends[-1]].rstrip()
-              clause_ends = [m.end() for m in re.finditer(r'[;:,](?=\s|$)', prose[:hi]) if m.end() >= lo]
-              if clause_ends:
-                  cut = prose[:clause_ends[-1]].rstrip(' ,;:')
-                  return cut + '.'
+
+              # Preserve the greatest possible amount of original prose by ending
+              # at the latest natural punctuation boundary inside the allowed range.
+              candidates = []
+              for m in re.finditer(r'[.!?;:,](?=\s|$)', prose[:hi + 1]):
+                  if m.end() >= lo:
+                      candidates.append((m.end(), m.group()))
+              if candidates:
+                  end, punct = candidates[-1]
+                  cut = prose[:end].rstrip()
+                  if punct not in '.!?':
+                      cut = cut.rstrip(' ,;:') + '.'
+                  if len(cut) <= hi:
+                      return cut
+
+              # Last resort: keep a complete word and close the sentence cleanly.
               cut = prose[:hi - 1].rstrip()
-              if len(cut) == hi - 1 and prose[hi - 1:hi].strip():
+              if hi - 1 < len(prose) and prose[hi - 1].strip() and cut and not cut[-1].isspace():
                   cut = re.sub(r'\s+\S*$', '', cut)
+              cut = cut.rstrip(' ,;:.-') + '.'
               if len(cut) < lo:
-                  cut = prose[:hi - 1].rstrip()
-              return cut.rstrip(' ,;:.-') + '.'
+                  cut = prose[:hi - 1].rstrip(' ,;:.-') + '.'
+              if len(cut) > hi:
+                  cut = cut[:hi - 1].rstrip(' ,;:.-') + '.'
+              return cut
 
           root = Path('characters/wuthering-waves')
           lines = ['PROPOSED_CHANGES']
@@ -84,5 +96,5 @@ jobs:
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add .tmp-wuthering-waves-debug.txt
-          git commit -m "Add temporary Wuthering Waves normalization debug report"
+          git commit -m "Update temporary Wuthering Waves normalization debug report"
           git push
