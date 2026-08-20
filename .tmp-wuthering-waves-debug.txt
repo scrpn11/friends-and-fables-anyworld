@@ -1,0 +1,51 @@
+PROPOSED_CHANGES
+characters/wuthering-waves/buling/buling.md	Backstory:1028->982,Mannerisms:340->236,Personality:1037->974
+characters/wuthering-waves/calcharo/calcharo.md	Mannerisms:316->262,Personality:1054->993
+characters/wuthering-waves/camellya/camellya.md	Backstory:1024->981
+characters/wuthering-waves/cantarella/cantarella.md	Backstory:1074->985,Mannerisms:332->277,Personality:1063->945
+characters/wuthering-waves/carlotta/carlotta.md	Appearance:1024->991,Backstory:1128->977,Mannerisms:357->209,Personality:1119->980
+characters/wuthering-waves/cartethyia/cartethyia.md	Backstory:1047->978,Mannerisms:380->231,Personality:1045->999
+characters/wuthering-waves/changli/changli.md	Brief Description:360->350,Appearance:1037->951,Backstory:1041->986,Mannerisms:419->262,Personality:1086->961
+characters/wuthering-waves/chisa/chisa.md	Backstory:1025->914,Mannerisms:335->263,Personality:1014->906
+characters/wuthering-waves/chixia/chixia.md	Appearance:1013->913,Backstory:1139->976,Mannerisms:344->293,Personality:1169->965
+characters/wuthering-waves/ciaccona/ciaccona.md	Mannerisms:343->256,Personality:1058->918
+characters/wuthering-waves/danjin/danjin.md	Brief Description:356->279,Backstory:1045->970,Mannerisms:366->221,Personality:1088->973
+characters/wuthering-waves/denia/denia.md	Appearance:1041->938,Backstory:1067->962,Mannerisms:349->203,Personality:1166->982
+characters/wuthering-waves/encore/encore.md	Backstory:1057->996,Mannerisms:304->226,Personality:1029->935
+characters/wuthering-waves/galbrena/galbrena.md	Backstory:1056->962,Mannerisms:395->237,Personality:1048->937
+characters/wuthering-waves/hiyuki/hiyuki.md	Brief Description:367->250,Appearance:1008->920,Backstory:1023->957,Mannerisms:354->216,Personality:1174->996
+characters/wuthering-waves/iuno/iuno.md	Brief Description:365->302,Appearance:1096->962,Backstory:1090->913,Mannerisms:362->263,Personality:1176->968
+characters/wuthering-waves/jianxin/jianxin.md	Brief Description:365->269,Appearance:1134->938,Backstory:1143->980,Mannerisms:390->237,Personality:1227->974
+characters/wuthering-waves/jinhsi/jinhsi.md	Brief Description:384->284,Appearance:1154->964,Backstory:1154->981,Mannerisms:400->272,Personality:1211->984
+characters/wuthering-waves/jiyan/jiyan.md	Brief Description:377->273,Appearance:1105->937,Backstory:1134->982,Mannerisms:406->291,Personality:1239->941
+characters/wuthering-waves/lingyang/lingyang.md	Brief Description:367->268,Appearance:1031->958,Backstory:1155->970,Mannerisms:380->279,Personality:1223->964
+characters/wuthering-waves/lucilla/lucilla.md	Brief Description:396->268,Appearance:1206->962,Backstory:1166->976,Mannerisms:417->226,Personality:1256->928
+characters/wuthering-waves/lucy/lucy.md	Appearance:1105->913,Backstory:1118->993,Mannerisms:404->282,Personality:1135->958
+characters/wuthering-waves/lumi/lumi.md	Brief Description:368->259,Appearance:1202->917,Backstory:1152->991,Mannerisms:379->202,Personality:1205->905
+characters/wuthering-waves/lupa/lupa.md	Brief Description:387->268,Appearance:1154->940,Backstory:1192->937,Mannerisms:413->295,Personality:1200->913
+characters/wuthering-waves/luuk-herssen/luuk-herssen.md	Appearance:1230->929,Backstory:1191->991,Mannerisms:420->237,Personality:1215->933
+characters/wuthering-waves/lynae/lynae.md	Appearance:1161->996,Backstory:1195->922,Mannerisms:421->203,Personality:1218->930
+characters/wuthering-waves/mornye/mornye.md	Appearance:1223->968,Backstory:1156->976,Mannerisms:390->206,Personality:1216->999
+characters/wuthering-waves/mortefi/mortefi.md	Brief Description:381->277,Appearance:1179->966,Backstory:1216->972,Mannerisms:416->287,Personality:1269->989
+characters/wuthering-waves/phoebe/phoebe.md	Brief Description:405->275,Appearance:1144->965,Backstory:1152->935,Mannerisms:395->242,Personality:1218->956
+characters/wuthering-waves/phrolova/phrolova.md	Brief Description:419->338,Appearance:1189->926,Backstory:1174->988,Mannerisms:398->283,Personality:1190->996
+characters/wuthering-waves/qiuyuan/qiuyuan.md	Brief Description:400->297,Appearance:1150->961,Backstory:1179->981,Mannerisms:384->263,Personality:1196->995
+characters/wuthering-waves/rebecca/rebecca.md	Brief Description:442->269,Appearance:1133->993,Backstory:1229->934,Mannerisms:418->290,Personality:1161->999
+characters/wuthering-waves/roccia/roccia.md	Brief Description:419->274,Appearance:1055->920,Backstory:1228->921,Mannerisms:417->301,Personality:1200->912
+characters/wuthering-waves/sanhua/sanhua.md	Brief Description:409->283,Appearance:1107->972,Backstory:1145->994,Mannerisms:407->270,Personality:1179->986
+characters/wuthering-waves/shorekeeper/shorekeeper.md	Brief Description:449->348,Appearance:1042->908,Backstory:1221->906,Mannerisms:452->237,Personality:1267->912
+characters/wuthering-waves/sigrika/sigrika.md	Brief Description:416->271,Appearance:1055->922,Backstory:1258->927,Mannerisms:482->216,Personality:1254->999
+characters/wuthering-waves/suisui/suisui.md	Brief Description:377->307,Appearance:1239->980,Backstory:1179->994,Mannerisms:422->201,Personality:1196->996
+characters/wuthering-waves/taoqi/taoqi.md	Brief Description:422->275,Appearance:1168->918,Backstory:1239->947,Mannerisms:401->263,Personality:1187->941
+characters/wuthering-waves/verina/verina.md	Brief Description:424->276,Appearance:1164->991,Backstory:1226->917,Mannerisms:429->224,Personality:1161->959
+characters/wuthering-waves/xiangli-yao/xiangli-yao.md	Brief Description:457->317,Appearance:1125->968,Backstory:1262->962,Mannerisms:427->252,Personality:1247->975
+characters/wuthering-waves/yangyang/yangyang.md	Brief Description:425->333,Appearance:1076->963,Backstory:1192->967,Mannerisms:389->201,Personality:1245->902
+characters/wuthering-waves/yinlin/yinlin.md	Brief Description:478->332,Appearance:1145->950,Backstory:1243->1000,Mannerisms:415->296,Personality:1222->985
+characters/wuthering-waves/youhu/youhu.md	Brief Description:417->276,Appearance:1095->991,Backstory:1257->980,Mannerisms:405->236,Personality:1128->946
+characters/wuthering-waves/yuanwu/yuanwu.md	Brief Description:384->321,Appearance:1093->940,Backstory:1191->986,Mannerisms:412->252,Personality:1143->997
+characters/wuthering-waves/zani/zani.md	Brief Description:416->274,Appearance:1176->979,Backstory:1228->1001,Mannerisms:380->274,Personality:1152->992
+characters/wuthering-waves/zhezhi/zhezhi.md	Brief Description:441->302,Appearance:1098->934,Backstory:1204->914,Mannerisms:408->211,Personality:1186->919
+
+ERRORS
+characters/wuthering-waves/roccia/roccia.md Mannerisms:417->301
+characters/wuthering-waves/zani/zani.md Backstory:1228->1001
