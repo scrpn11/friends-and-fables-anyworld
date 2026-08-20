@@ -1,11 +1,11 @@
-PASS	characters/wuthering-waves/aalto/aalto.md	Brief Description=275	Appearance=999	Backstory=947	Mannerisms=239	Personality=950
-PASS	characters/wuthering-waves/aemeath/aemeath.md	Brief Description=290	Appearance=938	Backstory=984	Mannerisms=293	Personality=973
-PASS	characters/wuthering-waves/augusta/augusta.md	Brief Description=283	Appearance=942	Backstory=917	Mannerisms=296	Personality=977
-PASS	characters/wuthering-waves/baizhi/baizhi.md	Brief Description=287	Appearance=951	Backstory=985	Mannerisms=287	Personality=966
-PASS	characters/wuthering-waves/brant/brant.md	Brief Description=294	Appearance=938	Backstory=987	Mannerisms=255	Personality=999
-FAIL	characters/wuthering-waves/buling/buling.md	Brief Description=314	Appearance=976	Backstory=1028	Mannerisms=340	Personality=1037	VIOLATIONS=Backstory:1028,Mannerisms:340,Personality:1037
-FAIL	characters/wuthering-waves/calcharo/calcharo.md	Brief Description=312	Appearance=972	Backstory=998	Mannerisms=316	Personality=1054	VIOLATIONS=Mannerisms:316,Personality:1054
-FAIL	characters/wuthering-waves/camellya/camellya.md	Brief Description=306	Appearance=920	Backstory=1024	Mannerisms=298	Personality=988	VIOLATIONS=Backstory:1024
+FAIL	characters/wuthering-waves/aalto/aalto.md	Brief Description=275	Appearance=999	Backstory=947	Mannerisms=239	Personality=1178	VIOLATIONS=Personality:1178
+FAIL	characters/wuthering-waves/aemeath/aemeath.md	Brief Description=290	Appearance=938	Backstory=984	Mannerisms=293	Personality=1201	VIOLATIONS=Personality:1201
+FAIL	characters/wuthering-waves/augusta/augusta.md	Brief Description=283	Appearance=942	Backstory=917	Mannerisms=296	Personality=1168	VIOLATIONS=Personality:1168
+FAIL	characters/wuthering-waves/baizhi/baizhi.md	Brief Description=287	Appearance=951	Backstory=985	Mannerisms=287	Personality=1193	VIOLATIONS=Personality:1193
+FAIL	characters/wuthering-waves/brant/brant.md	Brief Description=294	Appearance=938	Backstory=987	Mannerisms=255	Personality=1227	VIOLATIONS=Personality:1227
+FAIL	characters/wuthering-waves/buling/buling.md	Brief Description=314	Appearance=976	Backstory=1028	Mannerisms=340	Personality=1264	VIOLATIONS=Backstory:1028,Mannerisms:340,Personality:1264
+FAIL	characters/wuthering-waves/calcharo/calcharo.md	Brief Description=312	Appearance=972	Backstory=998	Mannerisms=316	Personality=1283	VIOLATIONS=Mannerisms:316,Personality:1283
+FAIL	characters/wuthering-waves/camellya/camellya.md	Brief Description=306	Appearance=920	Backstory=1024	Mannerisms=298	Personality=1216	VIOLATIONS=Backstory:1024,Personality:1216
 FAIL	characters/wuthering-waves/cantarella/cantarella.md	Brief Description=MISSING	Appearance=MISSING	Backstory=MISSING	Mannerisms=MISSING	Personality=MISSING	VIOLATIONS=Brief Description,Appearance,Backstory,Mannerisms,Personality
 FAIL	characters/wuthering-waves/carlotta/carlotta.md	Brief Description=MISSING	Appearance=MISSING	Backstory=MISSING	Mannerisms=MISSING	Personality=MISSING	VIOLATIONS=Brief Description,Appearance,Backstory,Mannerisms,Personality
 FAIL	characters/wuthering-waves/cartethyia/cartethyia.md	Brief Description=MISSING	Appearance=MISSING	Backstory=MISSING	Mannerisms=MISSING	Personality=MISSING	VIOLATIONS=Brief Description,Appearance,Backstory,Mannerisms,Personality
@@ -36,7 +36,7 @@ FAIL	characters/wuthering-waves/phrolova/phrolova.md	Brief Description=MISSING	A
 FAIL	characters/wuthering-waves/qiuyuan/qiuyuan.md	Brief Description=MISSING	Appearance=MISSING	Backstory=MISSING	Mannerisms=MISSING	Personality=MISSING	VIOLATIONS=Brief Description,Appearance,Backstory,Mannerisms,Personality
 FAIL	characters/wuthering-waves/rebecca/rebecca.md	Brief Description=MISSING	Appearance=MISSING	Backstory=MISSING	Mannerisms=MISSING	Personality=MISSING	VIOLATIONS=Brief Description,Appearance,Backstory,Mannerisms,Personality
 FAIL	characters/wuthering-waves/roccia/roccia.md	Brief Description=MISSING	Appearance=MISSING	Backstory=MISSING	Mannerisms=MISSING	Personality=MISSING	VIOLATIONS=Brief Description,Appearance,Backstory,Mannerisms,Personality
-PASS	characters/wuthering-waves/rover/rover.md	Brief Description=305	Appearance=980	Backstory=997	Mannerisms=297	Personality=999
+FAIL	characters/wuthering-waves/rover/rover.md	Brief Description=305	Appearance=980	Backstory=997	Mannerisms=297	Personality=1227	VIOLATIONS=Personality:1227
 FAIL	characters/wuthering-waves/sanhua/sanhua.md	Brief Description=MISSING	Appearance=MISSING	Backstory=MISSING	Mannerisms=MISSING	Personality=MISSING	VIOLATIONS=Brief Description,Appearance,Backstory,Mannerisms,Personality
 FAIL	characters/wuthering-waves/shorekeeper/shorekeeper.md	Brief Description=MISSING	Appearance=MISSING	Backstory=MISSING	Mannerisms=MISSING	Personality=MISSING	VIOLATIONS=Brief Description,Appearance,Backstory,Mannerisms,Personality
 FAIL	characters/wuthering-waves/sigrika/sigrika.md	Brief Description=MISSING	Appearance=MISSING	Backstory=MISSING	Mannerisms=MISSING	Personality=MISSING	VIOLATIONS=Brief Description,Appearance,Backstory,Mannerisms,Personality
@@ -50,4 +50,4 @@ FAIL	characters/wuthering-waves/youhu/youhu.md	Brief Description=MISSING	Appeara
 FAIL	characters/wuthering-waves/yuanwu/yuanwu.md	Brief Description=MISSING	Appearance=MISSING	Backstory=MISSING	Mannerisms=MISSING	Personality=MISSING	VIOLATIONS=Brief Description,Appearance,Backstory,Mannerisms,Personality
 FAIL	characters/wuthering-waves/zani/zani.md	Brief Description=MISSING	Appearance=MISSING	Backstory=MISSING	Mannerisms=MISSING	Personality=MISSING	VIOLATIONS=Brief Description,Appearance,Backstory,Mannerisms,Personality
 FAIL	characters/wuthering-waves/zhezhi/zhezhi.md	Brief Description=MISSING	Appearance=MISSING	Backstory=MISSING	Mannerisms=MISSING	Personality=MISSING	VIOLATIONS=Brief Description,Appearance,Backstory,Mannerisms,Personality
-TOTAL_FAILING_FILES=46
+TOTAL_FAILING_FILES=52
