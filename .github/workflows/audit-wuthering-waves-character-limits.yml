@@ -1,0 +1,52 @@
+name: Audit Wuthering Waves Character Limits
+
+on:
+  push:
+    paths:
+      - '.github/workflows/audit-wuthering-waves-character-limits.yml'
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit character section lengths
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          limits = {
+              'Brief Description': (250, 350),
+              'Appearance': (900, 1000),
+              'Backstory': (900, 1000),
+              'Mannerisms': (200, 300),
+              'Personality': (900, 1000),
+          }
+
+          def section(text, heading):
+              pattern = rf'^### {re.escape(heading)}\s*\n\s*(.*?)(?=\n\s*(?:\*\*Character Type:|### |## ))'
+              m = re.search(pattern, text, re.M | re.S)
+              return m.group(1).strip() if m else None
+
+          root = Path('characters/wuthering-waves')
+          bad = 0
+          for path in sorted(root.glob('*/*.md')):
+              text = path.read_text(encoding='utf-8')
+              counts = []
+              violations = []
+              for heading, (lo, hi) in limits.items():
+                  prose = section(text, heading)
+                  if prose is None:
+                      counts.append(f'{heading}=MISSING')
+                      violations.append(heading)
+                  else:
+                      n = len(prose)
+                      counts.append(f'{heading}={n}')
+                      if not lo <= n <= hi:
+                          violations.append(f'{heading}:{n}')
+              status = 'FAIL' if violations else 'PASS'
+              if violations:
+                  bad += 1
+              print(f'{status}\t{path.as_posix()}\t' + '\t'.join(counts) + ('\tVIOLATIONS=' + ','.join(violations) if violations else ''))
+          print(f'TOTAL_FAILING_FILES={bad}')
