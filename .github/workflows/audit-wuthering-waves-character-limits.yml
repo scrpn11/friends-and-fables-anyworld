@@ -41,21 +41,16 @@ jobs:
               prose = prose.strip()
               if len(prose) <= hi:
                   return prose
-
-              # Prefer preserving complete sentences while retaining as much original prose as possible.
               sentence_ends = [m.end() for m in re.finditer(r'[.!?](?=\s|$)', prose[:hi + 1]) if m.end() >= lo]
               if sentence_ends:
                   return prose[:sentence_ends[-1]].rstrip()
-
-              # If one long sentence spans the permitted window, end at the latest natural clause boundary.
               clause_ends = [m.end() for m in re.finditer(r'[;:,](?=\s|$)', prose[:hi]) if m.end() >= lo]
               if clause_ends:
                   cut = prose[:clause_ends[-1]].rstrip(' ,;:')
                   return cut + '.'
-
-              # Last resort: keep a complete word and close the sentence cleanly.
               cut = prose[:hi - 1].rstrip()
-              cut = re.sub(r'\s+\S*$', '', cut) if len(cut) == hi - 1 and prose[hi - 1:hi].strip() else cut
+              if len(cut) == hi - 1 and prose[hi - 1:hi].strip():
+                  cut = re.sub(r'\s+\S*$', '', cut)
               if len(cut) < lo:
                   cut = prose[:hi - 1].rstrip()
               return cut.rstrip(' ,;:.-') + '.'
@@ -83,7 +78,6 @@ jobs:
                   path.write_text(text, encoding='utf-8')
                   changed.append(f'{path.as_posix()}\t' + ','.join(file_changes))
 
-          # Audit the exact final Markdown after all edits.
           lines = ['CHANGED_FILES'] + changed + ['', 'FINAL_AUDIT']
           failing = 0
           for path in sorted(root.glob('*/*.md')):
@@ -115,4 +109,5 @@ jobs:
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add characters/wuthering-waves .tmp-wuthering-waves-audit.txt
           git commit -m "Normalize Wuthering Waves character section limits"
+          git pull --rebase origin main
           git push
