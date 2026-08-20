@@ -5,6 +5,9 @@ on:
     paths:
       - '.github/workflows/audit-wuthering-waves-character-limits.yml'
 
+permissions:
+  contents: write
+
 jobs:
   audit:
     runs-on: ubuntu-latest
@@ -29,8 +32,9 @@ jobs:
               m = re.search(pattern, text, re.M | re.S)
               return m.group(1).strip() if m else None
 
-          root = Path('characters/wuthering-waves')
+          lines = []
           bad = 0
+          root = Path('characters/wuthering-waves')
           for path in sorted(root.glob('*/*.md')):
               text = path.read_text(encoding='utf-8')
               counts = []
@@ -48,5 +52,13 @@ jobs:
               status = 'FAIL' if violations else 'PASS'
               if violations:
                   bad += 1
-              print(f'{status}\t{path.as_posix()}\t' + '\t'.join(counts) + ('\tVIOLATIONS=' + ','.join(violations) if violations else ''))
-          print(f'TOTAL_FAILING_FILES={bad}')
+              lines.append(f'{status}\t{path.as_posix()}\t' + '\t'.join(counts) + ('\tVIOLATIONS=' + ','.join(violations) if violations else ''))
+          lines.append(f'TOTAL_FAILING_FILES={bad}')
+          Path('.tmp-wuthering-waves-audit.txt').write_text('\n'.join(lines) + '\n', encoding='utf-8')
+      - name: Commit audit report
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add .tmp-wuthering-waves-audit.txt
+          git commit -m "Add temporary Wuthering Waves character limit audit report"
+          git push
