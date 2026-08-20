@@ -27,10 +27,16 @@ jobs:
               'Personality': (900, 1000),
           }
 
+          aliases = {'Brief Description': ['Brief Description', 'Brief']}
+
           def section(text, heading):
-              pattern = rf'^#{{2,3}} {re.escape(heading)}\s*\n\s*(.*?)(?=\n\s*(?:\*\*Character Type:|#{{2,3}} ))'
-              m = re.search(pattern, text, re.M | re.S)
-              return m.group(1).strip() if m else None
+              names = aliases.get(heading, [heading])
+              for name in names:
+                  pattern = rf'^#{{2,3}} {re.escape(name)}\s*\n\s*(.*?)(?=\n\s*(?:\*\*Character Type:|#{{2,3}} ))'
+                  m = re.search(pattern, text, re.M | re.S)
+                  if m:
+                      return m.group(1).strip()
+              return None
 
           lines = []
           bad = 0
