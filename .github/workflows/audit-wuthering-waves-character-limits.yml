@@ -28,7 +28,7 @@ jobs:
           }
 
           def section(text, heading):
-              pattern = rf'^### {re.escape(heading)}\s*\n\s*(.*?)(?=\n\s*(?:\*\*Character Type:|### |## ))'
+              pattern = rf'^##{{2,3}} {re.escape(heading)}\s*\n\s*(.*?)(?=\n\s*(?:\*\*Character Type:|##{{2,3}} ))'
               m = re.search(pattern, text, re.M | re.S)
               return m.group(1).strip() if m else None
 
@@ -60,5 +60,5 @@ jobs:
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add .tmp-wuthering-waves-audit.txt
-          git commit -m "Add temporary Wuthering Waves character limit audit report"
+          git commit -m "Update temporary Wuthering Waves character limit audit report"
           git push
