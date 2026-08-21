@@ -2,10 +2,10 @@
 
 **Name:** Lumi  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** She/Her  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Neutral Good  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Lumi is cheerful, industrious, sincere, and resilient. She approaches courier wo
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 10  
+**Dexterity:** 15  
+**Constitution:** 13  
+**Intelligence:** 12  
+**Wisdom:** 15  
+**Charisma:** 16  
 
 ### Stat Adjustments
 

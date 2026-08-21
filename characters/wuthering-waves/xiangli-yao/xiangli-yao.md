@@ -2,10 +2,10 @@
 
 **Name:** Xiangli Yao  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** He/Him  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Lawful Good  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Xiangli Yao is brilliant, patient, compassionate, and deeply curious. Although c
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 10  
+**Dexterity:** 14  
+**Constitution:** 12  
+**Intelligence:** 18  
+**Wisdom:** 16  
+**Charisma:** 14  
 
 ### Stat Adjustments
 

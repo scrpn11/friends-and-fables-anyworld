@@ -2,10 +2,10 @@
 
 **Name:** Rebecca  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** She/Her  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Chaotic Neutral  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Rebecca is brash, profane, impulsive, loyal, and intensely emotional. She enjoys
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 9  
+**Dexterity:** 15  
+**Constitution:** 12  
+**Intelligence:** 14  
+**Wisdom:** 13  
+**Charisma:** 16  
 
 ### Stat Adjustments
 

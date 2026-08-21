@@ -2,10 +2,10 @@
 
 **Name:** Iuno  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** She/Her  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Neutral Good  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Iuno is contemplative, empathetic, and quietly resolute. She takes her spiritual
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 10  
+**Dexterity:** 15  
+**Constitution:** 12  
+**Intelligence:** 14  
+**Wisdom:** 16  
+**Charisma:** 15  
 
 ### Stat Adjustments
 

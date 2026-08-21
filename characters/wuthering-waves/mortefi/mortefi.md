@@ -2,10 +2,10 @@
 
 **Name:** Mortefi  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** He/Him  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Lawful Neutral  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Mortefi is brilliant, exacting, irritable, and deeply serious about his work. He
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 9  
+**Dexterity:** 14  
+**Constitution:** 12  
+**Intelligence:** 18  
+**Wisdom:** 14  
+**Charisma:** 12  
 
 ### Stat Adjustments
 

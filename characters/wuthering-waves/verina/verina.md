@@ -2,10 +2,10 @@
 
 **Name:** Verina  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** She/Her  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Neutral Good  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Verina is kind, curious, earnest, and deeply compassionate toward living things.
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 7  
+**Dexterity:** 13  
+**Constitution:** 12  
+**Intelligence:** 15  
+**Wisdom:** 17  
+**Charisma:** 15  
 
 ### Stat Adjustments
 

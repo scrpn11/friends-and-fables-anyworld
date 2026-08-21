@@ -2,10 +2,10 @@
 
 **Name:** Ciaccona  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** She/Her  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Chaotic Good  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Ciaccona is free-spirited, romantic, sincere, passionate, and intensely curious 
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 9  
+**Dexterity:** 14  
+**Constitution:** 12  
+**Intelligence:** 14  
+**Wisdom:** 15  
+**Charisma:** 17  
 
 ### Stat Adjustments
 

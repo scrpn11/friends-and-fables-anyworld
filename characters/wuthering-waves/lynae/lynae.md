@@ -2,10 +2,10 @@
 
 **Name:** Lynae  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** She/Her  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Neutral Good  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Lynae is a person with her own priorities, judgments, emotional boundaries, and 
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 9  
+**Dexterity:** 15  
+**Constitution:** 12  
+**Intelligence:** 15  
+**Wisdom:** 14  
+**Charisma:** 16  
 
 ### Stat Adjustments
 

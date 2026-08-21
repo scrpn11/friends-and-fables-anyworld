@@ -2,10 +2,10 @@
 
 **Name:** Lingyang  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** He/Him  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Neutral Good  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Lingyang is cheerful, sincere, compassionate, brave, and intensely curious about
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 13  
+**Dexterity:** 17  
+**Constitution:** 14  
+**Intelligence:** 11  
+**Wisdom:** 14  
+**Charisma:** 15  
 
 ### Stat Adjustments
 

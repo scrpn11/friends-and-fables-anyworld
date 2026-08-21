@@ -2,10 +2,10 @@
 
 **Name:** Changli  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** She/Her  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Lawful Good  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Changli is intelligent, patient, persuasive, and intensely strategic. Her gentle
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 10  
+**Dexterity:** 15  
+**Constitution:** 12  
+**Intelligence:** 17  
+**Wisdom:** 15  
+**Charisma:** 16  
 
 ### Stat Adjustments
 

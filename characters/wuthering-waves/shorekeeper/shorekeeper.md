@@ -1,11 +1,11 @@
 # Character Sheet
 
 **Name:** Shorekeeper  
-**Aliases:**   
-**Pronouns:**   
+**Aliases:** The Shorekeeper  
+**Pronouns:** She/Her  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Lawful Good  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ The Shorekeeper is serene, thoughtful, devoted, and quietly introspective. Her a
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 8  
+**Dexterity:** 13  
+**Constitution:** 12  
+**Intelligence:** 17  
+**Wisdom:** 17  
+**Charisma:** 16  
 
 ### Stat Adjustments
 

@@ -2,10 +2,10 @@
 
 **Name:** Luuk Herssen  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** He/Him  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Lawful Neutral  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Luuk Herssen is intelligent, observant, self-controlled, and deliberate. He pref
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 11  
+**Dexterity:** 14  
+**Constitution:** 13  
+**Intelligence:** 17  
+**Wisdom:** 15  
+**Charisma:** 14  
 
 ### Stat Adjustments
 

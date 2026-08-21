@@ -1,11 +1,11 @@
 # Character Sheet
 
 **Name:** Jiyan  
-**Aliases:**   
-**Pronouns:**   
+**Aliases:** General Jiyan  
+**Pronouns:** He/Him  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Lawful Good  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Jiyan is disciplined, compassionate, pragmatic, and deeply protective of the peo
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 16  
+**Dexterity:** 15  
+**Constitution:** 15  
+**Intelligence:** 14  
+**Wisdom:** 16  
+**Charisma:** 15  
 
 ### Stat Adjustments
 

@@ -2,10 +2,10 @@
 
 **Name:** Jianxin  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** She/Her  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Lawful Good  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Jianxin is serene, compassionate, curious, and disciplined. Her Taoist upbringin
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 12  
+**Dexterity:** 15  
+**Constitution:** 14  
+**Intelligence:** 13  
+**Wisdom:** 17  
+**Charisma:** 14  
 
 ### Stat Adjustments
 

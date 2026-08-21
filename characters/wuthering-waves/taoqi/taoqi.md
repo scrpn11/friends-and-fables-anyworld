@@ -2,10 +2,10 @@
 
 **Name:** Taoqi  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** She/Her  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Lawful Good  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Taoqi is relaxed, practical, dependable, and quietly hardworking. She dislikes u
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 14  
+**Dexterity:** 11  
+**Constitution:** 17  
+**Intelligence:** 13  
+**Wisdom:** 15  
+**Charisma:** 14  
 
 ### Stat Adjustments
 

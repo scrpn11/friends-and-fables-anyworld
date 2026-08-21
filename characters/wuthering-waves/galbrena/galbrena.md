@@ -2,10 +2,10 @@
 
 **Name:** Galbrena  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** She/Her  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Chaotic Neutral  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Galbrena is cold, decisive, fiercely independent, and extraordinarily difficult 
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 12  
+**Dexterity:** 16  
+**Constitution:** 14  
+**Intelligence:** 13  
+**Wisdom:** 14  
+**Charisma:** 12  
 
 ### Stat Adjustments
 

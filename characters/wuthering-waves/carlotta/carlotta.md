@@ -1,11 +1,11 @@
 # Character Sheet
 
 **Name:** Carlotta  
-**Aliases:**   
-**Pronouns:**   
+**Aliases:** Opal  
+**Pronouns:** She/Her  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Lawful Neutral  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Carlotta is intelligent, ambitious, independent, and intensely self-possessed. S
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 8  
+**Dexterity:** 16  
+**Constitution:** 12  
+**Intelligence:** 15  
+**Wisdom:** 13  
+**Charisma:** 16  
 
 ### Stat Adjustments
 

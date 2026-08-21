@@ -2,10 +2,10 @@
 
 **Name:** Sanhua  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** She/Her  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Lawful Neutral  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Sanhua is reserved, disciplined, vigilant, and deeply loyal. Years spent masteri
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 11  
+**Dexterity:** 17  
+**Constitution:** 13  
+**Intelligence:** 14  
+**Wisdom:** 16  
+**Charisma:** 11  
 
 ### Stat Adjustments
 

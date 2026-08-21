@@ -1,11 +1,11 @@
 # Character Sheet
 
 **Name:** Rover  
-**Aliases:**  
+**Aliases:**   
 **Pronouns:** He/Him  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:** Neutral Good  
+**Alignment:** True Neutral  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -41,12 +41,12 @@ At the game's opening moment, Rover is calm, observant, cautious, and adaptable,
 **Hit Points:** 10  
 **Experience:** 0  
 
-**Strength:** 12  
-**Dexterity:** 14  
-**Constitution:** 13  
-**Intelligence:** 13  
+**Strength:** 13  
+**Dexterity:** 15  
+**Constitution:** 14  
+**Intelligence:** 14  
 **Wisdom:** 14  
-**Charisma:** 14  
+**Charisma:** 13  
 
 ### Stat Adjustments
 

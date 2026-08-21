@@ -2,10 +2,10 @@
 
 **Name:** Qiuyuan  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** He/Him  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Lawful Neutral  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Qiuyuan is reserved, disciplined, perceptive, and strongly independent. He value
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 12  
+**Dexterity:** 16  
+**Constitution:** 13  
+**Intelligence:** 15  
+**Wisdom:** 16  
+**Charisma:** 13  
 
 ### Stat Adjustments
 

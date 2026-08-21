@@ -1,11 +1,11 @@
 # Character Sheet
 
 **Name:** Jinhsi  
-**Aliases:**   
-**Pronouns:**   
+**Aliases:** Magistrate of Jinzhou  
+**Pronouns:** She/Her  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Lawful Good  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Jinhsi is composed, intelligent, compassionate, and deeply responsible. She unde
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 9  
+**Dexterity:** 14  
+**Constitution:** 12  
+**Intelligence:** 16  
+**Wisdom:** 16  
+**Charisma:** 17  
 
 ### Stat Adjustments
 

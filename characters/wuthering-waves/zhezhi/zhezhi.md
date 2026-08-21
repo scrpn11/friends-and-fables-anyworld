@@ -2,10 +2,10 @@
 
 **Name:** Zhezhi  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** She/Her  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Neutral Good  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Zhezhi is shy, sensitive, earnest, and deeply devoted to her art. Social attenti
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 8  
+**Dexterity:** 14  
+**Constitution:** 11  
+**Intelligence:** 16  
+**Wisdom:** 15  
+**Charisma:** 15  
 
 ### Stat Adjustments
 

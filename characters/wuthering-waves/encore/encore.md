@@ -2,10 +2,10 @@
 
 **Name:** Encore  
 **Aliases:**   
-**Pronouns:**   
+**Pronouns:** She/Her  
 **Race:** Incarnation  
 **Class:** Incarnation  
-**Alignment:**   
+**Alignment:** Chaotic Good  
 **Faction:**  
 **Subclass:**  
 **Voice:**  
@@ -35,18 +35,18 @@ Encore is exuberant, imaginative, curious, affectionate, and stubbornly committe
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30 feet  
+**Hit Dice:** 1d8  
+**Hit Points:** 10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 7  
+**Dexterity:** 14  
+**Constitution:** 10  
+**Intelligence:** 14  
+**Wisdom:** 13  
+**Charisma:** 17  
 
 ### Stat Adjustments
 
