@@ -1,0 +1,135 @@
+name: Normalize Wuthering Waves Character Structure
+
+on:
+  push:
+    paths:
+      - '.github/workflows/normalize-wuthering-waves-character-structure.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Normalize character sheet structure after Cantarella
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          root = Path('characters/wuthering-waves')
+          changed = []
+
+          def get_section(text, heading):
+              m = re.search(rf'^## {re.escape(heading)}\s*\n\s*(.*?)(?=\n## |\Z)', text, re.M | re.S)
+              return m.group(1).strip() if m else ''
+
+          def get_field(text, label, default=''):
+              m = re.search(rf'^- \*\*{re.escape(label)}:\*\*\s*(.*)$', text, re.M)
+              return m.group(1).strip() if m else default
+
+          for path in sorted(root.glob('*/*.md')):
+              key = path.parent.name.lower()
+              if key <= 'cantarella':
+                  continue
+              text = path.read_text(encoding='utf-8')
+              if text.startswith('# Character Sheet\n'):
+                  continue
+
+              m = re.match(r'^#\s+(.+?)\s*$', text, re.M)
+              if not m:
+                  continue
+              name = m.group(1).strip()
+
+              brief = get_section(text, 'Brief Description') or get_section(text, 'Brief')
+              appearance = get_section(text, 'Appearance')
+              backstory = get_section(text, 'Backstory')
+              mannerisms = get_section(text, 'Mannerisms')
+              personality = get_section(text, 'Personality')
+
+              character_type = get_field(text, 'Character Type', 'Non-Playable') or 'Non-Playable'
+              race = get_field(text, 'Race', 'Incarnation') or 'Incarnation'
+              cls = get_field(text, 'Class', 'Incarnation') or 'Incarnation'
+              subclass = get_field(text, 'Subclass', '')
+              faction = get_field(text, 'Faction', '')
+              location = get_field(text, 'Location', '')
+              voice = get_field(text, 'Voice', '')
+              aliases = get_field(text, 'Aliases', '')
+              pronouns = get_field(text, 'Pronouns', '')
+              alignment = get_field(text, 'Alignment', '')
+
+              stats = get_section(text, 'Stats')
+              if stats:
+                  stats_block = '## Stats\n\n' + stats.strip() + '\n\n'
+              else:
+                  stats_block = (
+                      '## Stats\n\n'
+                      '**Level:**  \n**Speed:**  \n**Hit Dice:**  \n**Hit Points:**  \n**Experience:**  \n\n'
+                      '**Strength:**  \n**Dexterity:**  \n**Constitution:**  \n**Intelligence:**  \n**Wisdom:**  \n**Charisma:**  \n\n'
+                      '### Stat Adjustments\n\n'
+                  )
+
+              new = (
+                  '# Character Sheet\n\n'
+                  f'**Name:** {name}  \n'
+                  f'**Aliases:** {aliases}  \n'
+                  f'**Pronouns:** {pronouns}  \n'
+                  '**Race:** Incarnation  \n'
+                  '**Class:** Incarnation  \n'
+                  f'**Alignment:** {alignment}  \n'
+                  '**Faction:**  \n'
+                  '**Subclass:**  \n'
+                  '**Voice:**  \n'
+                  '**Location:**  \n\n'
+                  '### Brief Description\n\n' + brief + '\n\n'
+                  f'**Character Type:** {character_type}\n\n'
+                  '### Appearance\n\n' + appearance + '\n\n'
+                  '### Backstory\n\n' + backstory + '\n\n'
+                  '### Mannerisms\n\n' + mannerisms + '\n\n'
+                  '### Personality\n\n' + personality + '\n\n'
+                  + stats_block +
+                  '## Skills\n\n'
+                  '## Inventory\n\n'
+                  '### Weapons\n\n'
+                  '### Equipment\n\n'
+                  '## Spellbook\n'
+              )
+
+              path.write_text(new, encoding='utf-8')
+              changed.append(path.as_posix())
+
+          # Verify every alphabetically later character now uses the template shell.
+          failures = []
+          required = [
+              '# Character Sheet', '**Name:**', '**Aliases:**', '**Pronouns:**',
+              '**Race:** Incarnation', '**Class:** Incarnation', '**Alignment:**',
+              '**Faction:**', '**Subclass:**', '**Voice:**', '**Location:**',
+              '### Brief Description', '**Character Type:**', '### Appearance',
+              '### Backstory', '### Mannerisms', '### Personality', '## Stats',
+              '### Stat Adjustments', '## Skills', '## Inventory', '### Weapons',
+              '### Equipment', '## Spellbook'
+          ]
+          for path in sorted(root.glob('*/*.md')):
+              if path.parent.name.lower() <= 'cantarella':
+                  continue
+              text = path.read_text(encoding='utf-8')
+              missing = [item for item in required if item not in text]
+              if missing:
+                  failures.append(f"{path.as_posix()}: {', '.join(missing)}")
+
+          Path('.tmp-structure-normalization-report.txt').write_text(
+              'CHANGED\n' + '\n'.join(changed) + '\n\nFAILURES\n' + ('\n'.join(failures) if failures else 'NONE') + '\n',
+              encoding='utf-8'
+          )
+          if failures:
+              raise RuntimeError('Structure validation failed')
+
+      - name: Commit normalized character sheets
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add characters/wuthering-waves .tmp-structure-normalization-report.txt
+          git commit -m "Normalize Wuthering Waves character sheet structure"
+          git push
