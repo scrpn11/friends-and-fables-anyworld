@@ -13,7 +13,7 @@
 
 ### Brief Description
 
-Changli is an accomplished strategist and Counselor to the Magistrate of Jinzhou, formerly Secretary-General of Huanglong's Central Secretariat. Calm, patient, and perceptive, she guides events through careful preparation, political insight, and a precise understanding of people.
+Changli is an accomplished strategist who serves as Counselor to the Magistrate of Jinzhou after previously holding the office of Secretary-General of Huanglong's Central Secretariat. Calm, patient, and exceptionally perceptive, she prefers to shape events through preparation and an exact understanding of human nature rather than overt displays of.
 
 **Character Type:** Non-Playable
 

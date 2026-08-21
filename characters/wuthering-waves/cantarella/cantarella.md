@@ -1,6 +1,6 @@
 # Character Sheet
 
-**Name:** Cantarella Fisalia  
+**Name:** Cantarella  
 **Aliases:**  
 **Pronouns:** She/Her  
 **Race:** Incarnation  
@@ -13,7 +13,7 @@
 
 ### Brief Description
 
-Cantarella Fisalia is the elegant and unsettling thirty-sixth head of Rinascita's ancient Fisalia family. A highly accomplished Resonator and poison specialist, she carries herself with serene aristocratic poise while overseeing a lineage burdened by dangerous traditions, whispered disgrace, and a long connection to Ragunna's faith.
+Cantarella is the elegant and unsettling thirty-sixth head of Rinascita's ancient Fisalia family. A highly accomplished Resonator and poison specialist, she carries herself with serene aristocratic poise while overseeing a lineage burdened by dangerous traditions, whispered disgrace, and a long connection to Ragunna's faith.
 
 **Character Type:** Non-Playable
 
