@@ -27,7 +27,7 @@ Kaede was born in a mixed demi-human settlement near Melromarc's eastern trade r
 
 ### Mannerisms
 
-Kaede's ears swivel toward sudden sounds before her head follows, and her tail gives away irritation even when her face does not. She crouches rather than sits when waiting, speaks in short direct sentences, sniffs unfamiliar food, and flashes a quick crooked grin when she thinks she has found an advantage.
+Kaede's ears swivel toward sudden sounds before her head follows, and her tail gives away irritation even when her face does not. She crouches rather than sits when waiting, speaks in short direct sentences, sniffs unfamiliar food, and flashes a quick grin when she thinks she has found an advantage.
 
 ### Personality
 
