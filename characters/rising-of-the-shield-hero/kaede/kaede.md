@@ -58,4 +58,8 @@ Kaede is quick-witted, independent, suspicious, and difficult to intimidate for 
 
 ### Equipment
 
+- Small bundle of dried herbs.
+- Jagged hand-carved bone whistle used for signaling animals.
+- No coin pouch or coins currently; Kelabren took them.
+
 ## Spellbook
