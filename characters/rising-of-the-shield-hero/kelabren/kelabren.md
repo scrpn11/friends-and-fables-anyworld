@@ -108,6 +108,28 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
   - Iron Spearhead x3 — Shafts have rotted away, but the heads remain usable.
   - Round Wooden Shield — Battered and faded, with intact iron rim and grip.
   - Iron Lockbox — Small, battered strongbox whose lock has rusted apart.
+- Map x3 — Maps carried by the two quarry patrol soldiers; contents not yet examined closely.
+- Iron Shortsword x2 — Serviceable military shortswords with matching scabbards.
+- Light Leather Armor x2 — Standard light armor worn by the quarry patrol soldiers.
+- Military Cloak x2 — Practical cloaks issued or used by the patrol soldiers.
+- Leather Belt x2 — Sturdy military belts suitable for carrying pouches and weapons.
+- Belt Pouch x2 — Small leather pouches taken from the patrol soldiers.
+- Utility Knife x2 — Plain working knives suitable for camp chores and general use.
+- Waterskin x2 — Partially full leather waterskins.
+- Ration Bundle x2 — Each contains bread, dried meat, and hard cheese.
+- Flint and Steel x2 — Small fire-starting kits carried by the patrol soldiers.
+- Whetstone — Small sharpening stone used for maintaining blades.
+- Coil of Thin Rope — 20 ft — Light utility rope carried by the patrol.
+- Melromarc Military Badge x2 — Badges identifying the dead men as Melromarc soldiers.
+- Iron Key Ring — Holds three small iron keys of unknown purpose.
+- Silver Coin x3
+- Copper Coin x17
+- Patrol Notebook — Small leather-bound notebook; contents not yet examined closely.
+- Folded Personal Letter x2 — Personal correspondence carried by the soldiers; contents not yet examined.
+- Bone Dice — Simple pair of dice carved from bone.
+- Brass Pendant — Cheap personal pendant with no obvious value at a glance.
+- Handkerchief — Plain cloth handkerchief.
+- Pouch of Dried Herbs or Tobacco — Small pouch of dried plant material; exact contents not yet identified.
 
 ### Weapons
 
