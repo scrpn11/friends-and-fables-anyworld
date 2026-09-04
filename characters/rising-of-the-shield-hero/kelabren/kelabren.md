@@ -54,37 +54,28 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ## Inventory
 
-- Silver Coin x26
-- Copper Coin x110
+- Cloth Herb Packet — Small cloth packet containing dried medicinal herbs for basic wound treatment.
+  - Dried Yarrow Leaves x6 — Leaves traditionally used in poultices for minor cuts and bleeding.
+  - Dried Broadleaf Plantain Leaves x4 — Leaves used in poultices for minor wounds, irritation, and swelling.
+- Weathered Leather Pouch — Small drawstring pouch used to carry currency.
+  - Silver Coin x26
+  - Copper Coin x110
 - Paint Bowl — Magical bowl used with the slave-crest brush to paint functioning slave crests.
 - Slave-Crest Brush — Magical brush that paints functioning slave crests and allows completed crests to instinctively enforce Kelabren's intent.
 - Broken Brass Compass — Family compass damaged in the storm that killed his parents and sister; its needle is bent.
-- Weathered Leather Pouch — Small drawstring pouch used to carry currency.
 - Obsidian Mana Shard — Thumb-sized polished black crystal with a faint magical presence; its exact purpose is unknown.
-- Iron Shortsword x2 — Old military blades; surface rust, but serviceable after cleaning.
-- Iron Spearhead x3 — Shafts have rotted away, but the heads remain usable.
-- Iron Dagger — Heavily tarnished but intact.
-- Light Crossbow — Weathered military crossbow requiring a new string and maintenance.
-- Crossbow Bolt x14 — Several need straightening.
-- Round Wooden Shield — Battered and faded, with intact iron rim and grip.
-- Iron Helmet x2 — Old open-faced military helmets with considerable surface rust.
-- Chain Shirt — Missing several links around one shoulder but repairable.
-- Leather Bracer x2 — Stiff with age but usable.
 - Iron Cooking Pot — Blackened, dented, and completely functional.
 - Small Iron Frying Pan — Rusty enough to need cleaning.
 - Iron Kettle — Missing its lid but otherwise intact.
 - Tin Cup x4
 - Wooden Bowl x3 — Dry and cracked but salvageable.
 - Iron Spoon x5
-- Butcher Knife — Dull, broad-bladed utility knife.
 - Whetstone — Well worn but still useful.
 - Flint and Steel
-- Iron Lantern — Glass is gone, but the metal housing remains intact.
 - Candle x6 — Misshapen but usable.
 - Coil of Hemp Rope — 38 ft — Mildewed along the outermost section but mostly sound.
 - Canvas Tarp — 8 × 6 ft — Stained and patched, but usable.
 - Wool Blanket x2 — Musty but intact.
-- Empty Waterskin x2 — Leather is dry and needs oiling.
 - Small Wooden Cask — Empty; holds roughly three gallons.
 - Iron Hammer
 - Iron Hatchet — Edge badly needs sharpening.
@@ -97,10 +88,6 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Sewing Needle x4
 - Spool of Linen Thread x2
 - Small Brass Buckle x6
-- Brass Military Badge x3 — Old Melromarc insignia.
-- Silver Signet Ring — Tarnished ring bearing the outpost commander's insignia.
-- Brass Locket — Empty and dented.
-- Quartz Pendant — Cheap jewelry with a polished clear stone.
 - Small Bottle of Lamp Oil x2
 - Medicinal Alcohol Flask — About half full.
 - Dried Salt — 2 lb
@@ -110,11 +97,29 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Bottle of Black Ink — Roughly half full.
 - Outpost Ledger — Water-damaged record book containing names, supply records, patrol routes, and references to other nearby military positions.
 - Regional Patrol Map — Faded hand-drawn map showing old roads, watch posts, trails, a quarry, and two additional outposts.
-- Iron Lockbox — Small, battered strongbox whose lock has rusted apart.
+- Folded Parchment Note — A short handwritten message, faded but still legible. It reads: “Third marker beyond the eastern quarry. Beneath the split stone. Come alone.” There is no signature, only the same tower-and-three-stars symbol drawn beneath the message.
+- Tarnished Silver Crest Ring — A solid silver ring bearing an unfamiliar heraldic crest: a black tower beneath three stars. Different from the Melromarc commander's signet ring we already found. The engraving is unusually fine, suggesting it belonged to someone of some status.
 - Empty Cedar Chest
+  - Iron Helmet — Old open-faced military helmets with considerable surface rust.
+  - Brass Military Badge x3 — Old Melromarc insignia.
+  - Silver Signet Ring — Tarnished ring bearing the outpost commander's insignia.
+  - Brass Locket — Empty and dented.
+  - Quartz Pendant — Cheap jewelry with a polished clear stone.
+  - Iron Spearhead x3 — Shafts have rotted away, but the heads remain usable.
+  - Round Wooden Shield — Battered and faded, with intact iron rim and grip.
+  - Iron Lockbox — Small, battered strongbox whose lock has rusted apart.
 
 ### Weapons
 
+- Iron Shortsword x2 — Old military blades; surface rust, but serviceable.
+
 ### Equipment
+
+- Leather Bracer x2 — Stiff with age but usable.
+- Iron Helmet — Old open-faced military helmets with considerable surface rust.
+- Chain Shirt — Missing several links around one shoulder but repairable.
+- Empty Waterskin — Leather is dry and needs oiling.
+- Iron Lantern — Glass is gone, but the metal housing remains intact.
+- Butcher Knife — Dull, broad-bladed utility knife.
 
 ## Spellbook

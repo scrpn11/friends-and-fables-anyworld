@@ -55,12 +55,15 @@ Kaede is quick-witted, independent, suspicious, and difficult to intimidate for 
 ## Inventory
 
 - Bone Whistle — Jagged, hand-carved whistle used to signal or call trained animals at short range.
-- Cloth Herb Packet — Small cloth packet containing dried medicinal herbs for basic wound treatment.
-  - Dried Yarrow Leaves x6 — Leaves traditionally used in poultices for minor cuts and bleeding.
-  - Dried Broadleaf Plantain Leaves x4 — Leaves used in poultices for minor wounds, irritation, and swelling.
 
 ### Weapons
 
+- Iron Dagger — Heavily tarnished but intact.
+- Light Crossbow — Weathered military crossbow requiring a new string and maintenance.
+- Crossbow Bolt x14 — Several need straightening.
+
 ### Equipment
+
+- Empty Waterskin — Leather is dry and needs oiling.
 
 ## Spellbook
