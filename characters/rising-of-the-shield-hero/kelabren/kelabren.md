@@ -54,11 +54,14 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ## Inventory
 
+- 1 paint bowl — magical tool used with the slave-crest brush to paint functioning slave crests.
+- 1 slave-crest brush — magical brush that paints functioning slave crests and instinctively enforces Kelabren's intent through the completed crest.
+- 1 small leather coin pouch — taken from Kaede.
+- 1 silver coin — taken from Kaede.
+- 43 copper coins — taken from Kaede.
+
 ### Weapons
 
 ### Equipment
-
-- Paint bowl and brush set — magically capable of painting slave crests.
-- Coin pouch and coins taken from Kaede — exact coin total not yet established.
 
 ## Spellbook
