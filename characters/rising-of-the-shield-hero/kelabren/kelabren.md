@@ -57,39 +57,39 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 ### Currency & Valuables
 
 - Weathered Leather Pouch — Small drawstring pouch used to carry currency.
-  - Silver Coin x41
-  - Copper Coin x118
+  - Silver Coin x46
+  - Copper Coin x149
 - Tarnished Silver Crest Ring — A solid silver ring bearing an unfamiliar heraldic crest: a black tower beneath three stars. Different from the Melromarc commander's signet ring we already found. The engraving is unusually fine, suggesting it belonged to someone of some status.
 - Brass Pendant — Cheap personal pendant with no obvious value at a glance.
 - Bone Dice — Simple pair of dice carved from bone.
+- Copper Bracelet — Cheap personal bracelet taken from one of the quarry patrol soldiers.
 
 ### Weapons
 
 - Iron Hatchet — Edge badly needs sharpening.
-- Iron Shortsword x2 — Serviceable military shortswords with matching scabbards.
-- Utility Knife x2 — Plain working knives suitable for camp chores and general use.
+- Iron Shortsword x6 — Serviceable military shortswords with matching scabbards.
+- Utility Knife x6 — Plain working knives suitable for camp chores and general use.
 - Iron Spearhead x3 — Shafts have rotted away, but the heads remain usable.
+- Bent Crossbow Bolt x9 — Damaged bolts unsuitable for reliable use until repaired or replaced.
 
 ### Equipment
 
-- Light Leather Armor x2 — Standard light armor worn by the quarry patrol soldiers.
-- Military Cloak x2 — Practical cloaks issued or used by the patrol soldiers.
-- Leather Belt x2 — Sturdy military belts suitable for carrying pouches and weapons.
-- Belt Pouch x2 — Small leather pouches taken from the patrol soldiers.
+- Light Leather/Chain Armor x6 — Mixed standard infantry armor taken from the quarry patrol soldiers.
+- Military Cloak x6 — Practical cloaks issued or used by the patrol soldiers.
+- Leather Belt x6 — Sturdy military belts suitable for carrying pouches and weapons.
+- Belt Pouch x6 — Small leather pouches taken from the patrol soldiers.
 - Round Wooden Shield — Battered and faded, with intact iron rim and grip.
 - Iron Helmet — Old open-faced military helmet with considerable surface rust.
-- Waterskin x2 — Partially full leather waterskins.
+- Waterskin x6 — Four more recovered from the patrol; three are partially full and one is nearly empty.
 
 ### Tools & Utility
 
 - Paint Bowl — Magical bowl used with the slave-crest brush to paint functioning slave crests.
 - Slave-Crest Brush — Magical brush that paints functioning slave crests and allows completed crests to instinctively enforce Kelabren's intent.
-- Whetstone — Well worn but still useful.
-- Whetstone — Small sharpening stone used for maintaining blades.
-- Flint and Steel
-- Flint and Steel x2 — Small fire-starting kits carried by the patrol soldiers.
+- Whetstone x4 — Sharpening stones of varying wear, including the two recovered from the remaining patrol soldiers.
+- Flint and Steel x6 — Fire-starting kits carried by the patrol and already in Kelabren's supplies.
 - Coil of Hemp Rope — 38 ft — Mildewed along the outermost section but mostly sound.
-- Coil of Thin Rope — 20 ft — Light utility rope carried by the patrol.
+- Coil of Thin Rope x3 — 20 ft each — Light utility rope carried by the patrol.
 - Canvas Tarp — 8 × 6 ft — Stained and patched, but usable.
 - Iron Hammer
 - Iron Pry Bar
@@ -98,12 +98,15 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Iron Horseshoe x7
 - Copper Wire — 11 ft
 - Leather Strap x8 — Various lengths suitable for repairs.
-- Sewing Needle x4
+- Sewing Needle x6 — Includes two needles recovered in a small patrol sewing kit.
 - Spool of Linen Thread x2
 - Small Brass Buckle x6
 - Small Bottle of Lamp Oil x2
 - Iron Key Ring — Holds three small iron keys of unknown purpose.
-- Handkerchief — Plain cloth handkerchief.
+- Small Iron Key — Single key carried by one of the remaining patrol soldiers; purpose unknown.
+- Handkerchief x3 — Plain cloth handkerchiefs.
+- Sewing Kit — Small kit containing thread and several cloth patches; its two needles are counted separately above.
+- Bone Comb — Simple personal comb.
 
 ### Camp & Cooking Gear
 
@@ -116,6 +119,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Candle x6 — Misshapen but usable.
 - Wool Blanket x2 — Musty but intact.
 - Small Wooden Cask — Empty; holds roughly three gallons.
+- Worn Playing Cards — Complete but heavily used deck carried by the patrol.
 
 ### Food, Medicine & Consumables
 
@@ -123,10 +127,11 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
   - Dried Yarrow Leaves x6 — Leaves traditionally used in poultices for minor cuts and bleeding.
   - Dried Broadleaf Plantain Leaves x4 — Leaves used in poultices for minor wounds, irritation, and swelling.
 - Medicinal Alcohol Flask — About half full.
+- Small Flask — Contains a little alcohol recovered from one of the patrol soldiers.
 - Dried Salt — 2 lb
 - Wax-Sealed Tea Brick — Old but dry.
-- Ration Bundle x2 — Each contains bread, dried meat, and hard cheese.
-- Pouch of Dried Herbs or Tobacco — Small pouch of dried plant material; exact contents not yet identified.
+- Ration Bundle x6 — Each contains bread, dried meat, and hard cheese.
+- Pouch of Dried Herbs or Tobacco x2 — Small pouches of dried plant material; exact contents not yet identified.
 
 ### Documents & Writing Supplies
 
@@ -136,15 +141,18 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Outpost Ledger — Water-damaged record book containing names, supply records, patrol routes, and references to other nearby military positions.
 - Regional Patrol Map — Faded hand-drawn map showing old roads, watch posts, trails, a quarry, and two additional outposts.
 - Folded Parchment Note — A short handwritten message, faded but still legible. It reads: “Third marker beyond the eastern quarry. Beneath the split stone. Come alone.” There is no signature, only the same tower-and-three-stars symbol drawn beneath the message.
-- Map x3 — Maps carried by the two quarry patrol soldiers; contents not yet examined closely.
+- Map x4 — Three maps carried by the first two quarry patrol soldiers plus one additional regional map from the remaining four; contents not yet examined closely.
 - Patrol Notebook — Small leather-bound notebook; contents not yet examined closely.
-- Folded Personal Letter x2 — Personal correspondence carried by the soldiers; contents not yet examined.
+- Patrol Orders Sheet — Folded written orders carried by the remaining patrol soldiers; contents not yet examined closely.
+- Patrol Roster — List relating to the six-man patrol; contents not yet examined closely.
+- Folded Personal Letter x5 — Personal correspondence carried by the patrol soldiers; contents not yet examined.
 
 ### Personal & Magical Items
 
 - Broken Brass Compass — Family compass damaged in the storm that killed his parents and sister; its needle is bent.
 - Obsidian Mana Shard — Thumb-sized polished black crystal with a faint magical presence; its exact purpose is unknown.
-- Melromarc Military Badge x2 — Badges identifying the dead men as Melromarc soldiers.
+- Melromarc Military Badge x6 — Badges identifying the dead men as Melromarc soldiers.
+- Wooden Prayer Token — Small religious charm carried by one of the patrol soldiers; exact significance unknown.
 
 ### Containers & Stored Items
 
