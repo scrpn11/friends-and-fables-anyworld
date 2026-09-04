@@ -58,6 +58,8 @@ Lachlia is cautious, observant, practical, and quietly stubborn. She rarely chal
 
 ### Weapons
 
+- Iron Dagger — Heavily tarnished but intact.
+
 ### Equipment
 
 ## Spellbook

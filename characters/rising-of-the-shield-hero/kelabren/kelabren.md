@@ -59,7 +59,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
   - Dried Broadleaf Plantain Leaves x4 — Leaves used in poultices for minor wounds, irritation, and swelling.
 - Weathered Leather Pouch — Small drawstring pouch used to carry currency.
   - Silver Coin x26
-  - Copper Coin x110
+  - Copper Coin x101
 - Paint Bowl — Magical bowl used with the slave-crest brush to paint functioning slave crests.
 - Slave-Crest Brush — Magical brush that paints functioning slave crests and allows completed crests to instinctively enforce Kelabren's intent.
 - Broken Brass Compass — Family compass damaged in the storm that killed his parents and sister; its needle is bent.
@@ -120,6 +120,5 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Chain Shirt — Missing several links around one shoulder but repairable.
 - Empty Waterskin — Leather is dry and needs oiling.
 - Iron Lantern — Glass is gone, but the metal housing remains intact.
-- Butcher Knife — Dull, broad-bladed utility knife.
 
 ## Spellbook

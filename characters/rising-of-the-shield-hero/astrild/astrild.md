@@ -13,13 +13,13 @@
 
 ### Brief Description
 
-Astrild is a twenty-four-year-old feline demi-human who has spent nearly her entire life isolated in the forest ruins she calls home. Wary of outsiders and fiercely self-reliant, she survives through patience, sharp senses, and an intimate familiarity with the wilderness surrounding her temple.
+Astrild is a young feline demi-human who has spent nearly her entire life isolated in the forest ruins she calls home. Wary of outsiders and fiercely self-reliant, she survives through patience, sharp senses, and an intimate familiarity with the wilderness surrounding her temple.
 
 **Character Type:** Non-Playable
 
 ### Appearance
 
-Astrild appears to be a human woman in her early twenties aside from her feline ears and tail. She stands about five feet five inches tall with a slender, lightly athletic build, narrow shoulders, a defined waist, long legs, and fine-boned proportions. Her face is oval and delicate, tapering to a small chin beneath a straight nose and high cheekbones. Deep, vibrant green eyes sit beneath dark brows, their slightly narrowed outer corners giving her gaze a naturally alert quality. Her skin is extremely pale, nearly porcelain, with a cool undertone and little visible weathering. Long, straight black hair falls beyond her waist in a smooth, heavy curtain with shorter strands framing her face. Two black-furred cat ears rise from the top of her head, their interiors lighter, and a long black feline tail extends from her lower back. Her posture is poised and quiet, becoming completely still while observing. When she moves, her steps are light, balanced, precise, and nearly silent.
+Astrild appears to be a young human woman aside from her feline ears and tail. She stands about five feet five inches tall with a slender, lightly athletic build, narrow shoulders, a defined waist, long legs, and fine-boned proportions. Her face is oval and delicate, tapering to a small chin beneath a straight nose and high cheekbones. Deep, vibrant green eyes sit beneath dark brows, their slightly narrowed outer corners giving her gaze a naturally alert quality. Her skin is extremely pale, nearly porcelain, with a cool undertone and little visible weathering. Long, straight black hair falls beyond her waist in a smooth, heavy curtain with shorter strands framing her face. Two black-furred cat ears rise from the top of her head, their interiors lighter, and a long black feline tail extends from her lower back. Her posture is poised and quiet, becoming completely still while observing. When she moves, her steps are light, balanced, precise, and nearly silent.
 
 ### Backstory
 

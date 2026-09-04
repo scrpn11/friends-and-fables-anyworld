@@ -58,9 +58,9 @@ Kaede is quick-witted, independent, suspicious, and difficult to intimidate for 
 
 ### Weapons
 
-- Iron Dagger — Heavily tarnished but intact.
 - Light Crossbow — Weathered military crossbow requiring a new string and maintenance.
 - Crossbow Bolt x14 — Several need straightening.
+- Butcher Knife — Dull, broad-bladed utility knife.
 
 ### Equipment
 
