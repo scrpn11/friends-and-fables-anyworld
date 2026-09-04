@@ -54,21 +54,18 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ## Inventory
 
+- Silver Coin x26
+- Copper Coin x110
 - Paint Bowl — Magical bowl used with the slave-crest brush to paint functioning slave crests.
 - Slave-Crest Brush — Magical brush that paints functioning slave crests and allows completed crests to instinctively enforce Kelabren's intent.
 - Broken Brass Compass — Family compass damaged in the storm that killed his parents and sister; its needle is bent.
-- Weathered Leather Pouch — Small drawstring pouch found near the wolf's den, now used to carry currency.
-  - Silver Coin x7 — Silver pieces recovered from the pouch near the wolf's den.
+- Weathered Leather Pouch — Small drawstring pouch used to carry currency.
 - Obsidian Mana Shard — Thumb-sized polished black crystal with a faint magical presence; its exact purpose is unknown.
-- Silver Coin — Coin taken from Kaede before lunch; exact current amount may have been reduced by food purchases.
-- Copper Coin x43 — Coins taken from Kaede before lunch; exact current amount may have been reduced by food purchases.
-- Silver Coin x18
-- Copper Coin x67
 - Iron Shortsword x2 — Old military blades; surface rust, but serviceable after cleaning.
 - Iron Spearhead x3 — Shafts have rotted away, but the heads remain usable.
 - Iron Dagger — Heavily tarnished but intact.
 - Light Crossbow — Weathered military crossbow requiring a new string and maintenance.
-- Crossbow Bolt x14 — Salvaged from a relatively dry storage chest; several need straightening.
+- Crossbow Bolt x14 — Several need straightening.
 - Round Wooden Shield — Battered and faded, with intact iron rim and grip.
 - Iron Helmet x2 — Old open-faced military helmets with considerable surface rust.
 - Chain Shirt — Missing several links around one shoulder but repairable.
@@ -83,38 +80,38 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Whetstone — Well worn but still useful.
 - Flint and Steel
 - Iron Lantern — Glass is gone, but the metal housing remains intact.
-- Candle x6 — Misshapen but protected inside a sealed supply box.
+- Candle x6 — Misshapen but usable.
 - Coil of Hemp Rope — 38 ft — Mildewed along the outermost section but mostly sound.
 - Canvas Tarp — 8 × 6 ft — Stained and patched, but usable.
-- Wool Blanket x2 — Musty, though surprisingly intact after being stored in a cedar chest.
-- Empty Waterskin x2 — Leather is dry and will need oiling before I trust it.
-- Small Wooden Cask — Empty, intact, and capable of holding roughly three gallons.
+- Wool Blanket x2 — Musty but intact.
+- Empty Waterskin x2 — Leather is dry and needs oiling.
+- Small Wooden Cask — Empty; holds roughly three gallons.
 - Iron Hammer
 - Iron Hatchet — Edge badly needs sharpening.
 - Iron Pry Bar
 - Hand Shovel
 - Iron Nails x46
 - Iron Horseshoe x7
-- Copper Wire — 11 ft — Coiled inside what was probably a repair kit.
+- Copper Wire — 11 ft
 - Leather Strap x8 — Various lengths suitable for repairs.
 - Sewing Needle x4
 - Spool of Linen Thread x2
 - Small Brass Buckle x6
-- Brass Military Badge x3 — Old Melromarc insignia; potentially collectible or worth melting down.
+- Brass Military Badge x3 — Old Melromarc insignia.
 - Silver Signet Ring — Tarnished ring bearing the outpost commander's insignia.
-- Brass Locket — Empty, dented, but decorative enough to sell.
+- Brass Locket — Empty and dented.
 - Quartz Pendant — Cheap jewelry with a polished clear stone.
-- Small Bottle of Lamp Oil x2 — Sealed tightly enough to have survived.
+- Small Bottle of Lamp Oil x2
 - Medicinal Alcohol Flask — About half full.
-- Dried Salt — 2 lb — Found sealed inside a wax-lined ceramic jar.
+- Dried Salt — 2 lb
 - Wax-Sealed Tea Brick — Old but dry.
-- Blank Parchment Sheet x9 — Yellowed but protected inside an oilcloth document case.
+- Blank Parchment Sheet x9 — Yellowed but usable.
 - Charcoal Writing Stick x5
 - Bottle of Black Ink — Roughly half full.
 - Outpost Ledger — Water-damaged record book containing names, supply records, patrol routes, and references to other nearby military positions.
 - Regional Patrol Map — Faded hand-drawn map showing old roads, watch posts, trails, a quarry, and two additional outposts.
-- Iron Lockbox — Small, battered strongbox whose lock has already rusted apart.
-- Empty Cedar Chest — The storage chest that protected the blankets and candles.
+- Iron Lockbox — Small, battered strongbox whose lock has rusted apart.
+- Empty Cedar Chest
 
 ### Weapons
 
