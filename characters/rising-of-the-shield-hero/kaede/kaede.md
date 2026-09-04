@@ -59,7 +59,7 @@ Kaede is quick-witted, independent, suspicious, and difficult to intimidate for 
 ### Weapons
 
 - Light Crossbow — Weathered military crossbow requiring a new string and maintenance.
-- Crossbow Bolt x11 — Several need straightening.
+- Crossbow Bolt x5
 - Butcher Knife — Dull, broad-bladed utility knife.
 
 ### Equipment
