@@ -57,10 +57,8 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 ### Currency & Valuables
 
 - Weathered Leather Pouch — Small drawstring pouch used to carry currency.
-  - Silver Coin x26
-  - Copper Coin x101
-- Silver Coin x3
-- Copper Coin x17
+  - Silver Coin x41
+  - Copper Coin x118
 - Tarnished Silver Crest Ring — A solid silver ring bearing an unfamiliar heraldic crest: a black tower beneath three stars. Different from the Melromarc commander's signet ring we already found. The engraving is unusually fine, suggesting it belonged to someone of some status.
 - Brass Pendant — Cheap personal pendant with no obvious value at a glance.
 - Bone Dice — Simple pair of dice carved from bone.
@@ -151,17 +149,12 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 ### Containers & Stored Items
 
 - Empty Cedar Chest
-  - Brass Military Badge x3 — Old Melromarc insignia.
-  - Silver Signet Ring — Tarnished ring bearing the outpost commander's insignia.
-  - Brass Locket — Empty and dented.
-  - Quartz Pendant — Cheap jewelry with a polished clear stone.
-  - Iron Lockbox — Small, battered strongbox whose lock has rusted apart.
 
-### Weapons
+### Weapons (Equipped)
 
 - Iron Shortsword x2 — Old military blades; surface rust, but serviceable.
 
-### Equipment
+### Equipment (Equipped)
 
 - Leather Bracer x2 — Stiff with age but usable.
 - Iron Helmet — Old open-faced military helmets with considerable surface rust.
