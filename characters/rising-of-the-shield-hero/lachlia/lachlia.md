@@ -56,10 +56,31 @@ Lachlia is cautious, observant, practical, and quietly stubborn. She rarely chal
 
 ## Inventory
 
+- Iron Spoon
+- Tin Cup
+- Candle — Misshapen but usable.
+- Whetstone
+- Flint and Steel
+- Handkerchief — Plain cloth.
+- Bone Comb — Simple personal comb.
+- Sewing Kit
+  - Sewing Needle x6
+  - Spool of Linen Thread x2
+- Iron Cooking Pot — Blackened, dented, and completely functional.
+- Small Iron Frying Pan — Rusty enough to need cleaning.
+- Iron Kettle — Missing its lid but otherwise intact.
+- Dried Salt — 2 lb
+- Wax-Sealed Tea Brick — Old but dry.
+- Medicinal Alcohol Flask — About half full.
+
 ### Weapons
 
 - Iron Dagger — Heavily tarnished but intact.
+- Utility Knife — Plain working knives suitable for camp chores and general use.
 
 ### Equipment
+
+- Belt Pouch — Small leather pouch.
+- Waterskin (full)
 
 ## Spellbook
