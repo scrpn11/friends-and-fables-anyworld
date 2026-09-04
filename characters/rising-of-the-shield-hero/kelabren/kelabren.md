@@ -56,9 +56,12 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 - Paint Bowl — Magical bowl used with the slave-crest brush to paint functioning slave crests.
 - Slave-Crest Brush — Magical brush that paints functioning slave crests and allows completed crests to instinctively enforce Kelabren's intent.
-- Pouch — A small leather pouch
-  - Silver Coin
-  - Copper Coin x43
+- Broken Brass Compass — Family compass damaged in the storm that killed his parents and sister; its needle is bent.
+- Weathered Leather Pouch — Small drawstring pouch found near the wolf's den, now used to carry currency.
+  - Silver Coin x7 — Silver pieces recovered from the pouch near the wolf's den.
+- Obsidian Mana Shard — Thumb-sized polished black crystal with a faint magical presence; its exact purpose is unknown.
+- Silver Coin — Coin taken from Kaede before lunch; exact current amount may have been reduced by food purchases.
+- Copper Coin x43 — Coins taken from Kaede before lunch; exact current amount may have been reduced by food purchases.
 
 ### Weapons
 
