@@ -56,7 +56,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 - Paint Bowl — Magical bowl used with the slave-crest brush to paint functioning slave crests.
 - Slave-Crest Brush — Magical brush that paints functioning slave crests and allows completed crests to instinctively enforce Kelabren's intent.
-- Leather Coin Pouch — Small leather pouch taken from Kaede.
+- Pouch — A small leather pouch
   - Silver Coin
   - Copper Coin x43
 
