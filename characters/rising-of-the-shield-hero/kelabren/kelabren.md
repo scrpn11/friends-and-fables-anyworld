@@ -58,4 +58,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ### Equipment
 
+- Paint bowl and brush set — magically capable of painting slave crests.
+- Coin pouch and coins taken from Kaede — exact coin total not yet established.
+
 ## Spellbook
