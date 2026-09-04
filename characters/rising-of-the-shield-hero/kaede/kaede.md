@@ -54,8 +54,10 @@ Kaede is quick-witted, independent, suspicious, and difficult to intimidate for 
 
 ## Inventory
 
-- 1 jagged hand-carved bone whistle — used to signal or call trained animals at short range.
-- 1 small cloth herb packet containing 6 dried yarrow leaves and 4 dried broadleaf plantain leaves — enough material for 2 simple wound poultices.
+- jagged hand-carved bone whistle (used to signal or call trained animals at short range.)
+- small cloth herb packet
+    - dried yarrow leaves x6
+    - dried broadleaf plantain leaves x4
 
 ### Weapons
 
