@@ -73,8 +73,5 @@ Astrild is reserved, territorial, perceptive, and fiercely independent. Years of
 
 - Utility Knife — Plain working knife suitable for camp chores and general use.
 - Whetstone
-- Wooden Bowl
-- Wool Blanket
-- Writing Charcoal Stick
 
 ## Spellbook

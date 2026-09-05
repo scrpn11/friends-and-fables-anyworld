@@ -58,43 +58,23 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 - Candle x3 — Misshapen but usable.
 - Iron Lantern — Glass is gone, but the metal housing remains intact.
-- Iron Spoon x2
+- Iron Spoon
 - Small Wooden Cask — Empty; holds roughly three gallons.
 - Tin Cup
-- Waterskin x5 — Four recovered from the patrol plus one equipped; three partially full, one nearly empty, one full.
+- Waterskin (full)
 - Wool Blanket x2 — Musty but intact.
-- Wooden Bowl x3 — Dry and cracked but salvageable.
 
 ### Currency & Valuables
 
 - Belt Pouch — Small leather pouch.
   - Silver Coin x29
   - Copper Coin x149
-- Brass Pendant — Cheap personal pendant with no obvious value at a glance.
-- Copper Bracelet — Cheap personal bracelet.
 - Obsidian Mana Shard — Thumb-sized polished black crystal with a faint magical presence; its exact purpose is unknown.
-- Tarnished Silver Crest Ring — Solid silver ring bearing a black tower beneath three stars.
-- Weathered Leather Pouch — Small drawstring pouch.
-- Wooden Prayer Token — Small religious charm of uncertain significance.
-
-### Documents & Information
-
-- Folded Parchment Note — “Third marker beyond the eastern quarry. Beneath the split stone. Come alone.” Marked with a tower-and-three-stars symbol.
-- Folded Personal Letter x5 — Personal correspondence; contents not yet examined.
-- Outpost Ledger — Water-damaged record book containing names, supplies, patrol routes, and references to nearby military positions.
-- Patrol Notebook — Small leather-bound notebook; contents not yet examined closely.
-- Patrol Orders Sheet — Folded written orders; contents not yet examined closely.
-- Patrol Roster — List relating to the six-man patrol; contents not yet examined closely.
 
 ### Gear & Armor
 
 - Chain Shirt — Missing several links around one shoulder but repairable.
-- Iron Helmet x2 — Old open-faced military helmets with considerable surface rust.
-- Leather Belt x6 — Sturdy military belts.
 - Leather Bracer x2 — Stiff with age but usable.
-- Light Leather/Chain Armor x6 — Mixed standard infantry armor.
-- Military Cloak x6 — Practical patrol cloaks.
-- Round Wooden Shield — Battered and faded, with intact iron rim and grip.
 
 ### Repair & Utility
 
@@ -102,7 +82,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Coil of Hemp Rope — 38 ft — Mildewed along the outermost section but mostly sound.
 - Coil of Thin Rope x3 — 20 ft each.
 - Copper Wire — 11 ft
-- Flint and Steel x3
+- Flint and Steel
 - Hand Shovel
 - Iron Hammer
 - Iron Hatchet — Edge badly needs sharpening.
@@ -112,16 +92,10 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ### Salvage & Trade Goods
 
-- Belt Pouch x2 — Small leather pouches.
-- Empty Cedar Chest
-- Empty Waterskin — Leather is dry and needs oiling.
 - Iron Horseshoe x7
-- Iron Shortsword x6 — Six serviceable military blades; four have matching scabbards.
 - Leather Strap x8 — Various lengths suitable for repairs.
-- Melromarc Military Badge x6 — Military identification badges.
 - Small Bottle of Lamp Oil x2
 - Small Brass Buckle x6
-- Utility Knife x2 — Plain working knives suitable for camp chores and general use.
 
 ### Tools & Special Items
 
@@ -135,9 +109,6 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 ### Weapons & Ammunition
 
 - Bent Crossbow Bolt x9 — Damaged bolts unsuitable for reliable use until repaired or replaced.
-- Iron Shortsword x2 — Equipped serviceable military shortswords with matching scabbards.
 - Utility Knife — Equipped plain working knife suitable for camp chores and general use.
-- Crossbow Bolt x5
-- Light Crossbow
 
 ## Spellbook
