@@ -58,6 +58,7 @@ Astrild is reserved, territorial, perceptive, and fiercely independent. Years of
 
 - Belt Pouch — Small leather pouch.
 - Dark Waterproof Cloak — Practical dark cloak treated to shed rain and reduce visibility in poor weather.
+- Durable Travel Clothes — Practical hard-wearing clothes suited to extended travel.
 - Hunting Bow — Compact bow suited to hunting, scouting, and use in dense woodland.
 - Quiver — Leather quiver worn for quick access to arrows.
   - Arrow x20
@@ -69,6 +70,8 @@ Astrild is reserved, territorial, perceptive, and fiercely independent. Years of
 
 ### General
 
+- Backpack — Durable travel pack for carrying personal and adventuring gear.
+- Bedroll — Durable travel bedroll.
 - Bottle Black Ink
 - Candle — Misshapen but usable.
 - Cloth Herb Packet — Small cloth packet containing dried medicinal herbs for basic wound treatment.
