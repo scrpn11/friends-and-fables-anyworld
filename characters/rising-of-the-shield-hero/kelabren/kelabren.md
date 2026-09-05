@@ -67,8 +67,9 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 ### Currency & Valuables
 
 - Belt Pouch — Small leather pouch.
-  - Silver Coin x29
-  - Copper Coin x149
+  - Gold Coin x2
+  - Silver Coin x113
+  - Copper Coin x108
 - Obsidian Mana Shard — Thumb-sized polished black crystal with a faint magical presence; its exact purpose is unknown.
 
 ### Gear & Armor
