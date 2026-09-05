@@ -54,107 +54,90 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ## Inventory
 
+### Camp & Cooking
+
+- Candle x3 — Misshapen but usable.
+- Iron Lantern — Glass is gone, but the metal housing remains intact.
+- Iron Spoon x2
+- Small Wooden Cask — Empty; holds roughly three gallons.
+- Tin Cup
+- Waterskin x5 — Four recovered from the patrol plus one equipped; three partially full, one nearly empty, one full.
+- Wool Blanket x2 — Musty but intact.
+- Wooden Bowl x3 — Dry and cracked but salvageable.
+
 ### Currency & Valuables
 
 - Belt Pouch — Small leather pouch.
-  - Silver Coin x38
   - Copper Coin x149
+  - Silver Coin x38
+- Brass Pendant — Cheap personal pendant with no obvious value at a glance.
+- Copper Bracelet — Cheap personal bracelet.
+- Obsidian Mana Shard — Thumb-sized polished black crystal with a faint magical presence; its exact purpose is unknown.
+- Tarnished Silver Crest Ring — Solid silver ring bearing a black tower beneath three stars.
+- Weathered Leather Pouch — Small drawstring pouch.
+- Wooden Prayer Token — Small religious charm of uncertain significance.
 
-### Weapons
+### Documents & Information
 
-- Bent Crossbow Bolt x9 — Damaged bolts unsuitable for reliable use until repaired or replaced.
+- Folded Parchment Note — “Third marker beyond the eastern quarry. Beneath the split stone. Come alone.” Marked with a tower-and-three-stars symbol.
+- Folded Personal Letter x5 — Personal correspondence; contents not yet examined.
+- Outpost Ledger — Water-damaged record book containing names, supplies, patrol routes, and references to nearby military positions.
+- Patrol Notebook — Small leather-bound notebook; contents not yet examined closely.
+- Patrol Orders Sheet — Folded written orders; contents not yet examined closely.
+- Patrol Roster — List relating to the six-man patrol; contents not yet examined closely.
 
-### Equipment
+### Gear & Armor
 
+- Chain Shirt — Missing several links around one shoulder but repairable.
+- Iron Helmet x2 — Old open-faced military helmets with considerable surface rust.
+- Leather Belt x6 — Sturdy military belts.
+- Leather Bracer x2 — Stiff with age but usable.
+- Light Leather/Chain Armor x6 — Mixed standard infantry armor.
+- Military Cloak x6 — Practical patrol cloaks.
 - Round Wooden Shield — Battered and faded, with intact iron rim and grip.
-- Iron Helmet — Old open-faced military helmet with considerable surface rust.
 
-### Tools & Utility
+### Repair & Utility
 
-- Paint Bowl — Magical bowl used with the slave-crest brush to paint functioning slave crests.
-- Slave-Crest Brush — Magical brush that paints functioning slave crests and allows completed crests to instinctively enforce Kelabren's intent.
-- Whetstone
-- Flint and Steel
-- Coil of Hemp Rope — 38 ft — Mildewed along the outermost section but mostly sound.
-- Coil of Thin Rope x3 — 20 ft each — Light utility rope carried by the patrol.
 - Canvas Tarp — 8 × 6 ft — Stained and patched, but usable.
-- Iron Hammer
-- Iron Pry Bar
-- Iron Hatchet — Edge badly needs sharpening.
-- Hand Shovel
-- Iron Nails x46
+- Coil of Hemp Rope — 38 ft — Mildewed along the outermost section but mostly sound.
+- Coil of Thin Rope x3 — 20 ft each.
 - Copper Wire — 11 ft
-- Leather Strap x8 — Various lengths suitable for repairs.
-- Small Brass Buckle x6
-- Small Bottle of Lamp Oil x2
+- Flint and Steel x3
+- Hand Shovel
+- Iron Hammer
+- Iron Hatchet — Edge badly needs sharpening.
 - Iron Key Ring — Holds three small iron keys of unknown purpose.
-- Small Iron Key — Single key carried by one of the remaining patrol soldiers; purpose unknown.
+- Iron Nails x46
+- Iron Pry Bar
 
-### Camp & Cooking Gear
+### Salvage & Trade Goods
 
-- Tin Cup
-- Iron Spoon
-- Candle x3 — Misshapen but usable.
-- Wool Blanket x2 — Musty but intact.
-- Small Wooden Cask — Empty; holds roughly three gallons.
+- Belt Pouch x2 — Small leather pouches.
+- Empty Cedar Chest
+- Empty Waterskin — Leather is dry and needs oiling.
+- Iron Horseshoe x7
+- Iron Shortsword x6 — Six serviceable military blades; four have matching scabbards.
+- Leather Strap x8 — Various lengths suitable for repairs.
+- Melromarc Military Badge x6 — Military identification badges.
+- Small Bottle of Lamp Oil x2
+- Small Brass Buckle x6
+- Utility Knife x2 — Plain working knives suitable for camp chores and general use.
 
-### Food, Medicine & Consumables
-
-- Tobacco Leaves x2
-- Small Flask — Contains a little alcohol recovered from one of the patrol soldiers.
-- Ration Bundle x2 — Each contains bread, dried meat, and hard cheese.
-
-### Documents & Writing Supplies
-
-- Blank Parchment Sheet x9 — Yellowed but usable.
-- Charcoal Writing Stick x5
-- Bottle of Black Ink — Roughly half full.
-
-### Personal & Magical Items
+### Tools & Special Items
 
 - Broken Brass Compass — Family compass damaged in the storm that killed his parents and sister; its needle is bent.
-- Obsidian Mana Shard — Thumb-sized polished black crystal with a faint magical presence; its exact purpose is unknown.
+- Paint Bowl — Magical bowl used with the slave-crest brush to paint functioning slave crests.
+- Slave-Crest Brush — Magical brush that paints functioning slave crests and allows completed crests to instinctively enforce Kelabren's intent.
+- Small Flask — Contains a little alcohol.
+- Tobacco Leaves x2
+- Whetstone
 
-### Wares (Items intended for selling)
+### Weapons & Ammunition
 
-- Copper Bracelet — Cheap personal bracelet taken from one of the quarry patrol soldiers.
-- Brass Pendant — Cheap personal pendant with no obvious value at a glance.
-- Empty Cedar Chest
-- Melromarc Military Badge x6 — Badges identifying the dead men as Melromarc soldiers.
-- Wooden Prayer Token — Small religious charm carried by one of the patrol soldiers; exact significance unknown.
-- Military Cloak x6 — Practical cloaks issued or used by the patrol soldiers.
-- Light Leather/Chain Armor x6 — Mixed standard infantry armor taken from the quarry patrol soldiers.
-- Leather Belt x6 — Sturdy military belts suitable for carrying pouches and weapons.
-- Weathered Leather Pouch — Small drawstring pouch used to carry currency.
-- Iron Shortsword x2 — Old military blades; surface rust, but serviceable.
-- Iron Shortsword x4 — Serviceable military shortswords with matching scabbards.
-- Utility Knife x2 — Plain working knives suitable for camp chores and general use.
-- Belt Pouch x2 — Small leather pouch.
-- Waterskin x4 — Four more recovered from the patrol; three are partially full and one is nearly empty.
-- Empty Waterskin — Leather is dry and needs oiling.
-- Outpost Ledger — Water-damaged record book containing names, supply records, patrol routes, and references to other nearby military positions.
-- Folded Parchment Note — A short handwritten message, faded but still legible. It reads: “Third marker beyond the eastern quarry. Beneath the split stone. Come alone.” There is no signature, only the same tower-and-three-stars symbol drawn beneath the message.
-- Patrol Notebook — Small leather-bound notebook; contents not yet examined closely.
-- Patrol Orders Sheet — Folded written orders carried by the remaining patrol soldiers; contents not yet examined closely.
-- Patrol Roster — List relating to the six-man patrol; contents not yet examined closely.
-- Folded Personal Letter x5 — Personal correspondence carried by the patrol soldiers; contents not yet examined.
-- Wooden Bowl x3 — Dry and cracked but salvageable.
-- Tarnished Silver Crest Ring — A solid silver ring bearing an unfamiliar heraldic crest: a black tower beneath three stars. Different from the Melromarc commander's signet ring we already found. The engraving is unusually fine, suggesting it belonged to someone of some status.
-- Iron Spoon
-- Flint and Steel x2
-- Iron Horseshoe x7
-
-### Weapons (Equipped)
-
-- Iron Shortsword x2 — Serviceable military shortswords with matching scabbards.
-- Utility Knife — Plain working knives suitable for camp chores and general use.
-
-### Equipment (Equipped)
-
-- Leather Bracer x2 — Stiff with age but usable.
-- Iron Helmet — Old open-faced military helmets with considerable surface rust.
-- Chain Shirt — Missing several links around one shoulder but repairable.
-- Waterskin (full)
-- Iron Lantern — Glass is gone, but the metal housing remains intact.
+- Bent Crossbow Bolt x9 — Damaged bolts unsuitable for reliable use until repaired or replaced.
+- Iron Shortsword x2 — Equipped serviceable military shortswords with matching scabbards.
+- Utility Knife — Equipped plain working knife suitable for camp chores and general use.
+- Crossbow Bolt x5
+- Light Crossbow
 
 ## Spellbook
