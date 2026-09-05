@@ -54,26 +54,25 @@ Kaede is quick-witted, independent, suspicious, and difficult to intimidate for 
 
 ## Inventory
 
+### General
+
+- Belt Pouch — Small leather pouch.
+- Bone Dice — Simple pair of dice carved from bone.
 - Bone Whistle — Jagged, hand-carved whistle used to signal or call trained animals at short range.
-- Iron Spoon
-- Tin Cup
 - Candle — Misshapen but usable.
-- Whetstone
 - Flint and Steel
 - Handkerchief — Plain cloth.
-- Worn Playing Cards — Complete but heavily used deck carried by the patrol.
-- Bone Dice — Simple pair of dice carved from bone.
+- Iron Spoon
+- Tin Cup
+- Waterskin (full)
+- Whetstone
 
 ### Weapons
 
-- Light Crossbow
-- Crossbow Bolt x5
 - Butcher Knife — Dull, broad-bladed utility knife.
-- Utility Knife — Plain working knives suitable for camp chores and general use.
-
-### Equipment
-
-- Belt Pouch — Small leather pouch.
-- Waterskin (full)
+- Crossbow Bolt x5
+- Light Crossbow
+- Utility Knife — Plain working knife suitable for camp chores and general use.
+- Worn Playing Cards — Complete but heavily used deck carried by the patrol.
 
 ## Spellbook
