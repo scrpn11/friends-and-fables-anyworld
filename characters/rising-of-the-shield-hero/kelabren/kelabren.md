@@ -56,6 +56,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ### Camp & Cooking
 
+- Bedroll — Durable travel bedroll.
 - Candle x3 — Misshapen but usable.
 - Iron Spoon
 - Small Wooden Cask — Empty; holds roughly three gallons.
@@ -68,6 +69,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ### Repair & Utility
 
+- Backpack — Durable travel pack for carrying personal and adventuring gear.
 - Canvas Tarp — 8 × 6 ft — Stained and patched, but usable.
 - Coil of Hemp Rope — 38 ft — Mildewed along the outermost section but mostly sound.
 - Coil of Thin Rope x3 — 20 ft each.
@@ -102,10 +104,15 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
   - Gold Coin
   - Silver Coin x64
   - Copper Coin x108
-- Chain Shirt — Missing several links around one shoulder but repairable.
-- Iron Lantern — Glass is gone, but the metal housing remains intact.
+- Chain Shirt — Repaired; damaged shoulder links restored and fit for use.
+- Durable Travel Clothes — Practical hard-wearing clothes suited to extended travel.
+- Iron Lantern — Repaired and reglazed; fully functional.
 - Leather Bracer x2 — Stiff with age but usable.
+- Sturdy Sword Belt — Durable belt arranged to carry two shortswords securely.
+- Sturdy Travel Boots — Durable boots suited to long-distance travel and rough terrain.
 - Utility Knife — Equipped plain working knife suitable for camp chores and general use.
 - Waterskin (full)
+- Well-Made Shortsword x2 — Balanced serviceable swords with matching scabbards.
+- Waterproof Cloak — Practical oiled cloak treated to shed rain.
 
 ## Spellbook
