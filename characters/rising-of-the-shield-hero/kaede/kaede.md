@@ -59,6 +59,7 @@ Kaede is quick-witted, independent, suspicious, and difficult to intimidate for 
 - Belt Pouch — Small leather pouch.
 - Butcher Knife — Dull, broad-bladed utility knife.
 - Crossbow Bolt x34 — Five previously usable bolts, twenty newly purchased bolts, and nine repaired bolts.
+- Durable Travel Clothes — Practical hard-wearing clothes suited to extended travel.
 - Light Crossbow
 - Light Studded Leather Armor — Fitted for Kaede's demi-human build and tail; light enough for quiet movement.
 - Reinforced Leather Boots — Quiet, durable boots suited for stone, mud, and wilderness travel.
@@ -67,10 +68,13 @@ Kaede is quick-witted, independent, suspicious, and difficult to intimidate for 
 
 ### General
 
+- Backpack — Durable travel pack for carrying personal and adventuring gear.
+- Bedroll — Durable travel bedroll.
 - Bone Dice — Simple pair of dice carved from bone.
 - Bone Whistle — Jagged, hand-carved whistle used to signal or call trained animals at short range.
 - Candle — Misshapen but usable.
 - Flint and Steel
+- Hand Mirror — High-clarity mirror with an ornate handcrafted silver frame carved in delicate ivy vines.
 - Handkerchief — Plain cloth.
 - Iron Spoon
 - Leatherworking Kit
