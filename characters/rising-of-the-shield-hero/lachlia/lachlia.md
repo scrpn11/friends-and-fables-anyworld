@@ -56,9 +56,14 @@ Lachlia is cautious, observant, practical, and quietly stubborn. She rarely chal
 
 ## Inventory
 
+### Equipped
+- Belt Pouch — Small leather pouch.
+- Iron Dagger — Heavily tarnished but intact.
+- Utility Knife — Plain working knife suitable for camp chores and general use.
+- Waterskin (full)
+
 ### General
 
-- Belt Pouch — Small leather pouch.
 - Bone Comb — Simple personal comb.
 - Candle — Misshapen but usable.
 - Dried Salt — 2 lb
@@ -76,13 +81,7 @@ Lachlia is cautious, observant, practical, and quietly stubborn. She rarely chal
   - Spool of Linen Thread x2
 - Small Iron Frying Pan — Rusty enough to need cleaning.
 - Tin Cup
-- Waterskin (full)
 - Wax-Sealed Tea Brick — Old but dry.
 - Whetstone
-
-### Weapons
-
-- Iron Dagger — Heavily tarnished but intact.
-- Utility Knife — Plain working knife suitable for camp chores and general use.
 
 ## Spellbook
