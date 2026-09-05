@@ -56,32 +56,29 @@ Astrild is reserved, territorial, perceptive, and fiercely independent. Years of
 
 ### Equipped
 
+- Arrow Quiver — Leather quiver worn for quick access to arrows.
+  - Arrow x20
+- Backpack — Durable travel pack for carrying personal and adventuring gear.
+  - Bedroll — Durable travel bedroll.
+  - Bottle Black Ink
+  - Candle — Misshapen but usable.
+  - Cloth Herb Packet — Small cloth packet containing dried medicinal herbs for basic wound treatment.
+    - Dried Broadleaf Plantain Leaves x4 — Leaves used in poultices for minor wounds, irritation, and swelling.
+    - Dried Yarrow Leaves x6 — Leaves traditionally used in poultices for minor cuts and bleeding.
+  - Flint and Steel
+  - Handkerchief — Plain cloth.
+  - Iron Spoon
+  - Quill x5
+  - Tin Cup
+  - Whetstone
 - Belt Pouch — Small leather pouch.
 - Dark Waterproof Cloak — Practical dark cloak treated to shed rain and reduce visibility in poor weather.
 - Durable Travel Clothes — Practical hard-wearing clothes suited to extended travel.
 - Hunting Bow — Compact bow suited to hunting, scouting, and use in dense woodland.
-- Quiver — Leather quiver worn for quick access to arrows.
-  - Arrow x20
 - Sturdy Leather Satchel — Durable satchel used to protect maps, notes, and field supplies.
   - Map x4 — Three maps carried by the first two quarry patrol soldiers plus one additional regional map from the remaining four; contents not yet examined closely.
   - Regional Patrol Map — Faded hand-drawn map showing old roads, watch posts, trails, a quarry, and two additional outposts.
 - Utility Knife — Plain working knife suitable for camp chores and general use.
 - Waterskin (full)
-
-### General
-
-- Backpack — Durable travel pack for carrying personal and adventuring gear.
-- Bedroll — Durable travel bedroll.
-- Bottle Black Ink
-- Candle — Misshapen but usable.
-- Cloth Herb Packet — Small cloth packet containing dried medicinal herbs for basic wound treatment.
-  - Dried Broadleaf Plantain Leaves x4 — Leaves used in poultices for minor wounds, irritation, and swelling.
-  - Dried Yarrow Leaves x6 — Leaves traditionally used in poultices for minor cuts and bleeding.
-- Flint and Steel
-- Handkerchief — Plain cloth.
-- Iron Spoon
-- Quill x5
-- Tin Cup
-- Whetstone
 
 ## Spellbook

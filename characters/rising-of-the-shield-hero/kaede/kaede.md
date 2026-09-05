@@ -56,35 +56,32 @@ Kaede is quick-witted, independent, suspicious, and difficult to intimidate for 
 
 ### Equipped
 
+- Backpack — Durable travel pack for carrying personal and adventuring gear.
+  - Bedroll — Durable travel bedroll.
+  - Bone Dice — Simple pair of dice carved from bone.
+  - Candle — Misshapen but usable.
+  - Flint and Steel
+  - Hand Mirror — High-clarity mirror with an ornate handcrafted silver frame carved in delicate ivy vines.
+  - Handkerchief — Plain cloth.
+  - Iron Spoon
+  - Leatherworking Kit
+    - Heavy Leather Needle x3
+    - Leather Patches — Assorted small pieces for repairs.
+    - Spool of Heavy Waxed Thread x2
+    - Small Awl
+  - Thieves' Tools — Compact set of picks, tension tools, and small implements for working locks and simple mechanisms.
+  - Tin Cup
+  - Whetstone
+  - Worn Playing Cards — Complete but heavily used deck carried by the patrol.
 - Belt Pouch — Small leather pouch.
+- Bolt Quiver
+  - Crossbow Bolt x34 — Five previously usable bolts, twenty newly purchased bolts, and nine repaired bolts.- Bone Whistle — Jagged, hand-carved whistle used to signal or call trained animals at short range.
 - Butcher Knife — Dull, broad-bladed utility knife.
-- Crossbow Bolt x34 — Five previously usable bolts, twenty newly purchased bolts, and nine repaired bolts.
 - Durable Travel Clothes — Practical hard-wearing clothes suited to extended travel.
 - Light Crossbow
 - Light Studded Leather Armor — Fitted for Kaede's demi-human build and tail; light enough for quiet movement.
 - Reinforced Leather Boots — Quiet, durable boots suited for stone, mud, and wilderness travel.
 - Utility Knife — Plain working knife suitable for camp chores and general use.
 - Waterskin (full)
-
-### General
-
-- Backpack — Durable travel pack for carrying personal and adventuring gear.
-- Bedroll — Durable travel bedroll.
-- Bone Dice — Simple pair of dice carved from bone.
-- Bone Whistle — Jagged, hand-carved whistle used to signal or call trained animals at short range.
-- Candle — Misshapen but usable.
-- Flint and Steel
-- Hand Mirror — High-clarity mirror with an ornate handcrafted silver frame carved in delicate ivy vines.
-- Handkerchief — Plain cloth.
-- Iron Spoon
-- Leatherworking Kit
-  - Heavy Leather Needle x3
-  - Leather Patches — Assorted small pieces for repairs.
-  - Spool of Heavy Waxed Thread x2
-  - Small Awl
-- Thieves' Tools — Compact set of picks, tension tools, and small implements for working locks and simple mechanisms.
-- Tin Cup
-- Whetstone
-- Worn Playing Cards — Complete but heavily used deck carried by the patrol.
 
 ## Spellbook

@@ -56,7 +56,28 @@ Lachlia is cautious, observant, practical, and quietly stubborn. She rarely chal
 
 ## Inventory
 
-### Equipped
+- Backpack — Durable travel pack for carrying personal and adventuring gear.
+  - Assorted Medicinal Poultices x6
+  - Bedroll — Durable travel bedroll.
+  - Bone Comb — Simple personal comb.
+  - Candle — Misshapen but usable.
+  - Dried Salt — 2 lb
+  - Flint and Steel
+  - Handkerchief — Plain cloth.
+  - Iron Cooking Pot — Blackened, dented, and completely functional.
+  - Iron Kettle — Missing its lid but otherwise intact.
+  - Iron Spoon
+  - Linen Bandage Roll x6
+  - Medicinal Alcohol Flask — About half full.
+  - Medicinal Herb Assortment — Small selection of useful dried herbs for basic wound care and poultices.
+  - Mortar and Pestle — Small field-sized set for grinding and preparing herbs.
+  - Sewing Kit
+    - Sewing Needle x6
+    - Spool of Linen Thread x2
+  - Small Iron Frying Pan — Rusty enough to need cleaning.
+  - Tin Cup
+  - Wax-Sealed Tea Brick — Old but dry.
+  - Whetstone
 - Belt Pouch — Small leather pouch.
 - Durable Travel Clothes — Practical hard-wearing clothes suited to extended travel.
 - Iron Dagger — Heavily tarnished but intact.
@@ -65,33 +86,5 @@ Lachlia is cautious, observant, practical, and quietly stubborn. She rarely chal
 - Utility Knife — Plain working knife suitable for camp chores and general use.
 - Waterskin (full)
 - Well-Made Dagger — Balanced light dagger with a proper sheath.
-
-### General
-
-- Backpack — Durable travel pack for carrying personal and adventuring gear.
-- Bedroll — Durable travel bedroll.
-- Bone Comb — Simple personal comb.
-- Candle — Misshapen but usable.
-- Dried Salt — 2 lb
-- Flint and Steel
-- Handkerchief — Plain cloth.
-- Iron Cooking Pot — Blackened, dented, and completely functional.
-- Iron Kettle — Missing its lid but otherwise intact.
-- Iron Spoon
-- Medicinal Alcohol Flask — About half full.
-
-### Tools & Supplies
-
-- Assorted Medicinal Poultices x6
-- Linen Bandage Roll x6
-- Medicinal Herb Assortment — Small selection of useful dried herbs for basic wound care and poultices.
-- Mortar and Pestle — Small field-sized set for grinding and preparing herbs.
-- Sewing Kit
-  - Sewing Needle x6
-  - Spool of Linen Thread x2
-- Small Iron Frying Pan — Rusty enough to need cleaning.
-- Tin Cup
-- Wax-Sealed Tea Brick — Old but dry.
-- Whetstone
 
 ## Spellbook

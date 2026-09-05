@@ -69,7 +69,6 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ### Repair & Utility
 
-- Backpack — Durable travel pack for carrying personal and adventuring gear.
 - Canvas Tarp — 8 × 6 ft — Stained and patched, but usable.
 - Coil of Hemp Rope — 38 ft — Mildewed along the outermost section but mostly sound.
 - Coil of Thin Rope x3 — 20 ft each.
@@ -84,14 +83,12 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ### Salvage & Trade Goods
 
-- Iron Horseshoe x7
-- Leather Strap x8 — Various lengths suitable for repairs.
 - Small Bottle of Lamp Oil x2
-- Small Brass Buckle x6
 
 ### Tools & Special Items
 
 - Broken Brass Compass — Family compass damaged in the storm that killed his parents and sister; its needle is bent.
+- Iron Lantern
 - Paint Bowl — Magical bowl used with the slave-crest brush to paint functioning slave crests.
 - Slave-Crest Brush — Magical brush that paints functioning slave crests and allows completed crests to instinctively enforce Kelabren's intent.
 - Small Flask — Contains a little alcohol.
@@ -101,12 +98,10 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 ### Equipped
 
 - Belt Pouch — Small leather pouch.
-  - Gold Coin
   - Silver Coin x64
   - Copper Coin x108
-- Chain Shirt — Repaired; damaged shoulder links restored and fit for use.
+- Chain Shirt
 - Durable Travel Clothes — Practical hard-wearing clothes suited to extended travel.
-- Iron Lantern — Repaired and reglazed; fully functional.
 - Leather Bracer x2 — Stiff with age but usable.
 - Sturdy Sword Belt — Durable belt arranged to carry two shortswords securely.
 - Sturdy Travel Boots — Durable boots suited to long-distance travel and rough terrain.
@@ -114,5 +109,11 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Waterskin (full)
 - Well-Made Shortsword x2 — Balanced serviceable swords with matching scabbards.
 - Waterproof Cloak — Practical oiled cloak treated to shed rain.
+
+### Wares (For Sales)
+- Backpack — Durable travel pack for carrying personal and adventuring gear.
+- Small Brass Buckle x6
+- Iron Horseshoe x7
+- Leather Strap x8 — Various lengths suitable for repairs.
 
 ## Spellbook
