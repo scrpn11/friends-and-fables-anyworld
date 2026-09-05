@@ -58,6 +58,7 @@ Lachlia is cautious, observant, practical, and quietly stubborn. She rarely chal
 
 ### Equipped
 - Belt Pouch — Small leather pouch.
+- Durable Travel Clothes — Practical hard-wearing clothes suited to extended travel.
 - Iron Dagger — Heavily tarnished but intact.
 - Light Leather Armor — Flexible fitted armor suited to travel and quick movement.
 - Sturdy Travel Boots — Durable boots suited to long-distance travel and rough terrain.
@@ -67,6 +68,8 @@ Lachlia is cautious, observant, practical, and quietly stubborn. She rarely chal
 
 ### General
 
+- Backpack — Durable travel pack for carrying personal and adventuring gear.
+- Bedroll — Durable travel bedroll.
 - Bone Comb — Simple personal comb.
 - Candle — Misshapen but usable.
 - Dried Salt — 2 lb
