@@ -58,8 +58,10 @@ Kaede is quick-witted, independent, suspicious, and difficult to intimidate for 
 
 - Belt Pouch — Small leather pouch.
 - Butcher Knife — Dull, broad-bladed utility knife.
-- Crossbow Bolt x5
+- Crossbow Bolt x34 — Five previously usable bolts, twenty newly purchased bolts, and nine repaired bolts.
 - Light Crossbow
+- Light Studded Leather Armor — Fitted for Kaede's demi-human build and tail; light enough for quiet movement.
+- Reinforced Leather Boots — Quiet, durable boots suited for stone, mud, and wilderness travel.
 - Utility Knife — Plain working knife suitable for camp chores and general use.
 - Waterskin (full)
 
@@ -71,6 +73,7 @@ Kaede is quick-witted, independent, suspicious, and difficult to intimidate for 
 - Flint and Steel
 - Handkerchief — Plain cloth.
 - Iron Spoon
+- Thieves' Tools — Compact set of picks, tension tools, and small implements for working locks and simple mechanisms.
 - Tin Cup
 - Whetstone
 - Worn Playing Cards — Complete but heavily used deck carried by the patrol.
