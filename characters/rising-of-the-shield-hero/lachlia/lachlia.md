@@ -59,11 +59,11 @@ Lachlia is cautious, observant, practical, and quietly stubborn. She rarely chal
 ### Equipped
 - Belt Pouch — Small leather pouch.
 - Iron Dagger — Heavily tarnished but intact.
-- Well-Made Dagger — Balanced light dagger with a proper sheath.
 - Light Leather Armor — Flexible fitted armor suited to travel and quick movement.
 - Sturdy Travel Boots — Durable boots suited to long-distance travel and rough terrain.
 - Utility Knife — Plain working knife suitable for camp chores and general use.
 - Waterskin (full)
+- Well-Made Dagger — Balanced light dagger with a proper sheath.
 
 ### General
 
@@ -83,13 +83,9 @@ Lachlia is cautious, observant, practical, and quietly stubborn. She rarely chal
 - Linen Bandage Roll x6
 - Medicinal Herb Assortment — Small selection of useful dried herbs for basic wound care and poultices.
 - Mortar and Pestle — Small field-sized set for grinding and preparing herbs.
-- Upgraded Sewing & Leatherworking Kit
-  - Heavy Leather Needle x3
+- Sewing Kit
   - Sewing Needle x6
   - Spool of Linen Thread x2
-  - Spool of Heavy Waxed Thread x2
-  - Small Awl
-  - Leather Patches — Assorted small pieces for repairs.
 - Small Iron Frying Pan — Rusty enough to need cleaning.
 - Tin Cup
 - Wax-Sealed Tea Brick — Old but dry.

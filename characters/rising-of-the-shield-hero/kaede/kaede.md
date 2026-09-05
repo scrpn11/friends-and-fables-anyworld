@@ -73,6 +73,11 @@ Kaede is quick-witted, independent, suspicious, and difficult to intimidate for 
 - Flint and Steel
 - Handkerchief — Plain cloth.
 - Iron Spoon
+- Leatherworking Kit
+  - Heavy Leather Needle x3
+  - Leather Patches — Assorted small pieces for repairs.
+  - Spool of Heavy Waxed Thread x2
+  - Small Awl
 - Thieves' Tools — Compact set of picks, tension tools, and small implements for working locks and simple mechanisms.
 - Tin Cup
 - Whetstone
