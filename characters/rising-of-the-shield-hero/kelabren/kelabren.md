@@ -57,7 +57,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 ### Currency & Valuables
 
 - Belt Pouch — Small leather pouch.
-  - Silver Coin x38
+  - Silver Coin x29
   - Copper Coin x149
 
 ### Weapons
