@@ -57,25 +57,14 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 ### Camp & Cooking
 
 - Candle x3 — Misshapen but usable.
-- Iron Lantern — Glass is gone, but the metal housing remains intact.
 - Iron Spoon
 - Small Wooden Cask — Empty; holds roughly three gallons.
 - Tin Cup
-- Waterskin (full)
 - Wool Blanket x2 — Musty but intact.
 
 ### Currency & Valuables
 
-- Belt Pouch — Small leather pouch.
-  - Gold Coin x2
-  - Silver Coin x113
-  - Copper Coin x108
 - Obsidian Mana Shard — Thumb-sized polished black crystal with a faint magical presence; its exact purpose is unknown.
-
-### Gear & Armor
-
-- Chain Shirt — Missing several links around one shoulder but repairable.
-- Leather Bracer x2 — Stiff with age but usable.
 
 ### Repair & Utility
 
@@ -107,9 +96,16 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Tobacco Leaves x2
 - Whetstone
 
-### Weapons & Ammunition
+### Equipped
 
-- Bent Crossbow Bolt x9 — Damaged bolts unsuitable for reliable use until repaired or replaced.
+- Belt Pouch — Small leather pouch.
+  - Gold Coin x2
+  - Silver Coin x113
+  - Copper Coin x108
+- Chain Shirt — Missing several links around one shoulder but repairable.
+- Iron Lantern — Glass is gone, but the metal housing remains intact.
+- Leather Bracer x2 — Stiff with age but usable.
 - Utility Knife — Equipped plain working knife suitable for camp chores and general use.
+- Waterskin (full)
 
 ## Spellbook
