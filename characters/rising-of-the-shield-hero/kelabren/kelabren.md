@@ -99,8 +99,8 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 ### Equipped
 
 - Belt Pouch — Small leather pouch.
-  - Gold Coin x2
-  - Silver Coin x113
+  - Gold Coin
+  - Silver Coin x79
   - Copper Coin x108
 - Chain Shirt — Missing several links around one shoulder but repairable.
 - Iron Lantern — Glass is gone, but the metal housing remains intact.
