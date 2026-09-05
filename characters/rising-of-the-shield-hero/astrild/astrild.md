@@ -54,25 +54,27 @@ Astrild is reserved, territorial, perceptive, and fiercely independent. Years of
 
 ## Inventory
 
-- Map x4 — Three maps carried by the first two quarry patrol soldiers plus one additional regional map from the remaining four; contents not yet examined closely.
-- Regional Patrol Map — Faded hand-drawn map showing old roads, watch posts, trails, a quarry, and two additional outposts.
-- Iron Spoon
-- Tin Cup
-- Candle — Misshapen but usable.
-- Whetstone
-- Flint and Steel
-- Handkerchief — Plain cloth.
-- Cloth Herb Packet — Small cloth packet containing dried medicinal herbs for basic wound treatment.
-  - Dried Yarrow Leaves x6 — Leaves traditionally used in poultices for minor cuts and bleeding.
-  - Dried Broadleaf Plantain Leaves x4 — Leaves used in poultices for minor wounds, irritation, and swelling.
-  
-### Weapons
-
-- Utility Knife — Plain working knives suitable for camp chores and general use.
-
-### Equipment
+### General
 
 - Belt Pouch — Small leather pouch.
+- Candle — Misshapen but usable.
+- Cloth Herb Packet — Small cloth packet containing dried medicinal herbs for basic wound treatment.
+  - Dried Broadleaf Plantain Leaves x4 — Leaves used in poultices for minor wounds, irritation, and swelling.
+  - Dried Yarrow Leaves x6 — Leaves traditionally used in poultices for minor cuts and bleeding.
+- Flint and Steel
+- Handkerchief — Plain cloth.
+- Iron Spoon
+- Map x4 — Three maps carried by the first two quarry patrol soldiers plus one additional regional map from the remaining four; contents not yet examined closely.
+- Regional Patrol Map — Faded hand-drawn map showing old roads, watch posts, trails, a quarry, and two additional outposts.
+- Tin Cup
 - Waterskin (full)
+
+### Weapons
+
+- Utility Knife — Plain working knife suitable for camp chores and general use.
+- Whetstone
+- Wooden Bowl
+- Wool Blanket
+- Writing Charcoal Stick
 
 ## Spellbook
