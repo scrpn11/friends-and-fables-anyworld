@@ -63,10 +63,6 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Tin Cup
 - Wool Blanket x2 — Musty but intact.
 
-### Currency & Valuables
-
-- Obsidian Mana Shard — Thumb-sized polished black crystal with a faint magical presence; its exact purpose is unknown.
-
 ### Repair & Utility
 
 - Canvas Tarp — 8 × 6 ft — Stained and patched, but usable.
@@ -98,6 +94,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 ### Equipped
 
 - Belt Pouch — Small leather pouch.
+  - Gold Coin x5
   - Silver Coin x64
   - Copper Coin x108
 - Chain Shirt
