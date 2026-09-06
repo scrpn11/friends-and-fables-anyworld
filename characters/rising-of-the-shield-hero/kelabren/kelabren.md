@@ -62,6 +62,8 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Small Wooden Cask — Empty; holds roughly three gallons.
 - Tin Cup
 - Wool Blanket x2 — Musty but intact.
+- Sealed Wax Packet of Dried Herbs x3 — Desiccated but still recognizable bitter cooking spices and preservation agents recovered from a concealed compartment in the Weeping Spires antechamber.
+- Small Clay Cup x3 — Empty cups recovered from the Weeping Spires antechamber; formerly wrapped in rotted cloth.
 
 ### Repair & Utility
 
@@ -73,6 +75,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Hand Shovel
 - Iron Hammer
 - Iron Hatchet — Edge badly needs sharpening.
+- Iron Hook — Tarnished but intact; recovered from a concealed compartment in the Weeping Spires antechamber.
 - Iron Key Ring — Holds three small iron keys of unknown purpose.
 - Iron Nails x46
 - Iron Pry Bar
@@ -115,6 +118,8 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Ornate Bronze Incense Burner — Small lidded ceremonial burner about grapefruit-sized with pierced geometric decoration. Intact, well preserved, and stored in the Paint Bowl.
 - Heavy Bronze Wall Sconce x6 — Matching ceremonial wall sconces recovered from the Weeping Spires, roughly 12–16 inches tall with thick cast-bronze scroll and geometric decoration. Removed from deteriorated mortar and stored in the Paint Bowl.
 - Minor Bronze Fittings and Fragments x8 — Decorative mounting plates, trim pieces, and intact bronze hardware recovered from the Weeping Spires. Individually modest but useful as bronze salvage; stored in the Paint Bowl.
+- Stone Bench x2 — Heavy intact stone benches from the Weeping Spires antechamber, each roughly five feet long; stored in the Paint Bowl.
+- Fitted Stone Panel — Removable fitted stone slab that concealed the recessed compartment in the Weeping Spires antechamber; stored in the Paint Bowl.
 - Small Brass Buckle x6
 - Iron Horseshoe x7
 - Leather Strap x8 — Various lengths suitable for repairs.
