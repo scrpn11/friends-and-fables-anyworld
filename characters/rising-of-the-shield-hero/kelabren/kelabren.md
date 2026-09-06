@@ -64,6 +64,10 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Wool Blanket x2 — Musty but intact.
 - Sealed Wax Packet of Dried Herbs x3 — Desiccated but still recognizable bitter cooking spices and preservation agents recovered from a concealed compartment in the Weeping Spires antechamber.
 - Small Clay Cup x3 — Empty cups recovered from the Weeping Spires antechamber; formerly wrapped in rotted cloth.
+- Wax-Sealed Ceramic Jar x3 — Large storage jars recovered from the Weeping Spires storage room; seals broken during inspection.
+  - Curing Salt-Paste — About 3 lb of pungent preserved salt mixture suitable for curing meat; still usable.
+  - Dried Black Seed-Pods — About 1.5 lb of unidentified preserved seed pods; should be identified before use.
+  - Pine-Scented Oil — About 2 quarts of dense translucent oil with an unknown exact purpose.
 
 ### Repair & Utility
 
@@ -79,15 +83,24 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Iron Key Ring — Holds three small iron keys of unknown purpose.
 - Iron Nails x46
 - Iron Pry Bar
+- Heavy Iron Keys on Brass Ring — Three heavy iron keys on a brass ring; purpose unknown.
+- Coarse Twine Bundle x9 — Old but mostly intact bundles recovered from the Weeping Spires storage room.
 
 ### Salvage & Trade Goods
 
 - Small Bottle of Lamp Oil x2
+- Old Linen Piece x76 — Moldy or degraded sheets, folded lengths, wrapping cloths, and scraps recovered from the Weeping Spires storage room.
+- Rotted Leather Strap x143 — Mixed lengths and widths of degraded hide; retained as salvage.
+- Rusted Iron Nails x87 — Loose corroded nails recovered from storage crates.
+- Broken Pottery Shards x64 — Mixed ceramic fragments of various sizes.
 
 ### Tools & Special Items
 
 - Basalt Stone Chest — Unopened massive chest recovered from the central dais of a circular chamber in the Weeping Spires and currently stored in the Paint Bowl. Made from dark polished basalt with rust-free iron bands seamlessly integrated into the stone. It has no visible keyhole, hinge, latch, or usable seam. Faint concentric grooves are etched into its lid, matching the circular indentation beside the chamber's entrance door. The chest strongly resonated with the same rhythmic vibration running through the ruin; forcing a pry bar into the microscopic lid seam caused the hum to spike violently through the tool. Contents unknown. Do not sell until opened and examined.
-- Silver-Plated Scroll Case — Tarnished and pitted cylindrical scroll case recovered from a narrow crevice in a Weeping Spires alcove. Roughly 12–14 inches long with a bronze or copper core beneath worn silver plating and capped ends. Still sealed and unopened; contents unknown. Stored in the Paint Bowl pending examination.
+- Silver-Plated Scroll Case — Tarnished and pitted cylindrical scroll case recovered from a narrow crevice in a Weeping Spires alcove. Roughly 12–14 inches long with a bronze or copper core beneath worn silver plating and capped ends. Contains a partial architectural schematic of the lower Weeping Spires, including twelve mapped rooms or major chambers, eye-marked containment areas, a Scriptorium, and notes about the resonance of the core. Stored in the Paint Bowl.
+- Leather-Bound Supply Ledger — Yellowed, brittle ledger containing old supply lists and dates from the Weeping Spires storage room.
+- Velvet-Lined Box — Small fitted box recovered from the heavy iron-bound chest.
+  - Polished Obsidian Sphere — Plum-sized, unusually polished obsidian sphere; significance and value unknown.
 - Broken Brass Compass — Family compass damaged in the storm that killed his parents and sister; its needle is bent.
 - Iron Lantern
 - Paint Bowl — Magical bowl used with the slave-crest brush to paint functioning slave crests.
@@ -120,6 +133,11 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Minor Bronze Fittings and Fragments x8 — Decorative mounting plates, trim pieces, and intact bronze hardware recovered from the Weeping Spires. Individually modest but useful as bronze salvage; stored in the Paint Bowl.
 - Stone Bench x2 — Heavy intact stone benches from the Weeping Spires antechamber, each roughly five feet long; stored in the Paint Bowl.
 - Fitted Stone Panel — Removable fitted stone slab that concealed the recessed compartment in the Weeping Spires antechamber; stored in the Paint Bowl.
+- Heavy Wooden Shelving Unit x6 — Large cedar shelving units from the Weeping Spires storage room; old but structurally usable and stored in the Paint Bowl.
+- Wooden Storage Crate x24 — Heavy cedar storage crates from the Weeping Spires storage room; emptied and stored in the Paint Bowl.
+- Heavy Iron-Bound Chest — Large cedar chest reinforced with iron bands, recovered from the Weeping Spires storage room. Its lock was forced open and it is now empty; stored in the Paint Bowl.
+  - Broken Iron Chest Lock — Forced open during recovery and retained as salvage.
+- Heavy Crimson Wool Cloak — Remarkably well-preserved deep-crimson wool cloak recovered from the storage room chest.
 - Small Brass Buckle x6
 - Iron Horseshoe x7
 - Leather Strap x8 — Various lengths suitable for repairs.
