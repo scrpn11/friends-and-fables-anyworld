@@ -109,6 +109,9 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ### Wares (For Sales)
 - Backpack — Durable travel pack for carrying personal and adventuring gear.
+- Basalt Stone Chest — Massive dark polished basalt chest with rust-free iron bindings; stored in the Paint Bowl.
+- Ornate Bronze Brazier — Well-preserved bronze brazier recovered from the Weeping Spires; stored in the Paint Bowl.
+- Ornate Bronze Incense Burner — Small ornate bronze incense burner recovered from an alcove in the Weeping Spires; stored in the Paint Bowl.
 - Small Brass Buckle x6
 - Iron Horseshoe x7
 - Leather Strap x8 — Various lengths suitable for repairs.
