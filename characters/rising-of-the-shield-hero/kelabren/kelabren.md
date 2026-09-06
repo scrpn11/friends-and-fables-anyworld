@@ -123,7 +123,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Belt Pouch — Small leather pouch.
   - Gold Coin x5
   - Silver Coin x64
-  - Copper Coin x108
+  - Copper Coin x96
 - Chain Shirt
 - Durable Travel Clothes — Practical hard-wearing clothes suited to extended travel.
 - Leather Bracer x2 — Stiff with age but usable.
