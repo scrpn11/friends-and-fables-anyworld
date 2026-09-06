@@ -95,6 +95,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ### Equipped
 
+- Backpack — Durable travel pack for carrying personal and adventuring gear.
 - Belt Pouch — Small leather pouch.
   - Gold Coin x5
   - Silver Coin x64
@@ -110,7 +111,6 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Waterproof Cloak — Practical oiled cloak treated to shed rain.
 
 ### Wares (For Sales)
-- Backpack — Durable travel pack for carrying personal and adventuring gear.
 - Ornate Bronze Brazier x4 — Heavy freestanding ceremonial braziers recovered from the Weeping Spires, roughly 2.5 feet tall with broad bowls and geometric relief work. Tarnished but unusually well preserved; stored in the Paint Bowl.
 - Ornate Bronze Incense Burner — Small lidded ceremonial burner about grapefruit-sized with pierced geometric decoration. Intact, well preserved, and stored in the Paint Bowl.
 - Heavy Bronze Wall Sconce x6 — Matching ceremonial wall sconces recovered from the Weeping Spires, roughly 12–16 inches tall with thick cast-bronze scroll and geometric decoration. Removed from deteriorated mortar and stored in the Paint Bowl.
