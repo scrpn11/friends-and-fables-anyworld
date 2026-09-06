@@ -35,20 +35,22 @@ Enara is timid, observant, and deeply cautious around anyone with power over her
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30  
+**Hit Dice:** 1d8  
+**Hit Points:** 9/9  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 8  
+**Dexterity:** 16  
+**Constitution:** 14  
+**Intelligence:** 12  
+**Wisdom:** 15  
+**Charisma:** 13  
 
 ### Stat Adjustments
+
+- Human: +1 Dexterity, +1 Constitution, +1 Wisdom
 
 ## Skills
 
