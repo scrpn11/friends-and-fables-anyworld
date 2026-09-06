@@ -62,11 +62,9 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Small Wooden Cask — Empty; holds roughly three gallons.
 - Tin Cup
 - Wool Blanket x2 — Musty but intact.
-- Sealed Wax Packet of Dried Herbs x3 — Desiccated but still recognizable bitter cooking spices and preservation agents recovered from a concealed compartment in the Weeping Spires antechamber.
 - Small Clay Cup x3 — Empty cups recovered from the Weeping Spires antechamber; formerly wrapped in rotted cloth.
-- Wax-Sealed Ceramic Jar x3 — Large storage jars recovered from the Weeping Spires storage room; seals broken during inspection.
+- Wax-Sealed Ceramic Jar x2 — Large storage jars recovered from the Weeping Spires storage room; seals broken during inspection.
   - Curing Salt-Paste — About 3 lb of pungent preserved salt mixture suitable for curing meat; still usable.
-  - Dried Black Seed-Pods — About 1.5 lb of unidentified preserved seed pods; should be identified before use.
   - Pine-Scented Oil — About 2 quarts of dense translucent oil with an unknown exact purpose.
 
 ### Repair & Utility
