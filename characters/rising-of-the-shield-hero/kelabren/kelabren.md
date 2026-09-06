@@ -109,7 +109,6 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
   - Pressed Flowers x7 — Old pressed botanical specimens found within the books.
   - Handwritten Notes x4 — Loose handwritten notes tucked into the bindings.
 - Pulsating Violet Crystal — Violet crystal recovered from the recessed workshop alcove in the Weeping Spires. Previously produced a steady rhythmic hum and physical vibration through the room; exact magical function unknown. Stored in the Paint Bowl.
-- Duke Aranis Estate Briefing Scroll — Written summary of Duke Aranis's holdings, authority, and succession requirements. States that the Gilded Aviary is his primary residence and seat of authority; he also owns three neighboring estates and several lucrative trade warehouses at the docks. His liquid assets are held in the estate vault and three separate banking houses in the capital. His Crown-granted authority includes jurisdiction over local law enforcement, tax collection, and land disputes within his province. To make Kelabren his heir, Aranis must draft a formal decree of adoption and succession, have it witnessed by his legal counsel and sealed with the ducal signet, then register it with the royal archives. Once registered, succession to Aranis's title and wealth becomes legally binding upon his retirement or death.
 - Broken Brass Compass — Family compass damaged in the storm that killed his parents and sister; its needle is bent.
 - Iron Lantern
 - Paint Bowl — Magical bowl used with the slave-crest brush to paint functioning slave crests.
