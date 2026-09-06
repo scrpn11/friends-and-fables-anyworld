@@ -83,6 +83,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ### Tools & Special Items
 
+- Basalt Stone Chest — Unopened massive chest recovered from the central dais of a circular chamber in the Weeping Spires and currently stored in the Paint Bowl. Made from dark polished basalt with rust-free iron bands seamlessly integrated into the stone. It has no visible keyhole, hinge, latch, or usable seam. Faint concentric grooves are etched into its lid, matching the circular indentation beside the chamber's entrance door. The chest strongly resonated with the same rhythmic vibration running through the ruin; forcing a pry bar into the microscopic lid seam caused the hum to spike violently through the tool. Contents unknown. Do not sell until opened and examined.
 - Broken Brass Compass — Family compass damaged in the storm that killed his parents and sister; its needle is bent.
 - Iron Lantern
 - Paint Bowl — Magical bowl used with the slave-crest brush to paint functioning slave crests.
@@ -109,7 +110,6 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ### Wares (For Sales)
 - Backpack — Durable travel pack for carrying personal and adventuring gear.
-- Basalt Stone Chest — Massive dark polished basalt chest with rust-free iron bindings; stored in the Paint Bowl.
 - Ornate Bronze Brazier — Well-preserved bronze brazier recovered from the Weeping Spires; stored in the Paint Bowl.
 - Ornate Bronze Incense Burner — Small ornate bronze incense burner recovered from an alcove in the Weeping Spires; stored in the Paint Bowl.
 - Small Brass Buckle x6
