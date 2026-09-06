@@ -83,7 +83,8 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ### Tools & Special Items
 
-- Basalt Stone Chest — Unopened massive chest recovered from the central dais of a circular chamber in the Weeping Spires. Made from dark polished basalt with rust-free iron bands seamlessly integrated into the stone. It has no visible keyhole, hinge, latch, or usable seam. Faint concentric grooves are etched into its lid, matching the circular indentation beside the chamber's entrance door. The chest strongly resonated with the same rhythmic vibration running through the ruin; forcing a pry bar into the microscopic lid seam caused the hum to spike violently through the tool. Contents unknown.
+- Basalt Stone Chest — Unopened massive chest recovered from the central dais of a circular chamber in the Weeping Spires and currently stored in the Paint Bowl. Made from dark polished basalt with rust-free iron bands seamlessly integrated into the stone. It has no visible keyhole, hinge, latch, or usable seam. Faint concentric grooves are etched into its lid, matching the circular indentation beside the chamber's entrance door. The chest strongly resonated with the same rhythmic vibration running through the ruin; forcing a pry bar into the microscopic lid seam caused the hum to spike violently through the tool. Contents unknown. Do not sell until opened and examined.
+- Silver-Plated Scroll Case — Tarnished and pitted cylindrical scroll case recovered from a narrow crevice in a Weeping Spires alcove. Roughly 12–14 inches long with a bronze or copper core beneath worn silver plating and capped ends. Still sealed and unopened; contents unknown. Stored in the Paint Bowl pending examination.
 - Broken Brass Compass — Family compass damaged in the storm that killed his parents and sister; its needle is bent.
 - Iron Lantern
 - Paint Bowl — Magical bowl used with the slave-crest brush to paint functioning slave crests.
@@ -110,8 +111,10 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ### Wares (For Sales)
 - Backpack — Durable travel pack for carrying personal and adventuring gear.
-- Ornate Bronze Brazier — Well-preserved bronze brazier recovered from the Weeping Spires; stored in the Paint Bowl.
-- Ornate Bronze Incense Burner — Small ornate bronze incense burner recovered from an alcove in the Weeping Spires; stored in the Paint Bowl.
+- Ornate Bronze Brazier x4 — Heavy freestanding ceremonial braziers recovered from the Weeping Spires, roughly 2.5 feet tall with broad bowls and geometric relief work. Tarnished but unusually well preserved; stored in the Paint Bowl.
+- Ornate Bronze Incense Burner — Small lidded ceremonial burner about grapefruit-sized with pierced geometric decoration. Intact, well preserved, and stored in the Paint Bowl.
+- Heavy Bronze Wall Sconce x6 — Matching ceremonial wall sconces recovered from the Weeping Spires, roughly 12–16 inches tall with thick cast-bronze scroll and geometric decoration. Removed from deteriorated mortar and stored in the Paint Bowl.
+- Minor Bronze Fittings and Fragments x8 — Decorative mounting plates, trim pieces, and intact bronze hardware recovered from the Weeping Spires. Individually modest but useful as bronze salvage; stored in the Paint Bowl.
 - Small Brass Buckle x6
 - Iron Horseshoe x7
 - Leather Strap x8 — Various lengths suitable for repairs.
