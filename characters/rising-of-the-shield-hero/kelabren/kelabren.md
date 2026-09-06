@@ -85,6 +85,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Iron Pry Bar
 - Heavy Iron Keys on Brass Ring — Three heavy iron keys on a brass ring; purpose unknown.
 - Coarse Twine Bundle x9 — Old but mostly intact bundles recovered from the Weeping Spires storage room.
+- Silver Clamp x4 — Silver clamps removed from the violet crystal assembly in the Weeping Spires workshop.
 
 ### Salvage & Trade Goods
 
@@ -93,6 +94,9 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Rotted Leather Strap x143 — Mixed lengths and widths of degraded hide; retained as salvage.
 - Rusted Iron Nails x87 — Loose corroded nails recovered from storage crates.
 - Broken Pottery Shards x64 — Mixed ceramic fragments of various sizes.
+- Stone Plinth x6 — Tall slender removable stone plinths recovered from the Weeping Spires workshop; stored in the Paint Bowl.
+- Slate Slab x6 — Flat removable slate slabs formerly resting atop the workshop plinths; stored in the Paint Bowl.
+- Brass-Rimmed Aperture — Removable brass-rimmed fitting from the Weeping Spires workshop crystal alcove; stored in the Paint Bowl.
 
 ### Tools & Special Items
 
@@ -101,6 +105,12 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Leather-Bound Supply Ledger — Yellowed, brittle ledger containing old supply lists and dates from the Weeping Spires storage room.
 - Velvet-Lined Box — Small fitted box recovered from the heavy iron-bound chest.
   - Polished Obsidian Sphere — Plum-sized, unusually polished obsidian sphere; significance and value unknown.
+- Workshop Scrolls x42 — Individual scrolls recovered from the Weeping Spires workshop; condition ranges from crumbling fragments to remarkably intact. Stored in the Paint Bowl.
+- Clay Tablets x16 — Fragmented and intact clay record tablets recovered from the Weeping Spires workshop; stored in the Paint Bowl.
+- Moisture-Fused Leather-Bound Books x5 — Heavy old volumes from the Weeping Spires workshop, partially fused by moisture and age; stored in the Paint Bowl.
+  - Pressed Flowers x7 — Old pressed botanical specimens found within the books.
+  - Handwritten Notes x4 — Loose handwritten notes tucked into the bindings.
+- Pulsating Violet Crystal — Violet crystal recovered from the recessed workshop alcove in the Weeping Spires. Previously produced a steady rhythmic hum and physical vibration through the room; exact magical function unknown. Stored in the Paint Bowl.
 - Broken Brass Compass — Family compass damaged in the storm that killed his parents and sister; its needle is bent.
 - Iron Lantern
 - Paint Bowl — Magical bowl used with the slave-crest brush to paint functioning slave crests.
