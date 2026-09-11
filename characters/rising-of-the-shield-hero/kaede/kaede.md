@@ -23,7 +23,7 @@ Kaede appears to be in her late teens and stands a little over five feet tall, w
 
 ### Backstory
 
-Kaede was born in a mixed demi-human settlement near Melromarc's eastern trade roads, where her family survived through trapping, leatherwork, and seasonal caravan labor. Human prejudice was ordinary enough that she learned young when to keep her ears lowered, when to leave before trouble started, and when running would only invite pursuit. After a local lord increased levies following monster damage and a failed harvest, her family fell into debt. Her older brother vanished while escorting a merchant caravan, and her mother later died of illness, leaving Kaede responsible for herself and a few remaining relatives. Rather than submit to a creditor's claim, she fled and spent months moving between villages, camps, and roadside work. She learned to hunt, read people quickly, and disappear before anyone could own her labor. By the campaign's opening, she is still free but one bad season away from desperation, determined never to be trapped by debt, law, or dependence.
+Kaede was born in a mixed demi-human settlement near Melromarc's eastern trade roads, where her family survived through trapping, leatherwork, and seasonal caravan labor. Human prejudice was ordinary enough that she learned young when to keep her ears lowered, when to leave before trouble started, and when running would only invite pursuit. After a local lord increased levies following monster damage and a failed harvest, her family fell into debt. Her older brother vanished while escorting a merchant caravan, and her mother later died of illness, leaving Kaede largely on her own. Rather than let a creditor or local official claim control over her labor, she left the settlement and began surviving through odd jobs, trapping, basic leather repair, and occasional caravan work. She has learned to hunt, read people quickly, and move on before an employer or authority figure can make her dependent. At the campaign's opening, Kaede is free, unmarked, poorly funded, and traveling with only the possessions she can reasonably carry. She has not met Kelabren or any of the other campaign characters.
 
 ### Mannerisms
 
@@ -56,32 +56,24 @@ Kaede is quick-witted, independent, suspicious, and difficult to intimidate for 
 
 ### Equipped
 
-- Backpack — Durable travel pack for carrying personal and adventuring gear.
-  - Bedroll — Durable travel bedroll.
-  - Bone Dice — Simple pair of dice carved from bone.
-  - Candle — Misshapen but usable.
+- Worn Backpack
+  - Bedroll
   - Flint and Steel
-  - Hand Mirror — High-clarity mirror with an ornate handcrafted silver frame carved in delicate ivy vines.
-  - Handkerchief — Plain cloth.
-  - Iron Spoon
   - Leatherworking Kit
-    - Heavy Leather Needle x3
-    - Leather Patches — Assorted small pieces for repairs.
-    - Spool of Heavy Waxed Thread x2
+    - Heavy Leather Needle x2
     - Small Awl
-  - Thieves' Tools — Compact set of picks, tension tools, and small implements for working locks and simple mechanisms.
+    - Spool of Heavy Waxed Thread x1
+    - Assorted Leather Patches
   - Tin Cup
-  - Whetstone
-  - Worn Playing Cards — Complete but heavily used deck carried by the patrol.
-- Belt Pouch — Small leather pouch.
+  - Small Food Ration x2
+- Belt Pouch
+  - Copper Coin x18
 - Bolt Quiver
-  - Crossbow Bolt x34 — Five previously usable bolts, twenty newly purchased bolts, and nine repaired bolts.- Bone Whistle — Jagged, hand-carved whistle used to signal or call trained animals at short range.
-- Butcher Knife — Dull, broad-bladed utility knife.
-- Durable Travel Clothes — Practical hard-wearing clothes suited to extended travel.
-- Light Crossbow
-- Light Studded Leather Armor — Fitted for Kaede's demi-human build and tail; light enough for quiet movement.
-- Reinforced Leather Boots — Quiet, durable boots suited for stone, mud, and wilderness travel.
-- Utility Knife — Plain working knife suitable for camp chores and general use.
+  - Crossbow Bolt x12
+- Durable Travel Clothes
+- Light Crossbow — Worn but serviceable hunting weapon.
+- Reinforced Leather Boots
+- Utility Knife
 - Waterskin (full)
 
 ## Spellbook
