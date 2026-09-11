@@ -68,15 +68,10 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
   - Jagged Spinal Spike x4
   - Monster Fang x4
   - Monster Claw x8
-  - Rolled Grey Monster Hide 
+  - Rolled Grey Monster Hide
   - Small Flask — Contains a little alcohol.
 - Sturdy Boots
 - Utility Knife
 - Waterskin
-
-### Carried by Enara
-
-- Fresh Monster Meat — 6 lb, carried directly; no container or wrapping available.
-- Tarnished Silver Ring — Thin silver ring with a chipped stone; belonged to Enara's mother.
 
 ## Spellbook
