@@ -63,14 +63,4 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
   - Copper Coin x18
 - Utility Knife
 
-### At Home
-
-- Fishing Rod
-- Fishing Net
-- Coil of Rope — 25 ft
-- Flint and Steel
-- Bedroll
-- Waterskin
-- Small Flask — Contains a little alcohol.
-
 ## Spellbook
