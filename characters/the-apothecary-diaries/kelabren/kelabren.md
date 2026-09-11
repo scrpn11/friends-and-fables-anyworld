@@ -59,10 +59,8 @@ Ke Ren is charming, flirtatious, reckless, and difficult to embarrass. He turns 
 - Slave-Crest Brush — Magical brush that paints functioning slave crests and allows completed crests to instinctively enforce Ke Ren's intent.
 - Broken Brass Compass — Family compass damaged in the flood that killed his parents and sister; its needle is bent.
 - Coin Purse
-  - 3 copper coins
 - Drinking Gourd — Stoppered gourd for carrying liquids.
   - Wine
-- Tarnished Silver Ring — Thin silver ring with a chipped stone; belonged to Enara's mother.
 
 ### Weapons
 
