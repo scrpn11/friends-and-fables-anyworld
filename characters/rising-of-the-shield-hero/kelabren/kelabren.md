@@ -58,7 +58,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 - Bedroll — secured to the outside of the rucksack using the rucksack's existing straps/lashing points.
 - Belt Pouch
-  - Silver Coin x12
+  - Silver Coin x9
   - Copper Coin x21
 - Coil of Rope — 25 ft — secured to the outside of the rucksack using the rucksack's existing straps/lashing points.
 - Durable Work Clothes
