@@ -58,16 +58,19 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 - Bedroll — secured to the outside of the rucksack using the rucksack's existing straps/lashing points.
 - Belt Pouch
-  - Silver Coin x14
+  - Silver Coin x12
   - Copper Coin x21
 - Coil of Rope — 25 ft — secured to the outside of the rucksack using the rucksack's existing straps/lashing points.
 - Durable Work Clothes
 - Rucksack
   - Flint and Steel
-  - Fresh Monster Meat — 4 lb, loose cuts from the grey-furred wolf-like monster.
   - Small Flask — Contains a little alcohol.
 - Sturdy Boots
 - Utility Knife
 - Waterskin
+
+### Left with Haldor's Hides & Hewn
+
+- Monster Meat — 10 lb total, paid 2 silver to be salted and cured into travel rations; ready for pickup in three days.
 
 ## Spellbook
