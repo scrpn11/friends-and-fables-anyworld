@@ -23,7 +23,7 @@ Kaede appears to be in her late teens and stands a little over five feet tall, w
 
 ### Backstory
 
-Kaede was born in a mixed demi-human settlement near Melromarc's eastern trade roads, where her family survived through trapping, leatherwork, and seasonal caravan labor. Human prejudice was ordinary enough that she learned young when to keep her ears lowered, when to leave before trouble started, and when running would only invite pursuit. After a local lord increased levies following monster damage and a failed harvest, her family fell into debt. Her older brother vanished while escorting a merchant caravan, and her mother later died of illness, leaving Kaede largely on her own. Rather than let a creditor or local official claim control over her labor, she left the settlement and began surviving through odd jobs, trapping, basic leather repair, and occasional caravan work. She has learned to hunt, read people quickly, and move on before an employer or authority figure can make her dependent. At the campaign's opening, Kaede is free, unmarked, poorly funded, and traveling with only the possessions she can reasonably carry. She has not met Kelabren or any of the other campaign characters.
+Kaede was born in a mixed demi-human settlement near Melromarc's eastern trade roads, where her family survived through trapping, leatherwork, and seasonal caravan labor. Human prejudice was ordinary enough that she learned young when to keep her ears lowered, when to leave before trouble started, and when running would only invite pursuit. After a local lord increased levies following monster damage and a failed harvest, her family fell into debt. Her older brother vanished while escorting a merchant caravan, and her mother later died of illness, leaving Kaede largely on her own. Rather than let a creditor or local official claim control over her labor, she left the settlement and began surviving through odd jobs, trapping, basic leather repair, and occasional caravan work. She has learned to hunt, read people quickly, and move on before an employer or authority figure can make her dependent. At the campaign's opening, Kaede is free, unmarked, poorly funded, and traveling with only a few possessions. She has not met Kelabren or any of the other campaign characters.
 
 ### Mannerisms
 
@@ -56,24 +56,20 @@ Kaede is quick-witted, independent, suspicious, and difficult to intimidate for 
 
 ### Equipped
 
-- Worn Backpack
-  - Bedroll
-  - Flint and Steel
-  - Leatherworking Kit
-    - Heavy Leather Needle x2
-    - Small Awl
-    - Spool of Heavy Waxed Thread x1
-    - Assorted Leather Patches
-  - Tin Cup
-  - Small Food Ration x2
-- Belt Pouch
-  - Copper Coin x18
-- Bolt Quiver
-  - Crossbow Bolt x12
-- Durable Travel Clothes
-- Light Crossbow — Worn but serviceable hunting weapon.
-- Reinforced Leather Boots
+- Worn Travel Clothes
+- Worn Boots
 - Utility Knife
-- Waterskin (full)
+- Small Belt Pouch
+  - Copper Coin x7
+
+### Carried
+
+- Worn Satchel
+  - Flint and Steel
+  - Leather Needle
+  - Spool of Waxed Thread
+  - Small Leather Patch x2
+  - Small Food Ration x1
+- Waterskin
 
 ## Spellbook
