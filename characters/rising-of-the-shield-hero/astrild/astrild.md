@@ -23,7 +23,7 @@ Astrild appears to be a young human woman aside from her feline ears and tail. S
 
 ### Backstory
 
-Astrild has lived in the wilderness for as long as she can remember, making her home among the ruins of an old temple deep within the forest. The decaying structure became both shelter and territory, and she learned its chambers, surrounding trails, water sources, hiding places, and dangers through years of solitude. With no community to depend upon, she learned to hunt, forage, avoid monsters, tend minor injuries, and recognize subtle changes in the forest around her. Travelers and scavengers occasionally passed near the ruins, but such encounters taught her caution more often than companionship. She knows little of cities except what she has overheard or learned from outsiders, and the laws and customs of distant settlements hold little meaning for her. Her demi-human heritage has given her reason to be wary of human strangers. By the campaign's opening, the temple and surrounding forest are the only home she truly knows and the only territory she considers unquestionably hers.
+Astrild has lived in the wilderness for as long as she can remember, making her home among the ruins of an old temple deep within the forest. The decaying structure became both shelter and territory, and she learned its chambers, surrounding trails, water sources, hiding places, and dangers through years of solitude. With no community to depend upon, she taught herself to hunt, forage, avoid monsters, tend minor injuries, and recognize subtle changes in the forest around her. Travelers and scavengers occasionally passed near the ruins, but such encounters taught her caution more often than companionship. She knows little of cities except what she has overheard from outsiders, and the laws and customs of distant settlements hold little meaning for her. Her demi-human heritage has given her reason to be wary of human strangers. At the campaign's opening, Astrild is free, unmarked, and still living in or near the ruined temple with only the modest tools and supplies she has gathered for survival. She has not met Kelabren or any of the other campaign characters.
 
 ### Mannerisms
 
@@ -56,29 +56,19 @@ Astrild is reserved, territorial, perceptive, and fiercely independent. Years of
 
 ### Equipped
 
-- Arrow Quiver — Leather quiver worn for quick access to arrows.
-  - Arrow x20
-- Backpack — Durable travel pack for carrying personal and adventuring gear.
-  - Bedroll — Durable travel bedroll.
-  - Bottle Black Ink
-  - Candle — Misshapen but usable.
-  - Cloth Herb Packet — Small cloth packet containing dried medicinal herbs for basic wound treatment.
-    - Dried Broadleaf Plantain Leaves x4 — Leaves used in poultices for minor wounds, irritation, and swelling.
-    - Dried Yarrow Leaves x6 — Leaves traditionally used in poultices for minor cuts and bleeding.
+- Rough Cloth Pack
   - Flint and Steel
-  - Handkerchief — Plain cloth.
-  - Iron Spoon
-  - Quill x5
+  - Cloth Herb Packet
+    - Dried Broadleaf Plantain Leaves x3
+    - Dried Yarrow Leaves x4
+  - Dried Food Ration x2
   - Tin Cup
-  - Whetstone
-- Belt Pouch — Small leather pouch.
-- Dark Waterproof Cloak — Practical dark cloak treated to shed rain and reduce visibility in poor weather.
-- Durable Travel Clothes — Practical hard-wearing clothes suited to extended travel.
-- Hunting Bow — Compact bow suited to hunting, scouting, and use in dense woodland.
-- Sturdy Leather Satchel — Durable satchel used to protect maps, notes, and field supplies.
-  - Map x4 — Three maps carried by the first two quarry patrol soldiers plus one additional regional map from the remaining four; contents not yet examined closely.
-  - Regional Patrol Map — Faded hand-drawn map showing old roads, watch posts, trails, a quarry, and two additional outposts.
-- Utility Knife — Plain working knife suitable for camp chores and general use.
+- Arrow Quiver
+  - Arrow x14
+- Dark Wool Cloak — Weathered and patched.
+- Simple Travel Clothes — Handmade and frequently repaired.
+- Hunting Bow — Compact bow suited to hunting in dense woodland.
+- Utility Knife
 - Waterskin (full)
 
 ## Spellbook
