@@ -60,4 +60,7 @@ Enara is timid, observant, and deeply cautious around anyone with power over her
 
 ### Equipment
 
+- Fresh Monster Meat — 6 lb, carried directly; no container or wrapping available.
+- Tarnished Silver Ring — Thin silver ring with a chipped stone; belonged to Enara's mother.
+
 ## Spellbook
