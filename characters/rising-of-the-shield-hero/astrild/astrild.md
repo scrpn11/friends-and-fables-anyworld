@@ -23,7 +23,7 @@ Astrild appears to be a young human woman aside from her feline ears and tail. S
 
 ### Backstory
 
-Astrild has lived in the wilderness for as long as she can remember, making her home among the ruins of an old temple deep within the forest. The decaying structure became both shelter and territory, and she learned its chambers, surrounding trails, water sources, hiding places, and dangers through years of solitude. With no community to depend upon, she taught herself to hunt, forage, avoid monsters, tend minor injuries, and recognize subtle changes in the forest around her. Travelers and scavengers occasionally passed near the ruins, but such encounters taught her caution more often than companionship. She knows little of cities except what she has overheard from outsiders, and the laws and customs of distant settlements hold little meaning for her. Her demi-human heritage has given her reason to be wary of human strangers. At the campaign's opening, Astrild is free, unmarked, and still living in or near the ruined temple with only the modest tools and supplies she has gathered for survival. She has not met Kelabren or any of the other campaign characters.
+Astrild has lived in the wilderness for as long as she can remember, making her home among the ruins of an old temple deep within the forest. The decaying structure became both shelter and territory, and she learned its chambers, surrounding trails, water sources, hiding places, and dangers through years of solitude. With no community to depend upon, she taught herself to hunt, forage, avoid monsters, tend minor injuries, and recognize subtle changes in the forest around her. Travelers and scavengers occasionally passed near the ruins, but such encounters taught her caution more often than companionship. She knows little of cities except what she has overheard from outsiders, and the laws and customs of distant settlements hold little meaning for her. Her demi-human heritage has given her reason to be wary of human strangers. At the campaign's opening, Astrild is free, unmarked, and still living in or near the ruined temple with only the basic possessions she needs to survive. She has not met Kelabren or any of the other campaign characters.
 
 ### Mannerisms
 
@@ -56,19 +56,18 @@ Astrild is reserved, territorial, perceptive, and fiercely independent. Years of
 
 ### Equipped
 
-- Rough Cloth Pack
-  - Flint and Steel
-  - Cloth Herb Packet
-    - Dried Broadleaf Plantain Leaves x3
-    - Dried Yarrow Leaves x4
-  - Dried Food Ration x2
-  - Tin Cup
-- Arrow Quiver
-  - Arrow x14
-- Dark Wool Cloak — Weathered and patched.
-- Simple Travel Clothes — Handmade and frequently repaired.
-- Hunting Bow — Compact bow suited to hunting in dense woodland.
+- Handmade Clothes
 - Utility Knife
-- Waterskin (full)
+- Hunting Bow
+- Arrow Quiver
+  - Arrow x8
+
+### Carried
+
+- Waterskin
+- Flint and Steel
+- Small Cloth Bundle
+  - Dried Food Ration x1
+  - Dried Medicinal Herbs — Small handful.
 
 ## Spellbook
