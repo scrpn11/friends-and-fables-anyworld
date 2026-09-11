@@ -56,21 +56,17 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ### Equipped
 
-- Durable Work Clothes
-- Sturdy Boots
 - Belt Pouch
   - Silver Coin x2
-  - Copper Coin x18
+  - Copper Coin x21
+- Durable Work Clothes
+- Rucksack
+  - Bedroll
+  - Coil of Rope — 25 ft
+  - Flint and Steel
+  - Small Flask — Contains a little alcohol.
+- Sturdy Boots
 - Utility Knife
-
-### At Home
-
-- Fishing Rod
-- Fishing Net
-- Coil of Rope — 25 ft
-- Flint and Steel
-- Bedroll
 - Waterskin
-- Small Flask — Contains a little alcohol.
 
 ## Spellbook
