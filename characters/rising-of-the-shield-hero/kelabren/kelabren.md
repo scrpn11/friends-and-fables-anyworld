@@ -23,7 +23,7 @@ Kelabren is a 5-foot-8 human man with an average, practical build shaped by year
 
 ### Backstory
 
-Kelabren was born in a fishing settlement under Melromarc's rule, the son of independent fishers who worked the coast and nearby rivers. His parents taught him boats, nets, knots, weather, bargaining, and the instincts needed to bring people home safely. His younger sister followed him everywhere and trusted his judgment completely. During a violent storm compounded by a monster outbreak, Kelabren took responsibility for guiding all three of them toward shelter. He chose a faster route through flooded lowland rather than risk the longer road, but the crossing failed. His parents and sister died while he survived. A brass compass used by his family was broken in the disaster, and he still keeps it despite its bent needle. Since then he has buried guilt beneath drink, flirting, jokes, and a reputation for unreliability. He continues fishing and accepts dangerous work when coin is short, especially jobs involving travel, monsters, or people who cannot easily defend themselves.
+Kelabren was born in a fishing settlement under Melromarc's rule, the son of independent fishers who worked the coast and nearby rivers. His parents taught him boats, nets, knots, weather, bargaining, and the instincts needed to bring people home safely. His younger sister followed him everywhere and trusted his judgment completely. During a violent storm compounded by a monster outbreak, Kelabren took responsibility for guiding all three of them toward shelter. He chose a faster route through flooded lowland rather than risk the longer road, but the crossing failed. His parents and sister died while he survived. Since then he has buried guilt beneath drink, flirting, jokes, and a reputation for unreliability. He continues fishing for a living and occasionally accepts modest adventuring work when coin is short, particularly simple escort, gathering, hunting, or monster-clearing jobs. At the campaign's opening, Kelabren is an ordinary independent fisherman with modest means. He has not yet discovered the unusual slave-crest magic dormant within him and has no slave-marked companions.
 
 ### Mannerisms
 
@@ -54,100 +54,23 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ## Inventory
 
-### Camp & Cooking
-
-- Bedroll — Durable travel bedroll.
-- Candle x3 — Misshapen but usable.
-- Iron Spoon
-- Small Wooden Cask — Empty; holds roughly three gallons.
-- Tin Cup
-- Wool Blanket x2 — Musty but intact.
-- Small Clay Cup x3 — Empty cups recovered from the Weeping Spires antechamber; formerly wrapped in rotted cloth.
-- Wax-Sealed Ceramic Jar x2 — Large storage jars recovered from the Weeping Spires storage room; seals broken during inspection.
-  - Curing Salt-Paste — About 3 lb of pungent preserved salt mixture suitable for curing meat; still usable.
-  - Pine-Scented Oil — About 2 quarts of dense translucent oil with an unknown exact purpose.
-
-### Repair & Utility
-
-- Canvas Tarp — 8 × 6 ft — Stained and patched, but usable.
-- Coil of Hemp Rope — 38 ft — Mildewed along the outermost section but mostly sound.
-- Coil of Thin Rope x3 — 20 ft each.
-- Copper Wire — 11 ft
-- Flint and Steel
-- Hand Shovel
-- Iron Hammer
-- Iron Hatchet — Edge badly needs sharpening.
-- Iron Hook — Tarnished but intact; recovered from a concealed compartment in the Weeping Spires antechamber.
-- Iron Key Ring — Holds three small iron keys of unknown purpose.
-- Iron Nails x46
-- Iron Pry Bar
-- Heavy Iron Keys on Brass Ring — Three heavy iron keys on a brass ring; purpose unknown.
-- Coarse Twine Bundle x9 — Old but mostly intact bundles recovered from the Weeping Spires storage room.
-- Silver Clamp x4 — Silver clamps removed from the violet crystal assembly in the Weeping Spires workshop.
-
-### Salvage & Trade Goods
-
-- Small Bottle of Lamp Oil x2
-- Old Linen Piece x76 — Moldy or degraded sheets, folded lengths, wrapping cloths, and scraps recovered from the Weeping Spires storage room.
-- Rotted Leather Strap x143 — Mixed lengths and widths of degraded hide; retained as salvage.
-- Rusted Iron Nails x87 — Loose corroded nails recovered from storage crates.
-- Broken Pottery Shards x64 — Mixed ceramic fragments of various sizes.
-- Stone Plinth x6 — Tall slender removable stone plinths recovered from the Weeping Spires workshop; stored in the Paint Bowl.
-- Slate Slab x6 — Flat removable slate slabs formerly resting atop the workshop plinths; stored in the Paint Bowl.
-- Brass-Rimmed Aperture — Removable brass-rimmed fitting from the Weeping Spires workshop crystal alcove; stored in the Paint Bowl.
-
-### Tools & Special Items
-
-- Basalt Stone Chest — Unopened massive chest recovered from the central dais of a circular chamber in the Weeping Spires and currently stored in the Paint Bowl. Made from dark polished basalt with rust-free iron bands seamlessly integrated into the stone. It has no visible keyhole, hinge, latch, or usable seam. Faint concentric grooves are etched into its lid, matching the circular indentation beside the chamber's entrance door. The chest strongly resonated with the same rhythmic vibration running through the ruin; forcing a pry bar into the microscopic lid seam caused the hum to spike violently through the tool. Contents unknown. Do not sell until opened and examined.
-- Silver-Plated Scroll Case — Tarnished and pitted cylindrical scroll case recovered from a narrow crevice in a Weeping Spires alcove. Roughly 12–14 inches long with a bronze or copper core beneath worn silver plating and capped ends. Contains a partial architectural schematic of the lower Weeping Spires, including twelve mapped rooms or major chambers, eye-marked containment areas, a Scriptorium, and notes about the resonance of the core. Stored in the Paint Bowl.
-- Leather-Bound Supply Ledger — Yellowed, brittle ledger containing old supply lists and dates from the Weeping Spires storage room.
-- Velvet-Lined Box — Small fitted box recovered from the heavy iron-bound chest.
-  - Polished Obsidian Sphere — Plum-sized, unusually polished obsidian sphere; significance and value unknown.
-- Workshop Scrolls x42 — Individual scrolls recovered from the Weeping Spires workshop; condition ranges from crumbling fragments to remarkably intact. Stored in the Paint Bowl.
-- Clay Tablets x16 — Fragmented and intact clay record tablets recovered from the Weeping Spires workshop; stored in the Paint Bowl.
-- Moisture-Fused Leather-Bound Books x5 — Heavy old volumes from the Weeping Spires workshop, partially fused by moisture and age; stored in the Paint Bowl.
-  - Pressed Flowers x7 — Old pressed botanical specimens found within the books.
-  - Handwritten Notes x4 — Loose handwritten notes tucked into the bindings.
-- Pulsating Violet Crystal — Violet crystal recovered from the recessed workshop alcove in the Weeping Spires. Previously produced a steady rhythmic hum and physical vibration through the room; exact magical function unknown. Stored in the Paint Bowl.
-- Broken Brass Compass — Family compass damaged in the storm that killed his parents and sister; its needle is bent.
-- Iron Lantern
-- Paint Bowl — Magical bowl used with the slave-crest brush to paint functioning slave crests.
-- Slave-Crest Brush — Magical brush that paints functioning slave crests and allows completed crests to instinctively enforce Kelabren's intent.
-- Small Flask — Contains a little alcohol.
-- Tobacco Leaves x2
-- Whetstone
-
 ### Equipped
 
-- Backpack — Durable travel pack for carrying personal and adventuring gear.
-- Belt Pouch — Small leather pouch.
-  - Gold Coin x5
-  - Silver Coin x64
-  - Copper Coin x96
-- Chain Shirt
-- Durable Travel Clothes — Practical hard-wearing clothes suited to extended travel.
-- Leather Bracer x2 — Stiff with age but usable.
-- Sturdy Sword Belt — Durable belt arranged to carry two shortswords securely.
-- Sturdy Travel Boots — Durable boots suited to long-distance travel and rough terrain.
-- Utility Knife — Equipped plain working knife suitable for camp chores and general use.
-- Waterskin (full)
-- Well-Made Shortsword x2 — Balanced serviceable swords with matching scabbards.
-- Waterproof Cloak — Practical oiled cloak treated to shed rain.
+- Durable Work Clothes
+- Sturdy Boots
+- Belt Pouch
+  - Silver Coin x2
+  - Copper Coin x18
+- Utility Knife
 
-### Wares (For Sales)
-- Ornate Bronze Brazier x4 — Heavy freestanding ceremonial braziers recovered from the Weeping Spires, roughly 2.5 feet tall with broad bowls and geometric relief work. Tarnished but unusually well preserved; stored in the Paint Bowl.
-- Ornate Bronze Incense Burner — Small lidded ceremonial burner about grapefruit-sized with pierced geometric decoration. Intact, well preserved, and stored in the Paint Bowl.
-- Heavy Bronze Wall Sconce x6 — Matching ceremonial wall sconces recovered from the Weeping Spires, roughly 12–16 inches tall with thick cast-bronze scroll and geometric decoration. Removed from deteriorated mortar and stored in the Paint Bowl.
-- Minor Bronze Fittings and Fragments x8 — Decorative mounting plates, trim pieces, and intact bronze hardware recovered from the Weeping Spires. Individually modest but useful as bronze salvage; stored in the Paint Bowl.
-- Stone Bench x2 — Heavy intact stone benches from the Weeping Spires antechamber, each roughly five feet long; stored in the Paint Bowl.
-- Fitted Stone Panel — Removable fitted stone slab that concealed the recessed compartment in the Weeping Spires antechamber; stored in the Paint Bowl.
-- Heavy Wooden Shelving Unit x6 — Large cedar shelving units from the Weeping Spires storage room; old but structurally usable and stored in the Paint Bowl.
-- Wooden Storage Crate x24 — Heavy cedar storage crates from the Weeping Spires storage room; emptied and stored in the Paint Bowl.
-- Heavy Iron-Bound Chest — Large cedar chest reinforced with iron bands, recovered from the Weeping Spires storage room. Its lock was forced open and it is now empty; stored in the Paint Bowl.
-  - Broken Iron Chest Lock — Forced open during recovery and retained as salvage.
-- Heavy Crimson Wool Cloak — Remarkably well-preserved deep-crimson wool cloak recovered from the storage room chest.
-- Small Brass Buckle x6
-- Iron Horseshoe x7
-- Leather Strap x8 — Various lengths suitable for repairs.
+### At Home
+
+- Fishing Rod
+- Fishing Net
+- Coil of Rope — 25 ft
+- Flint and Steel
+- Bedroll
+- Waterskin
+- Small Flask — Contains a little alcohol.
 
 ## Spellbook
