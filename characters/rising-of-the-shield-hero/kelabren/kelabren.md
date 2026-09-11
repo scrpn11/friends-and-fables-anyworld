@@ -56,23 +56,23 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ### Equipped
 
+- Bedroll — secured to the outside of the rucksack using the rucksack's existing straps/lashing points.
 - Belt Pouch
   - Silver Coin x2
   - Copper Coin x21
+- Coil of Rope — 25 ft — secured to the outside of the rucksack using the rucksack's existing straps/lashing points.
 - Durable Work Clothes
 - Rucksack
-  - Bedroll
-  - Coil of Rope — 25 ft
   - Flint and Steel
-  - Small Flask — Contains a little alcohol.
   - Fresh Monster Meat — 4 lb, loose cuts from the grey-furred wolf-like monster.
+  - Jagged Spinal Spike x4
   - Monster Fang x4
   - Monster Claw x8
-  - Jagged Spinal Spike x4
+  - Rolled Grey Monster Hide 
+  - Small Flask — Contains a little alcohol.
 - Sturdy Boots
 - Utility Knife
 - Waterskin
-- Rolled Grey Monster Hide — Freshly skinned; rolled tightly and secured to the outside of the rucksack using the rucksack's existing straps/lashing points.
 
 ### Carried by Enara
 
