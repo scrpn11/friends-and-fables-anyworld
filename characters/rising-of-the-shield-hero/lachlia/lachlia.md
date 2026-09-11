@@ -23,7 +23,7 @@ Lachlia appears to be in her late teens and stands just over five feet tall, wit
 
 ### Backstory
 
-Lachlia was born in a poor rural village in Melromarc, the daughter of tenant farmers who survived on thin harvests, seasonal labor, and estate work. She learned early to mend, cook, gather wild plants, tend small animals, and make limited stores last through winter. When monster attacks damaged local fields and trade routes, her family's debts mounted faster than they could repay them. Her father died during an attack outside the village, and her mother became ill the following winter, leaving Lachlia with debts she had no realistic means to settle. A creditor eventually claimed her under Melromarc's legal slave system and sold her away from the region. By the campaign's opening, she survives by staying observant, compliant when necessary, and difficult to surprise. Beneath that caution, she wants enough competence and independence that no one can decide the course of her life for her again.
+Lachlia was born in a poor rural village in Melromarc, the daughter of tenant farmers who survived on thin harvests, seasonal labor, and estate work. She learned early to mend, cook, gather wild plants, tend small animals, and make limited stores last through winter. When monster attacks damaged local fields and trade routes, her family's debts mounted faster than they could repay them. Her father died during an attack outside the village, and her mother became ill the following winter, leaving Lachlia with debts she had no realistic means to settle. A creditor eventually claimed her under Melromarc's legal slave system and sold her away from the region. At the campaign's opening, she is legally enslaved but has not yet been marked with a slave crest. She owns almost nothing beyond the plain clothing and few personal effects she was allowed to keep. She has not met Kelabren or any of the other campaign characters. Beneath her caution, she wants enough competence and independence that no one can decide the course of her life for her again.
 
 ### Mannerisms
 
@@ -56,35 +56,15 @@ Lachlia is cautious, observant, practical, and quietly stubborn. She rarely chal
 
 ## Inventory
 
-- Backpack — Durable travel pack for carrying personal and adventuring gear.
-  - Assorted Medicinal Poultices x6
-  - Bedroll — Durable travel bedroll.
-  - Bone Comb — Simple personal comb.
-  - Candle — Misshapen but usable.
-  - Dried Salt — 2 lb
-  - Flint and Steel
-  - Handkerchief — Plain cloth.
-  - Iron Cooking Pot — Blackened, dented, and completely functional.
-  - Iron Kettle — Missing its lid but otherwise intact.
-  - Iron Spoon
-  - Linen Bandage Roll x6
-  - Medicinal Alcohol Flask — About half full.
-  - Medicinal Herb Assortment — Small selection of useful dried herbs for basic wound care and poultices.
-  - Mortar and Pestle — Small field-sized set for grinding and preparing herbs.
-  - Sewing Kit
-    - Sewing Needle x6
-    - Spool of Linen Thread x2
-  - Small Iron Frying Pan — Rusty enough to need cleaning.
-  - Tin Cup
-  - Wax-Sealed Tea Brick — Old but dry.
-  - Whetstone
-- Belt Pouch — Small leather pouch.
-- Durable Travel Clothes — Practical hard-wearing clothes suited to extended travel.
-- Iron Dagger — Heavily tarnished but intact.
-- Light Leather Armor — Flexible fitted armor suited to travel and quick movement.
-- Sturdy Travel Boots — Durable boots suited to long-distance travel and rough terrain.
-- Utility Knife — Plain working knife suitable for camp chores and general use.
-- Waterskin (full)
-- Well-Made Dagger — Balanced light dagger with a proper sheath.
+### Personal Effects
+
+- Plain Cloth Dress — Worn but clean enough to remain serviceable.
+- Worn Leather Shoes
+- Small Cloth Bundle
+  - Bone Comb
+  - Handkerchief
+  - Sewing Needle x2
+  - Small Spool of Linen Thread
+- Utility Knife — Cheap household knife retained from her village life.
 
 ## Spellbook
