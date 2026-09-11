@@ -58,13 +58,10 @@ Lachlia is cautious, observant, practical, and quietly stubborn. She rarely chal
 
 ### Personal Effects
 
-- Plain Cloth Dress — Worn but clean enough to remain serviceable.
+- Plain Cloth Dress
 - Worn Leather Shoes
 - Small Cloth Bundle
   - Bone Comb
   - Handkerchief
-  - Sewing Needle x2
-  - Small Spool of Linen Thread
-- Utility Knife — Cheap household knife retained from her village life.
 
 ## Spellbook
