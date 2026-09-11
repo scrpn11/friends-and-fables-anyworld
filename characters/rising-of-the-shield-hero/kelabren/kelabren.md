@@ -65,8 +65,19 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
   - Coil of Rope — 25 ft
   - Flint and Steel
   - Small Flask — Contains a little alcohol.
+  - Wrapped Monster Meat — 4 lb, fresh cuts from the grey-furred wolf-like monster.
+  - Cloth-Wrapped Monster Parts
+    - Monster Fang x4
+    - Monster Claw x8
+    - Jagged Spinal Spike x4
 - Sturdy Boots
 - Utility Knife
 - Waterskin
+- Rolled Grey Monster Hide — Freshly skinned; rolled tightly and secured to the outside of the rucksack.
+
+### Carried by Enara
+
+- Wrapped Monster Meat — 6 lb, fresh cuts from the grey-furred wolf-like monster.
+- Tarnished Silver Ring — Thin silver ring with a chipped stone; belonged to Enara's mother.
 
 ## Spellbook
