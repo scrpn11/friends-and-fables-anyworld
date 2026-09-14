@@ -50,8 +50,6 @@ Enara is timid, observant, and deeply cautious around anyone with power over her
 
 ### Stat Adjustments
 
-- Human: +1 Dexterity, +1 Constitution, +1 Wisdom
-
 ## Skills
 
 ## Inventory
