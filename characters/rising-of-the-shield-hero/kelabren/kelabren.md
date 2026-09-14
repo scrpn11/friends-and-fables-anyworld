@@ -69,6 +69,28 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Utility Knife
 - Waterskin
 
+### Captured Roadside Transport
+
+- Modest supply cart x1.
+- Horse x2.
+
+#### Loaded on Cart — Known, Not Yet Searched
+
+- Sturdy Shortsword x1 — from the lead guard.
+- Leather Belt x1 — from the lead guard.
+  - Small Pouch x3 — contents not yet searched.
+- Rusted Spear x1 — from the second guard.
+- Basic Leather Armor x1 — from the second guard.
+- Utility Knife x1 — from the third guard; similar in size and use to Kelabren's own knife.
+- Small Coin Purse x1 — from the third guard; contents not yet counted.
+- Spear x1 — from the fourth guard.
+- Travel Pack x1 — from the fourth guard; contents not yet searched.
+- Crate x3 — original cart cargo; contents not yet searched.
+- Rolled Canvas Tent x1.
+- Water Barrel x2 — original cart cargo; contents not yet opened or checked.
+- Hemp Restraint Rope — the rope previously binding Sylvienne, retained with the cart after she was unbound.
+- Other ordinary personal effects taken from the four guards — retained with the cart but not yet sorted into specific items.
+
 ### Left with Haldor's Hides & Hewn
 
 - Monster Meat — 10 lb total, paid 2 silver to be salted and cured into travel rations; ready for pickup in three days.
