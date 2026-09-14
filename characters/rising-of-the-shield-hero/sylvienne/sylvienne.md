@@ -35,18 +35,18 @@ Sylvienne is spirited, self-possessed, and difficult to intimidate. Centuries of
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30  
+**Hit Dice:** 1d8  
+**Hit Points:** 10/10  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 9  
+**Dexterity:** 16  
+**Constitution:** 14  
+**Intelligence:** 13  
+**Wisdom:** 15  
+**Charisma:** 12  
 
 ### Stat Adjustments
 
