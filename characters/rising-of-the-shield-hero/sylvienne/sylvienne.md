@@ -58,12 +58,15 @@ Sylvienne is spirited, self-possessed, and difficult to intimidate. Centuries of
 
 ### Weapons
 
+- Quality Yew Recurve Bow x1
 - Utility Knife x1
 
 ### Equipment
 
 - Belt x1
 - Hemp Restraint Rope x1
+- Quiver x1
+  - Steel-Tipped Arrow x20
 - Small Pouch x1
   - Bone Dice x2
   - Spare Bowstring x1
