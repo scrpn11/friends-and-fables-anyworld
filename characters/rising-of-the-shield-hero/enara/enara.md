@@ -56,6 +56,8 @@ Enara is timid, observant, and deeply cautious around anyone with power over her
 
 ## Inventory
 
+- Lunar Attunement Primer x1 — silver-embossed beginner magic tome covering basic illumination, minor healing, and sensory enhancement.
+- Moonstone Focus Crystal x1 — polished moonstone shard used to help stabilize lunar/celestial magic while learning.
 - Small Pouch x1 — empty.
 - Tarnished Silver Ring — Thin silver ring with a chipped stone; belonged to Enara's mother.
 - Travel Pack x1
