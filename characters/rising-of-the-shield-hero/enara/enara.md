@@ -67,9 +67,8 @@ Enara is timid, observant, and deeply cautious around anyone with power over her
 - Utility Knife x1
 - Waterskin x1 — previously carried by Kelabren.
 
-### Temporarily Carried by Kelabren
+### Left with Orric's Jewelry Shop
 
-- Moonstone Focus Crystal x1 — polished moonstone shard used to help stabilize lunar/celestial magic while learning; Kelabren took it while returning to the jeweler.
-- Tarnished Silver Ring x1 — thin silver ring with a chipped stone that belonged to Enara's mother; Kelabren took it while returning to the jeweler.
+- Tarnished Silver Ring x1 + Moonstone Focus Crystal x1 — paid 5 silver for Orric to reinforce the ring's bezel, replace the chipped stone with the moonstone focus, and polish the finished ring. Work pending completion.
 
 ## Spellbook
