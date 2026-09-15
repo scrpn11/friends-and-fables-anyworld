@@ -60,7 +60,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 - Basic Leather Armor x1
 - Belt Pouch
-  - Silver Coin x-1
+  - Silver Coin x100
   - Copper Coin x38
 - Durable Work Clothes x1
 - Hooded Travel Cloak x1
@@ -75,7 +75,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 - Spear x1
 - Sturdy Boots x1
 - Sturdy Shortsword x1
-- Work Gloves x1 x1
+- Work Gloves x1
 - Wool Socks x1
 
 ### Beasts of Burden
