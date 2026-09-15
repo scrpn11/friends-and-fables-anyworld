@@ -69,6 +69,6 @@ Enara is timid, observant, and deeply cautious around anyone with power over her
 
 ### Left with Orric's Jewelry Shop
 
-- Tarnished Silver Ring x1 + Moonstone Focus Crystal x1 — paid 5 silver for Orric to reinforce the ring's bezel, replace the chipped stone with the moonstone focus, and polish the finished ring. Work pending completion.
+- Tarnished Silver Ring (Moonstone Focus Crystal) x1
 
 ## Spellbook
