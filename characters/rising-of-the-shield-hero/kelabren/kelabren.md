@@ -60,7 +60,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 - Basic Leather Armor x1
 - Belt Pouch
-  - Silver Coin x30
+  - Silver Coin x18
   - Copper Coin x48
 - Durable Work Clothes x1
 - Hooded Travel Cloak x1
