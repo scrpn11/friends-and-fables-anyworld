@@ -56,6 +56,14 @@ Sylvienne is spirited, self-possessed, and difficult to intimidate. Centuries of
 
 ### Weapons
 
+- Utility Knife x1 — taken from the roadside guards' gear.
+
 ### Equipment
+
+- Hemp Restraint Rope x1 — the rope previously used to bind Sylvienne.
+- Small Pouch x1 — empty.
+- Whetstone x1.
+- Bone Dice x2.
+- Spare Belt x1.
 
 ## Spellbook
