@@ -60,10 +60,11 @@ Sylvienne is spirited, self-possessed, and difficult to intimidate. Centuries of
 
 ### Equipment
 
-- Hemp Restraint Rope x1 — the rope previously used to bind Sylvienne.
-- Small Pouch x1 — empty.
-- Whetstone x1.
-- Bone Dice x2.
-- Spare Belt x1.
+- Belt x1
+- Hemp Restraint Rope x1
+- Small Pouch x1
+  - Bone Dice x2
+  - Spare Bowstring x1
+  - Whetstone x1
 
 ## Spellbook

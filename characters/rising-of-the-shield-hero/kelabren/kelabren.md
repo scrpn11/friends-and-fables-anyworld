@@ -56,52 +56,59 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ### Equipped
 
-- Basic Leather Armor x1.
-- Durable Work Clothes.
-- Sturdy Boots.
-- Spare Wool Socks x1 pair.
-- Work Gloves x1 pair.
-- Leather Belt x1.
-- Sturdy Shortsword x1.
-- Spear x1.
-- Bedroll — secured to the outside of the rucksack using the rucksack's existing straps/lashing points.
+- Basic Leather Armor x1
 - Belt Pouch
   - Silver Coin x26
   - Copper Coin x38
-- Coil of Rope — 25 ft — secured to the outside of the rucksack using the rucksack's existing straps/lashing points.
-- Hooded Travel Cloak x1.
+- Durable Work Clothes x1
+- Hooded Travel Cloak x1
+- Leather Belt x1
 - Rucksack
-  - Small Flask — contains a little alcohol.
-  - Cheap Tobacco Pouch x1 — contains a small amount of tobacco.
-  - Clay Smoking Pipe x1.
-  - Tinderbox x1.
+  - Bedroll x1 — secured to the outside of the rucksack using the rucksack's existing straps/lashing points.
+  - Cheap Pouch (tobacco) x1
+  - Clay Smoking Pipe x1
+  - Rope (25 ft) — secured to the outside of the rucksack using the rucksack's existing straps/lashing points.
+  - Small Flask (1/4 full alcohol) x1
+  - Tinderbox x1
+- Spear x1
+- Sturdy Boots x1
+- Sturdy Shortsword x1
+- Work Gloves x1 x1
+- Wool Socks x1
 
-### Captured Roadside Transport
+### Beasts of Burden
 
-- Modest supply cart x1.
-- Horse x2.
+- Horse
+  - Tack/Harness.
+- Horse
+  - Tack/Harness.
 
-#### Loaded on Cart
+#### Cart
 
-- Rolled Canvas Tent x1.
 - Water Barrel x2 — both contain ordinary drinking water, approximately half full.
-- Crate x1 — preserved provisions: dried beans 12 lb, coarse flour 15 lb, salt 3 lb; also holds the three leather document tubes listed below.
-- Crate x1 — camp and horse supplies: iron cooking pot x1, wooden bowls x4, wooden spoons x4, horse brush x1, horseshoe x4, horseshoe nails x24.
-- Crate x1 — enforcement supplies: iron manacles x2 sets, spare hemp restraint rope x2 coils (15 ft each), iron chain x1 (10 ft), padlock x2.
-- Leather Document Tube x3
-  - Tube x1 — road map covering the Melromarc Capital region and principal roads toward the border, with several roadside waypoints marked in charcoal.
-  - Tube x1 — prisoner-transfer writ naming Sylvienne as the prisoner and ordering delivery toward the border under armed guard; bears an official-looking administrative seal.
-  - Tube x1 — unsigned payment instructions promising the escort an additional 30 Silver Coin after delivery, with a terse handwritten note that the prisoner is not to return to the capital.
-- Spare Bowstring x1.
-- Iron Key x1.
-- Brass Archive Token x1 — stamped with a crown-and-quill emblem.
-- Horses' tack/harness as currently fitted for the captured cart.
-
-### Set Aside for Enara to Sell
-
-- Rusted Spear x1.
-- Small Pouch x1 — empty.
-- Flint and Steel x1 — previously carried in Kelabren's rucksack.
+- Crate x1
+  - Brass Archive Token x1 — stamped with a crown-and-quill emblem.
+  - Coarse Flour 15 lb
+  - Dried Beans 12 lb
+  - Leather Document Tube x3
+    - Tube x1 — road map covering the Melromarc Capital region and principal roads toward the border, with several roadside waypoints marked in charcoal.
+    - Tube x1 — prisoner-transfer writ naming Sylvienne as the prisoner and ordering delivery toward the border under armed guard; bears an official-looking administrative seal.
+    - Tube x1 — unsigned payment instructions promising the escort an additional 30 Silver Coin after delivery, with a terse handwritten note that the prisoner is not to return to the capital.
+  - Salt 3 lb
+- Crate x1
+  - Horse Brush x1
+  - Horseshoe x4
+  - Horseshoe Nails x24
+  - Iron Cooking Pot x1
+  - Rolled Canvas Tent x1
+  - Wooden Bowl x4
+  - Wooden Spoon x4
+- Crate x1
+  - Hemp Restraint Rope (15ft) x1
+  - Iron Chain (10 ft) x1
+  - Iron Key x1
+  - Iron Manacles Set x2
+  - Padlock x2
 
 ### Left with Haldor's Hides & Hewn
 
