@@ -56,63 +56,52 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ### Equipped
 
+- Basic Leather Armor x1.
+- Durable Work Clothes.
+- Sturdy Boots.
+- Spare Wool Socks x1 pair.
+- Work Gloves x1 pair.
+- Leather Belt x1.
+- Sturdy Shortsword x1.
+- Spear x1.
 - Bedroll — secured to the outside of the rucksack using the rucksack's existing straps/lashing points.
 - Belt Pouch
-  - Silver Coin x9
-  - Copper Coin x13
+  - Silver Coin x26
+  - Copper Coin x38
 - Coil of Rope — 25 ft — secured to the outside of the rucksack using the rucksack's existing straps/lashing points.
-- Durable Work Clothes
+- Hooded Travel Cloak x1.
 - Rucksack
-  - Flint and Steel
-  - Small Flask — Contains a little alcohol.
-- Sturdy Boots
-- Utility Knife
-- Waterskin
+  - Small Flask — contains a little alcohol.
+  - Cheap Tobacco Pouch x1 — contains a small amount of tobacco.
+  - Clay Smoking Pipe x1.
+  - Tinderbox x1.
 
 ### Captured Roadside Transport
 
 - Modest supply cart x1.
 - Horse x2.
 
-#### Loaded on Cart — Searched and Identified
+#### Loaded on Cart
 
-- Sturdy Shortsword x1 — from the lead guard.
-- Leather Belt x1 — from the lead guard.
-- Rusted Spear x1 — from the second guard.
-- Basic Leather Armor x1 — from the second guard.
-- Utility Knife x1 — from the third guard; similar in size and use to Kelabren's own knife.
-- Spear x1 — from the fourth guard.
 - Rolled Canvas Tent x1.
 - Water Barrel x2 — both contain ordinary drinking water, approximately half full.
-- Hemp Restraint Rope x1 — the rope previously binding Sylvienne, retained after she was unbound.
-- Small Pouch x1 — 11 Silver Coin, 7 Copper Coin.
-- Small Pouch x1 — whetstone x1, spare bowstring x1, flint x1.
-- Small Pouch x1 — iron key x1, brass archive-token x1 stamped with a crown-and-quill emblem.
-- Small Coin Purse x1 — 6 Silver Coin, 18 Copper Coin.
-- Travel Pack x1
-  - Dried travel bread x4 portions.
-  - Hard cheese x1 small wheel.
-  - Dried meat x3 portions.
-  - Waterskin x1 — approximately half full.
-  - Spare wool socks x1 pair.
-  - Sewing needle x1 and coarse thread x1 small spool.
-  - Hooded travel cloak x1.
-- Crate x1 — preserved provisions: dried beans 12 lb, coarse flour 15 lb, salt 3 lb.
+- Crate x1 — preserved provisions: dried beans 12 lb, coarse flour 15 lb, salt 3 lb; also holds the three leather document tubes listed below.
 - Crate x1 — camp and horse supplies: iron cooking pot x1, wooden bowls x4, wooden spoons x4, horse brush x1, horseshoe x4, horseshoe nails x24.
 - Crate x1 — enforcement supplies: iron manacles x2 sets, spare hemp restraint rope x2 coils (15 ft each), iron chain x1 (10 ft), padlock x2.
-- Sealed Leather Document Tube x3
+- Leather Document Tube x3
   - Tube x1 — road map covering the Melromarc Capital region and principal roads toward the border, with several roadside waypoints marked in charcoal.
   - Tube x1 — prisoner-transfer writ naming Sylvienne as the prisoner and ordering delivery toward the border under armed guard; bears an official-looking administrative seal.
   - Tube x1 — unsigned payment instructions promising the escort an additional 30 Silver Coin after delivery, with a terse handwritten note that the prisoner is not to return to the capital.
-- Guard Personal Effects
-  - Tinderbox x1.
-  - Whetstone x1.
-  - Bone dice x2.
-  - Wooden comb x1.
-  - Cheap tobacco pouch x1 with a small amount of tobacco.
-  - Clay smoking pipe x1.
-  - Spare belt x1.
-  - Work gloves x1 pair.
+- Spare Bowstring x1.
+- Iron Key x1.
+- Brass Archive Token x1 — stamped with a crown-and-quill emblem.
+- Horses' tack/harness as currently fitted for the captured cart.
+
+### Set Aside for Enara to Sell
+
+- Rusted Spear x1.
+- Small Pouch x1 — empty.
+- Flint and Steel x1 — previously carried in Kelabren's rucksack.
 
 ### Left with Haldor's Hides & Hewn
 
