@@ -65,9 +65,4 @@ Enara is timid, observant, and deeply cautious around anyone with power over her
 - Utility Knife x1
 - Waterskin x1 — previously carried by Kelabren.
 
-### Set aside for Sale
-- Rusted Spear x1.
-- Small Pouch x1 — empty.
-- Flint and Steel x1 — previously carried in Kelabren's rucksack.
-
 ## Spellbook
