@@ -52,6 +52,8 @@ Enara is timid, observant, and deeply cautious around anyone with power over her
 
 ## Skills
 
+- **Magic Affinity — Lunar/Celestial:** Formal crystal assessment produced a brilliant silver-white resonance like moonlight on water, indicating a high affinity for lunar or celestial energies.
+
 ## Inventory
 
 - Small Pouch x1 — empty.

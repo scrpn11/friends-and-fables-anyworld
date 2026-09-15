@@ -52,6 +52,8 @@ Sylvienne is spirited, self-possessed, and difficult to intimidate. Centuries of
 
 ## Skills
 
+- **Magic Affinities — Nature and Light:** Formal crystal assessment produced a complex emerald-and-gold resonance, shifting through nature- and light-associated hues and indicating a multifaceted affinity for both.
+
 ## Inventory
 
 ### Weapons
