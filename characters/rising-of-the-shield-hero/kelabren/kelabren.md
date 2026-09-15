@@ -52,6 +52,8 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ## Skills
 
+- **Magic Affinity — Earth:** Formal crystal assessment produced a deep, steady amber resonance associated with earth and grounded physical resilience.
+
 ## Inventory
 
 ### Equipped
