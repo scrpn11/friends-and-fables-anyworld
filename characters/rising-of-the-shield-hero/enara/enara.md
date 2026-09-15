@@ -57,6 +57,7 @@ Enara is timid, observant, and deeply cautious around anyone with power over her
 ## Inventory
 
 - Lunar Attunement Primer x1 — silver-embossed beginner magic tome covering basic illumination, minor healing, and sensory enhancement.
+- Moonstone Focus Ring x1 — Enara's mother's silver ring, restored and polished by Orric with a reinforced bezel replacing its chipped original stone with Enara's moonstone focus crystal; retains the moonstone's purpose as a focus for stabilizing lunar/celestial magic while learning.
 - Small Pouch x1 — empty.
 - Travel Pack x1
   - Dried travel bread x4 portions.
@@ -66,9 +67,5 @@ Enara is timid, observant, and deeply cautious around anyone with power over her
   - Wooden Comb x1.
 - Utility Knife x1
 - Waterskin x1 — previously carried by Kelabren.
-
-### Left with Orric's Jewelry Shop
-
-- Tarnished Silver Ring x1 + Moonstone Focus Crystal x1 — paid 5 silver for Orric to reinforce the ring's bezel, replace the chipped stone with the moonstone focus, and polish the finished ring. Work pending completion.
 
 ## Spellbook
