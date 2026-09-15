@@ -56,8 +56,18 @@ Enara is timid, observant, and deeply cautious around anyone with power over her
 
 ### Weapons
 
+- Utility Knife x1 — previously carried by Kelabren.
+
 ### Equipment
 
 - Tarnished Silver Ring — Thin silver ring with a chipped stone; belonged to Enara's mother.
+- Small Pouch x1 — empty.
+- Waterskin x1 — previously carried by Kelabren.
+- Wooden Comb x1.
+- Travel Pack x1
+  - Dried travel bread x4 portions.
+  - Hard cheese x1 small wheel.
+  - Dried meat x3 portions.
+  - Sewing needle x1 and coarse thread x1 small spool.
 
 ## Spellbook
