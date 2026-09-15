@@ -58,7 +58,7 @@ Sylvienne is spirited, self-possessed, and difficult to intimidate. Centuries of
 
 ### Weapons
 
-- Utility Knife x1 — taken from the roadside guards' gear.
+- Utility Knife x1
 
 ### Equipment
 
