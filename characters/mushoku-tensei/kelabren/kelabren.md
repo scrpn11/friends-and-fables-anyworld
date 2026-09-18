@@ -35,18 +35,18 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 1  
+**Speed:** 30  
+**Hit Dice:** 1  
+**Hit Points:** 12/12  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 15  
+**Dexterity:** 14  
+**Constitution:** 13  
+**Intelligence:** 8  
+**Wisdom:** 10  
+**Charisma:** 12  
 
 ### Stat Adjustments
 
