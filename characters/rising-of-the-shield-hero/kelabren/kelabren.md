@@ -23,7 +23,7 @@ Kelabren is a 5-foot-8 human man with an average, practical build shaped by year
 
 ### Backstory
 
-Kelabren was born in a fishing settlement under Melromarc's rule, the son of independent fishers who worked the coast and nearby rivers. His parents taught him boats, nets, knots, weather, bargaining, and the instincts needed to bring people home safely. His younger sister followed him everywhere and trusted his judgment completely. During a violent storm compounded by a monster outbreak, Kelabren took responsibility for guiding all three of them toward shelter. He chose a faster route through flooded lowland rather than risk the longer road, but the crossing failed. His parents and sister died while he survived. Since then he has buried guilt beneath drink, flirting, jokes, and a reputation for unreliability. He continues fishing for a living and occasionally accepts modest adventuring work when coin is short, particularly simple escort, gathering, hunting, or monster-clearing jobs. At the campaign's opening, Kelabren is an ordinary independent fisherman with modest means. He has not yet discovered the unusual slave-crest magic dormant within him and has no slave-marked companions.
+Kelabren was born in a fishing settlement under Melromarc's rule, the son of independent fishers who worked the coast and nearby rivers. His parents taught him boats, nets, knots, weather, bargaining, and the instincts needed to bring people home safely. His younger sister followed him everywhere and trusted his judgment completely. During a violent storm compounded by a monster outbreak, Kelabren took responsibility for guiding all three of them toward shelter. He chose a faster route through flooded lowland rather than risk the longer road, but the crossing failed. His parents and sister died while he survived. Since then he has buried guilt beneath drink, flirting, jokes, and a reputation for unreliability. He continues fishing for a living and occasionally accepts modest adventuring work when coin is short, particularly simple escort, gathering, hunting, or monster-clearing jobs. At the campaign's opening, Kelabren is an ordinary independent fisherman with modest means. He has not yet discovered the unusual sin-symbol magic dormant within him and has no sin-marked companions.
 
 ### Mannerisms
 
@@ -53,6 +53,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 ## Skills
 
 - **Magic Affinity — Earth:** Formal crystal assessment produced a deep, steady amber resonance associated with earth and grounded physical resilience.
+- **Sin-Symbol Magic:** Kelabren can place magical Seven Deadly Sins symbols as permanent tattoos on chosen people. He can maintain no more than seven active sin marks at a time, one for each sin. The marks strengthen their bearers and establish a magical bond with Kelabren.
 
 ## Inventory
 
