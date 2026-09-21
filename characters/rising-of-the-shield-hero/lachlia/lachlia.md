@@ -50,18 +50,10 @@ Lachlia is cautious, observant, practical, and quietly stubborn. She rarely chal
 
 ### Stat Adjustments
 
-**Human:** +1 Dexterity, +1 Constitution, +1 Wisdom
-
 ## Skills
 
 ## Inventory
 
 ### Personal Effects
-
-- Plain Cloth Dress
-- Worn Leather Shoes
-- Small Cloth Bundle
-  - Bone Comb
-  - Handkerchief
 
 ## Spellbook
