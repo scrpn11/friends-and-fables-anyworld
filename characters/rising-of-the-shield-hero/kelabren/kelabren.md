@@ -52,8 +52,7 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 ## Skills
 
-- **Magic Affinity — Earth:** Formal crystal assessment produced a deep, steady amber resonance associated with earth and grounded physical resilience.
-- **Sin-Symbol Magic:** Kelabren can place magical Seven Deadly Sins symbols as permanent tattoos on chosen people. He can maintain no more than seven active sin marks at a time, one for each sin. The marks strengthen their bearers and establish a magical bond with Kelabren.
+- **Sin Magic:** Kelabren can place magical sin symbols as permanent tattoos on chosen people. He can maintain no more than seven active sin marks at a time, one for each sin. The marks strengthen their bearers and establish a magical bond with Kelabren.
 
 ## Inventory
 
@@ -61,61 +60,17 @@ Kelabren is charming, flirtatious, reckless, and difficult to embarrass. He turn
 
 - Basic Leather Armor x1
 - Belt Pouch
-  - Gold Coin x5
-  - Silver Coin x269
+  - Silver Coin x26
   - Copper Coin x48
-- Durable Work Clothes x1
 - Hooded Travel Cloak x1
 - Leather Belt x1
 - Rucksack
   - Bedroll x1 — secured to the outside of the rucksack using the rucksack's existing straps/lashing points.
   - Cheap Pouch (tobacco) x1
-  - Clay Smoking Pipe x1
-  - Rope (25 ft) — secured to the outside of the rucksack using the rucksack's existing straps/lashing points.
+  - Hand-rolled cigarettes x11
   - Small Flask (1/4 full alcohol) x1
   - Tinderbox x1
-- Spear x1
+- Chokuto x2
 - Sturdy Boots x1
-- Sturdy Shortsword x1
-- Work Gloves x1
-- Wool Socks x1
-
-### Beasts of Burden
-
-- Horse
-  - Tack/Harness.
-- Horse
-  - Tack/Harness.
-
-#### Cart
-
-- Water Barrel x2 — both contain ordinary drinking water, approximately half full.
-- Crate x1
-  - Brass Archive Token x1 — stamped with a crown-and-quill emblem.
-  - Coarse Flour 15 lb
-  - Dried Beans 12 lb
-  - Leather Document Tube x3
-    - Tube x1 — road map covering the Melromarc Capital region and principal roads toward the border, with several roadside waypoints marked in charcoal.
-    - Tube x1 — prisoner-transfer writ naming Sylvienne as the prisoner and ordering delivery toward the border under armed guard; bears an official-looking administrative seal.
-    - Tube x1 — unsigned payment instructions promising the escort an additional 30 Silver Coin after delivery, with a terse handwritten note that the prisoner is not to return to the capital.
-  - Salt 3 lb
-- Crate x1
-  - Horse Brush x1
-  - Horseshoe x4
-  - Horseshoe Nails x24
-  - Iron Cooking Pot x1
-  - Rolled Canvas Tent x1
-  - Wooden Bowl x4
-  - Wooden Spoon x4
-- Crate x1
-  - Hemp Restraint Rope (15ft) x1
-  - Iron Chain (10 ft) x1
-  - Iron Key x1
-  - Iron Manacles Set x2
-  - Padlock x2
-
-### Left with Haldor's Hides & Hewn
-
-- Monster Meat — 10 lb total, paid 2 silver to be salted and cured into travel rations; ready for pickup in three days.
 
 ## Spellbook
