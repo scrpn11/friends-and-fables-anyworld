@@ -42,10 +42,10 @@ Lachlia is cautious, observant, practical, and quietly stubborn. She avoids chal
 **Experience:** 0  
 
 **Strength:** 8  
-**Dexterity:** 16  
-**Constitution:** 14  
+**Dexterity:** 15  
+**Constitution:** 13  
 **Intelligence:** 10  
-**Wisdom:** 15  
+**Wisdom:** 14  
 **Charisma:** 12  
 
 ### Stat Adjustments
