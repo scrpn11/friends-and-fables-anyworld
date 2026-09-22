@@ -35,18 +35,18 @@ Minerva is compassionate, emotional, impulsive, and deeply sincere. She hates co
 
 ## Stats
 
-**Level:**  
-**Speed:**  
-**Hit Dice:**  
-**Hit Points:**  
-**Experience:**  
+**Level:** 20  
+**Speed:** 30  
+**Hit Dice:** 20d8  
+**Hit Points:** 150  
+**Experience:** 0  
 
-**Strength:**  
-**Dexterity:**  
-**Constitution:**  
-**Intelligence:**  
-**Wisdom:**  
-**Charisma:**  
+**Strength:** 14  
+**Dexterity:** 16  
+**Constitution:** 18  
+**Intelligence:** 12  
+**Wisdom:** 18  
+**Charisma:** 16  
 
 ### Stat Adjustments
 
